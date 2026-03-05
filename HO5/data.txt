@@ -1,0 +1,1417 @@
+label	col_00	col_01	col_02	col_03	col_04	col_05	col_06	col_07	col_08	col_09	col_10	col_11
+3	351 m^2	1.0401	PIG	Reilly	0.3077	0.5175 mph	0.9236	0.2486	465	bIOENGINEERING	495	186
+2	-16 m^2	1.2224	reptile	Andrew	1.2552	-0.0263 mph	0.1537	-0.1274	1030	Bioinformatics	1093	914
+2	320 m^2	0.9487	ferret	Andrew	0.3266	-0.097 mph	0.7045	0.0405	1129	Biotechnology	899	465
+2	186 m^2	0.9534	bird	Andrew	0.6366	0.3549 mph	0.4674	0.3692	938	Biotechnology	1043	703
+2	400 m^2	0.7938	reptile	Andrew	0.546	-0.0755 mph	0.3523	0.2016	1078	Biotechnology	688	1258
+1	823 m^2	0.1157	fish	Chris	0.2658	0.9489 mph	0.5802	0.752	-124	Computational Media	533	?
+3	655 m^2	0.8399	pig	Reilly	0.3789	0.5621 mph	0.5916	N/A	-22	Games and Playable Media	551	234
+2	-60 m^2	0.6749	dog	Andrew	0.3954	-0.0377 mph	-0.0116	0.3634	685	Biotechnology	723	715
+3	847 m^2	0.7126	pig	Eriq	0.3795	0.8605 mph	0.7076	0.4085	33	Robotics Engineering	217	68
+1	493 m^2	0.1011	?	Michael, Sam, Fabrice	0.0031	0.7968 mph	0.885	0.4731	294	Applied Mathematics	362	859
+3	760 m^2	0.3462	pig	Eriq	0.4972	1.0177 mph	0.8	0.5755	528	natural language processing	428	-2
+1	1073 m^2	0.1881	guinea pig	Tony, Inan	0.1362	0.7711 mph	0.9237	1.2684	342	aPPLIED mATHEMATICS	85	721
+1	756 m^2	0.2159	guinea pig	Fabrice, Lise, Chris, Sam	0.1595	0.9657 mph	0.8641	0.8789	472	Technology and Information Management	-254	613
+0	114 m^2	-0.0795	rat	Tony	0.7245	0.3769 mph	0.0555	0.5685	923	Computer Game Design	913	819
+0	433 m^2	0.4449	rat	Tony, Inan	n/a	0.3194 mph	-0.1946	0.9107	999	Computer Game Design	1068	462
+0	538 m^2	0.3091	rabbit	vANI	0.6684	0.3408 mph	0.0119	1.233	566	Computer Game Design	768	230
+1	522 m^2	0.2508	fish	Fabrice	0.4484	0.8051 mph	0.9639	0.7471	274	Technology and Information Management	58	1418
+2	175 m^2	0.8167	dog	Andrew	0.904	-0.0526 mph	0.1714	0.4613	712	Electrical Engineering	364	935
+1	731 m^2	0.2311	chicken	Lise	-0.3282	0.5301 mph	0.5746	1.1031	305	Data Science	-225	1001
+1	526 m^2	0.4422	fish	Chris	-0.0172	0.8624 mph	0.8482	0.6139	704	cOMPUTER sCIENCE	472	969
+0	475 m^2	0.6136	HAMSTER	Inan, Vani	0.9013	0.4828 mph	0.1774	0.9972	1124	Computer Game Design	995	412
+0	491 m^2	0.5861	rabbit	Inan, Vani	0.6519	0.0642 mph	0.0408	0.6494	863	Computer Game Design	852	231
+0	522 m^2	1.0017	rabbit	Inan, Vani	1.1377	0.5083 mph	0.201	0.3774	880	Computer Game Design	1144	476
+2	191 m^2	0.7956	ferret	Andrew	0.344	-0.149 mph	0.3572	0.0387	1097	Biotechnology	743	1054
+2	-75 m^2	0.6312	ferret	Andrew	0.8517	0.0102 mph	0.5865	0.3071	694	Biotechnology	364	429
+3	820 m^2	0.8314	pig	REILLY	0.356	0.8199 mph	0.6232	0.2238	160	Human Computer Interaction	135	-349
+1	704 m^2	-0.1894	dog	Andrew	0.4119	0.7178 mph	0.7886	0.9002	392	Bioinformatics	85	1030
+1	783 m^2	0.1731	guinea pig	Lise, Chris	0.2155	0.7833 mph	0.9558	1.05	643	Technology and Information Management	395	257
+0	214 m^2	0.6031	rabbit	Tony, Vani	0.6231	0.7266 mph	-0.3009	0.6873	606	Computer Game Design	691	3
+0	485 m^2	0.6815	hamster	Tony	1.063	0.2738 mph	0.2481	0.6649	581	Computer Game Design	1358	501
+3	855 m^2	0.3981	pig	Reilly	0.1126	0.5802 mph	0.6666	-0.0563	109	Bioengineering	22	-36
+2	162 m^2	1.0496	bird	Andrew	0.6714	0.0828 mph	1.0015	0.3055	1079	Bioinformatics	712	694
+2	225 m^2	0.5448	reptile	Andrew	0.9071	-0.0329 mph	0.0904	0.2295	655	Electrical Engineering	727	583
+0	381 m^2	0.2442	cat	Tony, Vani	0.9588	0.6344 mph	-0.2156	0.5197	523	Computer Game Design	1202	295
+3	840 m^2	0.6382	pig	Eriq	0.6698	0.4829 mph	0.7734	0.4365	78	robotics engineering	173	342
+1	628 m^2	-0.2184	guinea pig	Lise	-0.1309	0.4726 mph	0.7115	0.9718	334	Technology and Information Management	76	1121
+1	890 m^2	0.1729	fish	Chris, Michael	0.0122	0.6079 mph	0.3327	1.1771	-31	Statistics	388	1318
+2	-130 m^2	0.8078	bird	Andrew	1.3725	0.2448 mph	-0.0524	0.1751	745	Electrical Engineering	387	576
+3	818 m^2	1.0456	pig	Reilly	0.2467	0.4585 mph	0.9627	0.2095	256	Human Computer Interaction	326	40
+1	992 m^2	0.1913	GUINEA PIG	Chris, Sam, Lise, Michael	0.2008	1.1706 mph	0.7729	0.4836	206	Technology and Information Management	4	751
+2	-123 m^2	0.8645	bird	Andrew	0.2987	0.0007 mph	0.3219	0.0014	722	Natural Language Processing	456	683
+1	679 m^2	0.0601	CHICKEN	Fabrice	0.2613	0.5921 mph	0.9134	0.6521	116	Statistics	-126	953
+1	725 m^2	0.001	chicken	Chris, Michael, Fabrice, Sam	0.2372	0.8056 mph	0.8463	0.4234	360	Computer Science	-243	773
+3	876 m^2	0.6222	pig	Eriq	-0.1098	0.5605 mph	0.6844	0.1752	217	Games and Playable Media	630	-46
+1	609 m^2	0.1657	guinea pig	Michael, Lise	-0.3071	0.6874 mph	0.7577	0.7148	510	Applied Mathematics	199	953
+1	776 m^2	N/A	guinea pig	Fabrice, Michael, Sam	0.2366	0.9816 mph	0.6504	0.6381	191	COMPUTER SCIENCE	245	969
+2	185 m^2	1.1419	reptile	Andrew	0.9885	-0.0397 mph	0.4673	0.0268	339	Biotechnology	558	1029
+3	907 m^2	0.4716	pig	Reilly	0.2426	0.8036 mph	0.701	0.212	108	Bioengineering	364	-128
+3	633 m^2	0.4406	pig	Reilly	0.2725	0.3022 mph	0.5611	0.5283	65	Human Computer Interaction	362	126
+3	596 m^2	0.6529	pig	Reilly	0.2677	0.6601 mph	0.8362	-0.0512	360	Bioengineering	-158	53
+2	288 m^2	0.7811	pig	Andrew	0.2972	-0.0201 mph	0.3734	0.4043	939	Natural Language Processing	489	562
+0	345 m^2	0.7769	rabbit	Vani, Tony	NULL	0.6117 mph	-0.0754	1.1104	1052	Computer Game Design	869	83
+3	1194 m^2	0.4336	pig	Reilly	0.0989	0.7777 mph	0.5737	0.528	-98	Computer Engineering	109	134
+3	632 m^2	0.655	pig	Eriq	0.6174	0.7179 mph	0.8678	0.5848	205	robotics engineering	335	-25
+1	647 m^2	0.4229	guinea pig	Sam, Fabrice, Lise	-0.2732	0.4489 mph	0.9516	0.7564	587	Statistics	307	753
+2	146 m^2	0.8458	dog	Andrew	0.5939	0.3216 mph	0.5264	0.1268	777	Natural Language Processing	651	1069
+0	326 m^2	0.4106	cat	Vani	n/a	0.3087 mph	0.5174	0.312	416	Computer Game Design	1071	639
+1	202 m^2	0.3747	FISH	michael, lise, fabrice, chris	-0.0243	0.9535 mph	0.5577	0.5541	484	Technology and Information Management	-227	917
+1	741 m^2	0.1042	fish	Sam, Chris	-0.0294	0.9814 mph	1.1478	1.3238	434	Computer Science	-281	241
+0	316 m^2	0.2705	cat	Vani	1.0647	0.4036 mph	-0.1092	0.6957	590	Computer Game Design	648	304
+0	504 m^2	0.7973	rat	Inan	0.7463	0.1986 mph	0.1413	0.899	205	cOMPUTER gAME dESIGN	1025	-259
+2	195 m^2	0.9092	reptile	Andrew	0.9962	0.2935 mph	0.4408	0.0761	868	Electrical Engineering	626	95
+1	866 m^2	?	fish	Sam, Lise	0.1369	0.5275 mph	0.7819	0.7413	460	Technology and Information Management	550	534
+3	945 m^2	0.5322	pig	Reilly	-0.1769	0.6358 mph	0.6799	0.1823	-73	Computer Engineering	453	-417
+1	879 m^2	0.2129	guinea pig	Sam, Chris, Lise, Michael	-0.0741	0.8285 mph	1.0183	0.5919	-247	Technology and Information Management	209	862
+0	401 m^2	0.4256	hamster	Vani, Inan	0.8502	0.5182 mph	-0.0613	0.4996	881	Computer Game Design	1307	204
+2	24 m^2	0.6168	cat	Andrew	0.3982	0.2061 mph	0.1447	0.2906	696	Biotechnology	251	347
+3	742 m^2	n/a	pig	Reilly	0.4249	0.5179 mph	0.8649	0.2166	315	Human Computer Interaction	626	-220
+3	1067 m^2	0.6044	pig	Eriq	0.0729	0.7117 mph	0.9352	0.6549	503	Bioengineering	228	437
+3	519 m^2	0.3303	pig	Eriq	0.2723	0.8867 mph	0.9516	0.2678	551	Robotics Engineering	181	246
+2	194 m^2	0.5024	dog	Andrew	-0.0194	0.3541 mph	0.5665	-0.4574	758	Bioinformatics	185	1019
+3	963 m^2	0.8336	PIG	Reilly	-0.0169	0.8224 mph	0.5676	0.0738	-266	Computer Engineering	-146	313
+0	358 m^2	0.6366	hamster	Tony, Vani	1.0077	None	-0.1538	0.5512	489	computer game design	1037	510
+1	669 m^2	0.0299	fish	Chris, Sam	0.0027	0.827 mph	1.2335	0.4005	671	Technology and Information Management	115	1002
+3	703 m^2	0.6289	pig	Eriq	0.0774	0.4931 mph	0.8743	0.0356	527	Human Computer Interaction	-185	211
+0	539 m^2	0.666	hamster	Inan, Tony	0.9142	0.8253 mph	0.0919	NULL	599	Computer Game Design	991	575
+1	664 m^2	0.4393	fish	Lise, Chris	0.0347	0.8079 mph	0.783	0.8958	541	Human Computer Interaction	-104	963
+0	29 m^2	0.5428	rabbit	Tony, Inan	0.7905	0.4075 mph	0.1937	N/A	771	Computer Game Design	987	259
+1	902 m^2	0.0063	CHICKEN	Sam, Lise	0.0935	0.6287 mph	0.6067	0.9432	425	Statistics	216	757
+3	777 m^2	0.522	pig	Reilly	0.4242	0.2129 mph	0.7522	0.2346	351	Bioengineering	480	-105
+0	437 m^2	0.7774	rabbit	Vani, Inan	0.5941	0.4124 mph	0.0206	0.6576	760	Computer Game Design	1086	461
+3	1133 m^2	0.4522	pig	Reilly	0.6836	0.6494 mph	0.8886	-0.0331	-374	Games and Playable Media	411	169
+3	560 m^2	0.4789	pig	Reilly	0.2882	0.5936 mph	0.6614	0.6141	374	Bioengineering	465	-2
+1	845 m^2	-0.0823	chicken	Sam, Michael, Fabrice	-0.2632	0.7614 mph	1.1116	1.1138	384	Applied Mathematics	-417	1025
+1	631 m^2	-0.0421	fish	Michael	-0.0544	0.7701 mph	1.0012	0.652	527	Statistics	-101	1244
+1	890 m^2	0.0965	guinea pig	Lise	-0.1355	0.7972 mph	0.349	0.9903	548	Statistics	85	1203
+1	859 m^2	0.0966	chicken	Chris, Lise, Michael, Fabrice	-0.2377	0.9942 mph	0.6298	0.5708	414	Data Science	-39	627
+2	177 m^2	0.6558	dog	Andrew	0.591	0.1469 mph	0.7352	0.0	844	Biotechnology	340	737
+3	717 m^2	0.4212	pig	eRIQ	0.0225	0.5603 mph	1.2886	0.1231	186	Computer Engineering	219	125
+3	669 m^2	0.5546	PIG	Reilly	0.2872	0.5738 mph	0.478	0.1367	288	Human Computer Interaction	504	-229
+3	816 m^2	0.883	hamster	Reilly	0.3528	0.746 mph	1.0285	0.6533	467	Robotics Engineering	231	407
+2	-98 m^2	0.9443	reptile	Andrew	0.9257	-0.201 mph	0.5969	0.1155	726	Biotechnology	776	897
+0	n/a	0.63	cat	Tony	1.1328	0.4093 mph	0.5169	1.0606	91	cOMPUTER gAME dESIGN	1105	401
+0	369 m^2	0.4263	rabbit	Inan, Tony	0.8865	0.4304 mph	0.2425	0.564	263	Computer Game Design	937	149
+0	166 m^2	0.392	rabbit	Vani	0.6242	0.0879 mph	0.2375	0.5529	478	Computer Game Design	947	364
+0	291 m^2	0.2599	cat	Tony	0.7475	0.4502 mph	0.2189	0.5351	759	Computer Game Design	1168	-42
+0	350 m^2	0.3636	rabbit	Tony, Inan	0.7315	0.2112 mph	-0.4121	0.5838	1199	Computer Game Design	1645	270
+0	245 m^2	0.4488	rat	Inan, Tony	0.6781	0.4387 mph	0.0957	0.6208	839	Computer Game Design	918	725
+3	833 m^2	0.8359	pig	Reilly	-0.0302	0.795 mph	0.5589	0.3049	203	Computer Engineering	535	192
+2	318 m^2	0.8399	bird	Andrew	0.3776	0.0861 mph	0.6546	0.0821	1026	Biotechnology	732	544
+0	426 m^2	0.1356	rabbit	Vani	1.0825	0.5283 mph	-0.1544	0.41	689	Computer Game Design	1002	350
+0	162 m^2	0.4088	rat	Vani, Inan	0.741	0.1621 mph	0.0121	0.9031	585	Computer Game Design	918	878
+2	N/A	0.8603	bird	Andrew	0.8171	0.1837 mph	0.5502	0.0322	443	Natural Language Processing	700	333
+2	425 m^2	0.988	bird	Andrew	0.7513	-0.0551 mph	0.1228	0.5106	574	BIOINFORMATICS	430	389
+1	940 m^2	0.2812	guinea pig	Sam	0.1274	0.7113 mph	0.5334	0.8098	319	Applied Mathematics	-79	n/a
+1	760 m^2	-0.0737	rat	Lise, Chris	0.0859	0.6498 mph	0.8275	1.025	455	Applied Mathematics	341	919
+1	766 m^2	0.1144	fish	Michael, Sam, Fabrice	0.2213	1.1729 mph	0.5387	1.3544	279	Technology and Information Management	-205	981
+1	897 m^2	0.4916	chicken	Chris, Michael	0.1564	0.8137 mph	0.7081	0.3889	305	Statistics	-70	718
+3	923 m^2	0.5928	PIG	Eriq	0.162	0.7592 mph	1.0003	-0.1342	25	Computer Engineering	562	62
+2	6 m^2	0.5894	BIRD	Andrew	0.7296	0.1495 mph	0.7937	0.1096	981	Bioinformatics	736	408
+3	998 m^2	0.8925	pig	Reilly	0.6253	0.9338 mph	0.8644	0.5884	-110	Bioengineering	56	38
+3	868 m^2	0.4824	pig	Eriq	0.017	1.0129 mph	0.6656	0.3857	438	Games and Playable Media	112	359
+1	522 m^2	0.1919	fish	Chris, Fabrice, Michael, Sam	-0.2024	0.8064 mph	0.6532	0.4867	397	Computational Media	264	405
+0	555 m^2	0.5455	rat	Tony, Vani	0.8242	0.1996 mph	-0.2299	0.5093	814	Computer Game Design	533	533
+2	205 m^2	0.6079	dog	Andrew	0.578	0.1968 mph	0.2965	-0.3402	1011	Electrical Engineering	545	762
+2	89 m^2	0.8031	dog	Andrew	0.6913	0.0691 mph	0.4721	-0.203	897	Biotechnology	622	769
+3	871 m^2	0.9334	reptile	Eriq	0.1566	0.7314 mph	0.8013	0.2294	203	Robotics Engineering	189	103
+2	121 m^2	0.3021	dog	Andrew	0.0708	0.2694 mph	0.7273	-0.1277	835	Bioinformatics	614	431
+0	148 m^2	0.6553	dog	Tony, Vani	0.5708	0.1265 mph	-0.0408	0.653	141	Computer Game Design	779	492
+3	951 m^2	0.6037	pig	Reilly	0.2203	0.699 mph	0.6916	0.511	104	Computer Engineering	340	245
+0	226 m^2	0.7341	cat	Tony	0.4402	0.4115 mph	-0.0183	0.6588	623	Computer Game Design	1487	-126
+1	846 m^2	0.092	chicken	Michael, Sam, Fabrice, Lise	0.0447	0.6612 mph	0.6326	0.3167	362	n/a	550	966
+2	300 m^2	0.6578	ferret	Andrew	0.7413	0.2634 mph	0.7767	0.2953	1021	Data Science	646	n/a
+3	1139 m^2	0.5489	pig	Eriq	0.291	0.6086 mph	0.6373	-0.0634	45	Human Computer Interaction	802	-30
+3	1149 m^2	n/a	pig	Reilly	0.2479	0.5982 mph	0.6636	N/A	106	Robotics Engineering	301	204
+2	45 m^2	0.8151	reptile	Andrew	0.7405	0.1034 mph	0.4827	-0.333	617	Natural Language Processing	659	694
+3	903 m^2	0.6375	pig	Andrew	0.1375	0.4407 mph	0.6308	0.1049	442	Games and Playable Media	80	209
+0	452 m^2	0.4055	cat	Vani, Tony	0.8309	0.3369 mph	0.137	0.9962	455	Computer Game Design	1078	336
+1	1008 m^2	-0.124	GUINEA PIG	Michael, Lise	-0.4139	0.6489 mph	0.8995	0.6697	389	NULL	144	1051
+0	247 m^2	0.5993	cat	Inan, Vani	0.8626	0.0768 mph	-0.315	0.7514	1145	Computer Game Design	1008	361
+1	811 m^2	0.3154	chicken	Chris, Fabrice, Michael	0.1796	0.9513 mph	0.8221	0.6621	515	Applied Mathematics	-104	1082
+2	174 m^2	1.0715	bird	Andrew	0.9683	0.0869 mph	0.4594	0.288	948	Electrical Engineering	534	911
+1	687 m^2	-0.0572	fish	Lise, Chris	0.1828	0.9811 mph	1.2618	0.9783	None	Computational Media	62	818
+0	97 m^2	0.6247	rat	Inan, Tony	0.6758	-0.028 mph	0.0839	0.3995	329	Computer Game Design	N/A	809
+3	1016 m^2	0.8192	pig	Reilly	0.3519	0.3477 mph	0.8717	-0.1148	-185	Games and Playable Media	455	?
+2	346 m^2	0.6399	REPTILE	Chris, Lise, Fabrice	0.6176	-0.1769 mph	0.2827	0.1755	761	Applied Mathematics	246	1272
+1	725 m^2	-0.1783	rat	Sam, Michael, Lise	0.2205	0.6997 mph	0.7033	0.6163	198	Technology and Information Management	191	828
+1	772 m^2	0.3715	fish	Fabrice, Chris, Lise	-0.1471	0.8343 mph	0.5244	1.0014	608	Statistics	-152	866
+0	172 m^2	0.4797	rabbit	Vani, Tony	0.7446	0.1366 mph	0.0299	0.829	562	Computer Game Design	968	911
+0	379 m^2	0.7468	fish	Tony, Inan	0.6924	0.4197 mph	0.4879	0.6658	842	Computer Game Design	1223	710
+2	472 m^2	1.062	reptile	Andrew	0.9356	0.015 mph	0.3333	0.0567	996	Electrical Engineering	728	171
+3	NULL	0.4922	PIG	Chris, Lise, Michael, Fabrice	0.2822	0.6901 mph	1.0369	0.4189	602	Games and Playable Media	111	337
+3	832 m^2	0.7763	pig	Reilly	0.3669	1.1026 mph	0.559	0.4026	-282	Human Computer Interaction	656	39
+0	580 m^2	0.2729	cat	Inan	0.2845	0.496 mph	-0.1744	0.7095	829	Computer Game Design	1322	452
+1	751 m^2	0.3506	guinea pig	Fabrice, Chris	-0.099	0.8304 mph	0.5067	0.8339	645	Applied Mathematics	215	1336
+1	882 m^2	0.1906	chicken	Lise, Michael, Chris, Fabrice	0.2551	0.9623 mph	0.9259	1.1868	770	Statistics	388	997
+2	367 m^2	0.62	reptile	Andrew	1.3214	-0.1575 mph	0.3906	0.0069	136	Bioinformatics	757	400
+0	419 m^2	0.3465	N/A	Vani	0.7207	0.3082 mph	-0.025	0.5886	161	Computer Game Design	1238	662
+0	579 m^2	0.4835	rat	Inan, Vani	1.2046	0.5426 mph	-0.2292	0.5336	916	Computer Game Design	1168	342
+0	258 m^2	0.3391	cat	Vani, Tony	0.9132	0.2301 mph	0.1034		613	Computer Game Design	742	610
+0	211 m^2	0.833	rat	Tony	1.0172	0.275 mph	-0.0017	0.5211	481	Computer Game Design	1156	793
+0	360 m^2	0.5911	hamster	Tony, Inan	0.9895	0.4753 mph	0.2137	0.9113	309	Computer Game Design	941	122
+2	109 m^2	0.8521	ferret	Andrew	0.8548	-0.1041 mph	0.3784	0.3424	790	Biotechnology	627	490
+3	536 m^2	0.8145	pig	Reilly	0.1367	0.7962 mph	0.5425	0.4348	-50	Games and Playable Media	507	-158
+3	769 m^2	0.4717	pig	Reilly	0.3396	0.6253 mph	0.8633	0.4283	-157	Data Science	230	-235
+2	-144 m^2	0.8616	bird	Andrew	0.7211	-0.0153 mph	0.3719	0.1497	609	Bioinformatics	501	383
+1	635 m^2	0.3433	chicken	Chris, Fabrice, Michael	0.0045	0.8108 mph	0.5252	0.5808	389	Computer Science	41	886
+1	414 m^2	0.1218	fish	Michael	-0.0321	0.9081 mph	1.2298	0.443	824	Statistics	249	892
+2	296 m^2	0.9885	dog	Andrew	0.6837	0.2454 mph	0.8643	0.3112	736	Biotechnology	351	980
+0	-122 m^2	0.5333	rabbit	Inan	0.8561	0.6086 mph	0.2661	0.8873	349	Computer Game Design	913	363
+2	-217 m^2	1.0111	BIRD	Andrew	0.5314	0.3355 mph	0.61	0.2147	930	Natural Language Processing	87	727
+2	364 m^2	1.2016	dog	Andrew	0.3851	-0.0932 mph	0.5031	0.2056	604	Electrical Engineering	387	970
+2	14 m^2	0.819	ferret	Andrew	0.4925	0.1488 mph	0.6266	0.0299	830	Electrical Engineering	735	885
+2	175 m^2	0.8469	bird	Andrew	0.2726	0.191 mph	0.4857	0.0806	1051	Bioinformatics	613	873
+0	195 m^2	0.4346	rabbit	Tony, Vani	0.6749	0.4075 mph	-0.189	0.4639	833	Computer Game Design	901	729
+1	792 m^2	0.3423	guinea pig	Chris, Michael, Sam	-0.2026	0.7904 mph	0.8074	0.9385	528	Technology and Information Management	-319	1252
+3	703 m^2	0.3595	pig	Eriq	0.4991	0.5237 mph	0.8299	0.283	388	Robotics Engineering	400	26
+0	210 m^2	0.0494	rat	Vani, Tony	0.97	0.4332 mph	-0.1051	1.1612	473	Computer Game Design	988	695
+2	341 m^2	0.7782	dog	Andrew	0.6555	0.2269 mph	0.3724	0.6121	1098	Bioinformatics	884	758
+3	731 m^2	0.3045	dog	None	0.5788	0.7222 mph	0.4967	0.2446	-249	Human Computer Interaction	410	232
+0	316 m^2	0.7645	hamster	Tony	1.3941	0.5208 mph	-0.0376	1.2098	508	Computer Game Design	1111	524
+0	182 m^2	0.5071	cat	Inan	0.9211	0.2305 mph	0.0569	1.0034	568	Computer Game Design	810	254
+3	889 m^2	1.0965	pig	Reilly	0.051	0.7304 mph	1.0625	0.2757	146	hUMAN cOMPUTER iNTERACTION	320	219
+0	62 m^2	0.5028	rat	Inan, Tony	0.8294	0.3339 mph	-0.4543	0.7556	886	Computer Game Design	585	445
+3	805 m^2	0.638	pig	Reilly	0.225	0.8496 mph	0.7232	0.4975	386	Human Computer Interaction	640	290
+3	865 m^2	0.6518	pig	Reilly	0.0587	0.8759 mph	0.7538	0.3047	498	Human Computer Interaction	305	196
+1	721 m^2	0.1073	hamster	Fabrice, Chris	0.1153	0.6721 mph	0.811	0.2888	295	Data Science	-93	1267
+3	799 m^2	0.6655	pig	Eriq	0.1818	0.5984 mph	0.6789	0.117	-135	Bioengineering	937	469
+1	712 m^2	0.3483	guinea pig	Lise	0.2492	0.4851 mph	0.6628	0.5633	296	Computer Science	251	1177
+1	405 m^2	0.4611	chicken	Lise, Fabrice	-0.1596	0.8692 mph	0.8092	1.2951	765	Data Science	93	638
+0	484 m^2	0.4548	rabbit	Inan, Tony	0.7302	0.3492 mph	0.0247	0.7409	603	Computer Game Design	1244	187
+3	789 m^2	0.5148	pig	Eriq	0.2947	0.7201 mph	0.6958	0.6412	20	Bioengineering	284	-234
+2	-224 m^2	1.0766	reptile	Andrew	0.3561	0.2571 mph	0.7014	0.3356	632	Robotics Engineering	363	722
+3	499 m^2	0.6215	pig	Eriq	0.3668	0.6245 mph	0.9156	0.1822	-114	Games and Playable Media	111	183
+2	125 m^2	1.1143	bird	Andrew	1.0574	-0.0551 mph	0.5929	0.1935	1015	Electrical Engineering	418	997
+1	615 m^2	0.1272	fish	Lise	-0.1882	1.0795 mph	0.2903	0.82	286	Applied Mathematics	61	924
+3	739 m^2	0.5532	pig	Reilly	0.4104	0.5207 mph	0.8531	0.1988	197	Computer Engineering	549	244
+3	894 m^2	0.5226	pig	Reilly	0.2978	0.6295 mph	0.8258	-0.1541	-39	Bioengineering	667	-359
+1	708 m^2	-0.1631	fish	Sam, Chris	0.1339	0.9427 mph	0.7618	0.7534	175	Technology and Information Management	147	835
+1	1008 m^2	0.1456	pig	Lise, Michael	0.0062	0.6563 mph	0.7652	1.2088	404	Statistics	194	993
+2	371 m^2	0.6903	bird	Andrew	0.4975	0.0319 mph	0.4546	0.2905	882	Bioinformatics	531	321
+2	-280 m^2	0.7791	dog	aNDREW	0.5345	-0.1646 mph	0.3042	0.1869	882	NATURAL LANGUAGE PROCESSING	385	413
+1	768 m^2	0.1155	guinea pig	Lise, Sam	-0.1253	1.2159 mph	0.6225	0.8036	686	Applied Mathematics	-91	1006
+1	783 m^2	0.4589	fish	Chris, Sam, Michael, Lise	0.5575	0.5826 mph	0.478	0.7819	190	Data Science	-29	1091
+3	436 m^2	0.4515	pig	Reilly	0.1688	0.3661 mph	1.245	0.52	-102	Human Computer Interaction	586	-29
+1	761 m^2	0.2701	dog	Michael, Lise, Chris, Sam	-0.2278	0.9926 mph	0.7633	0.7041	1001	Computational Media	-102	981
+3	920 m^2	0.5293	pig	Reilly	0.432	0.4898 mph	0.8741	-0.1262	413	Robotics Engineering	220	138
+0	518 m^2	0.3355	rat	Inan	0.8279	0.6011 mph	-0.011	0.5875	359	Computer Game Design	1333	37
+0	467 m^2	0.4588	rat	NULL	0.5432	0.4695 mph	-0.0783	1.0597	745	Computer Game Design	1075	333
+3	874 m^2	0.8923	pig	Eriq	-0.2201	0.4199 mph	0.9682	0.5806	39	Human Computer Interaction	333	-235
+1	678 m^2	0.1275	fish	Lise	-0.2029	0.7735 mph	0.6872	0.6748	380	Computer Science	251	875
+3	942 m^2	0.5396	pig	Reilly	-0.1374	0.8983 mph	0.3261	0.4578	395	Computer Engineering	382	393
+0	295 m^2	0.6782	cat	Vani	0.6485	0.3454 mph	-0.1152	1.0113	700	computer game design	909	342
+3	875 m^2	0.6932	pig	Eriq	0.1693	0.6269 mph	0.6136	0.331	287	Bioengineering	891	-146
+1	689 m^2	0.1818	fish	Michael, Chris, Fabrice, Lise	0.0335	0.8648 mph	0.7318	0.8581	481	Applied Mathematics	-61	1366
+3	358 m^2	0.6014	reptile	Lise, Chris	0.7814	0.5684 mph	0.6957	0.8806	224	Human Computer Interaction	294	-97
+3	863 m^2	0.6135	pig	Eriq	0.2725	0.687 mph	1.0612	0.784	0	Computer Engineering	579	333
+0	389 m^2	0.8189	hamster	Tony	0.726	0.1313 mph	-0.0498	0.7608	853	Computer Game Design	1018	438
+0	528 m^2	0.4498	cat	Tony	0.7019	0.1454 mph	-0.0503	0.6523	527	Computer Game Design	1116	512
+0	377 m^2	0.4644	rabbit	Vani	1.0538	0.4147 mph	-0.3099	0.5289	756	Computer Game Design	796	297
+1	742 m^2	0.1676	chicken	Fabrice	0.4838	0.7016 mph	0.9354	0.8231	538	Data Science	109	927
+3	928 m^2	0.7527	pig	Eriq	0.2285	0.6313 mph	0.6482	0.3615	169	Computer Engineering	188	-15
+2	375 m^2	1.1037	ferret	Andrew	0.9721	-0.0377 mph	0.6034	0.284	767	biotechnology	400	1000
+0	350 m^2	0.4342	rabbit	Tony, Inan	0.8927	0.6045 mph	-0.3438	0.8269	865	Computer Game Design	546	229
+1	592 m^2	0.0803	fish	Lise, Sam	0.0461	0.6831 mph	0.7881	0.3704	300	Computer Science	192	725
+3	715 m^2	0.3191	PIG	Reilly	0.395	0.6194 mph	0.8418	0.1892	564	Bioengineering	196	None
+2	199 m^2	0.8109	dog	Andrew	0.7529	0.1714 mph	0.333	0.4129	669	Biotechnology	296	335
+1	477 m^2	0.3475	fish	Fabrice, Sam	-0.266	0.7564 mph	0.5983	0.6215	456	Computational Media	NULL	596
+2	-11 m^2	1.1384	reptile	Andrew	0.597	N/A	0.111	0.6085	830	ELECTRICAL ENGINEERING	233	677
+1	827 m^2	0.1025	guinea pig	Lise, Sam, Fabrice	-0.1296	0.8991 mph	0.8401	0.6474	670	Technology and Information Management	9	946
+2	344 m^2	0.7374	bird	Andrew	0.4161	0.2633 mph	0.3646	0.2823	1274	Electrical Engineering	544	152
+0	318 m^2	0.4948	cat	Vani, Tony	0.933	0.2409 mph	0.372	0.7985	337	Computer Game Design	789	272
+1	831 m^2	0.2923	fish	Lise, Fabrice, Michael, Sam	-0.121	0.5791 mph	0.8691	0.8074	472	Technology and Information Management	-86	1133
+0	639 m^2	0.7729	rabbit	Tony, Vani	0.6663	0.1955 mph	-0.0035	0.4647	536	Computer Game Design	1195	239
+3	891 m^2	0.5805	Rabbit	reilly	0.039	0.7257 mph	0.5673	0.1945	-33	Human Computer Interaction	51	73
+1	788 m^2	0.2922	chicken	Michael, Sam	-0.0458	0.8066 mph	0.9479	1.0958	528	Computer Science	119	653
+2	NULL	0.7023	dog	Andrew	0.8529	0.2432 mph	0.2977	0.1619	616	Bioinformatics	289	703
+2	358 m^2	0.9345	dog	Andrew	0.5641	-0.042 mph	0.4305	0.038	745	Electrical Engineering	725	494
+1	720 m^2	0.4926	chicken	Sam	-0.0108	0.5033 mph	0.9274	1.2813	513	Data Science	-22	1319
+3	789 m^2	0.7841	pig	Eriq	0.2462	0.3936 mph	0.8045	0.4653	380	Robotics Engineering	485	244
+1	700 m^2	-0.034	guinea pig	Chris	-0.0427	0.8279 mph	0.9581	0.7392	337	Bioengineering	166	1011
+3	831 m^2	0.1016	pig	Reilly	0.5871	0.6636 mph	0.9722	0.0869	456	Bioengineering	45	210
+3	744 m^2	0.9148	pig	Sam	0.4242	0.8312 mph	0.4083	0.618	45	Games and Playable Media	368	-84
+2	127 m^2	1.032	reptile	Andrew	0.649	0.2357 mph	0.2433	0.313	1117	Electrical Engineering	326	681
+2	219 m^2	1.1389	bird	Andrew	0.3619	0.128 mph	0.3046	0.3513	661	Electrical Engineering	569	820
+3	919 m^2	0.5747	pig	Eriq	0.5502	0.3703 mph	0.8347	0.2922	306	Robotics Engineering	74	434
+1	813 m^2	-0.0505	guinea pig	Lise	0.1588	0.7422 mph	1.0352	0.408	2	Data Science	482	1078
+0	396 m^2	0.4489	rat	Vani, Tony	0.8717	0.6743 mph	0.123	0.7823	351	Computer Game Design	876	305
+0	291 m^2	0.5014	hamster	Inan	0.8362	0.2089 mph	0.4644	0.8801	885	Computer Game Design	830	68
+2	-82 m^2	1.0131	Reptile	Andrew	1.0765	0.1875 mph	0.4252	0.6042	839	Electrical Engineering	860	501
+0	344 m^2	0.1652	hamster	Tony, Vani	1.0295	0.5101 mph	-0.0903	0.6738	515	Computer Game Design	1287	397
+3	589 m^2	0.74	pig	None	0.6036	0.4061 mph	0.7501	0.8554	325	Computer Engineering	518	151
+1	730 m^2	0.164	fish	Reilly	0.147	0.9245 mph	0.7049	0.7539	-81	Technology and Information Management	114	1066
+3	947 m^2	0.6349	pig	Reilly	0.6441	0.4704 mph	0.4893	0.2602	456	Games and Playable Media	264	-79
+0	179 m^2	0.3925	rabbit	Tony	0.7417	0.1533 mph	0.3893	0.3421	532	Computer Game Design	1085	752
+1	739 m^2	0.1995	chicken	Chris	-0.3363	0.9389 mph	0.8717	0.6594	477	Computational Media	25	1207
+3	1002 m^2	0.5318	pig	Reilly	0.2776	0.5641 mph	0.7696	0.1041	228	Bioengineering	210	106
+0	569 m^2	0.4669	hamster	Inan	0.7074	0.5696 mph	0.5052	0.7115	396	Computer Game Design	854	506
+0	137 m^2	0.2729	rat	Inan, Vani	0.8021	-0.1077 mph	0.6781	0.6872	648	Computer Game Design	1107	202
+1	719 m^2	0.3147	chicken	Tony	-0.1952	1.0383 mph	0.7399	0.3726	64	Data Science	15	1263
+1	1002 m^2	0.0119	chicken	Fabrice, Lise, Michael, Sam	0.2262	0.8993 mph	0.4678	0.6851	380	Statistics	-127	1160
+3	523 m^2	0.8269	pig	Eriq	0.2401	0.7046 mph	0.482	0.2088	-91	Human Computer Interaction	229	343
+2	213 m^2	0.5281	reptile	Sam	0.4869	0.0776 mph	0.0629	0.476	539	Natural Language Processing	532	646
+3	786 m^2	0.6344	pig	Reilly	0.2633	0.7277 mph	0.87	0.3058	492	Games and Playable Media	238	188
+3	1039 m^2	0.3753	pig	Eriq	0.4237	0.7486 mph	0.6571	-0.2593	366	Bioengineering	164	-13
+1	?	0.0965	guinea pig	Fabrice, Lise, Sam	-0.0016	0.6289 mph	0.6988	1.1271	388	Applied Mathematics	180	1066
+3	1021 m^2	0.3012	pig	Eriq	0.3621	0.3581 mph	0.7298	0.3391	55	Robotics Engineering	-8	429
+3	950 m^2	0.3217	pig	Michael	0.0189	0.704 mph	0.5696	0.3717	362	Human Computer Interaction	92	NULL
+2	260 m^2	0.4965	dog	Andrew	0.8074	0.1516 mph	0.8195	0.4116	769	Bioinformatics	895	1017
+0	355 m^2	0.602	hamster	Inan, Vani	0.7267	0.2413 mph	-0.1751	0.5785	584	Computer Game Design	836	239
+1	460 m^2	0.1023	fish	Fabrice, Michael, Chris, Sam	0.0049	0.8246 mph	1.2783	1.073	584	Computer Science	-85	850
+2	-104 m^2	0.8472	dog	Andrew	0.5595	0.1165 mph	0.1448	-0.0779	605	Electrical Engineering	380	515
+3	890 m^2	0.4125	pig	Eriq	0.0567	0.7375 mph	0.5421	0.1908	524	Games and Playable Media	316	-216
+1	608 m^2	0.1128	n/a	Lise, Michael	0.4481	0.8114 mph	0.9968	0.7568	640	Data Science	-2	638
+1	728 m^2	0.1192	fish	Fabrice	-0.058	1.1032 mph	0.7215	0.8209	397	Computer Science	98	1125
+2	189 m^2	0.8308	guinea pig	Andrew	0.5397	0.2631 mph	0.4101	0.1645	883	Biotechnology	627	714
+2	307 m^2	0.8292	bird	Andrew	0.6998	0.2155 mph	0.8346	0.3345	636	Electrical Engineering	550	528
+2	39 m^2	0.9383	reptile	Andrew	0.8094	-0.0596 mph	0.4308	0.0367	552	Bioinformatics	117	567
+0	504 m^2	0.6991	rat	Tony, Inan	0.8832	0.3636 mph	0.4489	0.7576	662	Computer Game Design	1198	407
+2	52 m^2	1.1686	hamster	Andrew	0.7912	0.1459 mph	0.5959	-0.0601	?	Biotechnology	498	534
+0	326 m^2	0.6857	hamster	Vani, Inan	1.039	0.1596 mph	-0.1786	0.8914	800	Computer Game Design	563	543
+3	671 m^2	0.7282	pig	Eriq	0.133	0.4279 mph	0.6278	0.2127	-119	Computer Engineering	389	-185
+3	765 m^2	0.4345	pig	Eriq	0.5315	0.7392 mph	0.5846	0.2155	-30	Bioengineering	623	79
+0	481 m^2	0.5687	cat	Inan	1.088	0.502 mph	0.0217	0.3877	n/a	Computer Game Design	984	333
+3	607 m^2	0.7123	n/a	Reilly	0.0466	0.575 mph	1.0408	0.1126	261	Games and Playable Media	156	205
+0	474 m^2	0.3719	cat	Inan, Tony	0.8466	0.1674 mph	-0.0115	0.8228	589	Computer Game Design	1003	500
+3	889 m^2	0.6274	pig	Eriq	0.5044	0.7818 mph	0.854	0.1179	100	Bioengineering	695	228
+3	640 m^2	0.56	pig	Reilly	0.2978	0.15 mph	0.9856	0.0782	451	Games and Playable Media	512	155
+3	749 m^2	0.397	Pig	Reilly	0.8161	0.7719 mph	0.8459	0.5002	629	Human Computer Interaction	443	-2
+0	-53 m^2	0.3079	hamster	Vani, Inan	1.169	0.4913 mph	0.0486	0.8282	127	Computer Game Design	1100	781
+2	157 m^2	0.6521	ferret	Andrew	1.3496	-0.055 mph	0.2813	0.0762	916	Bioinformatics	428	211
+3	978 m^2	0.3677	pig	Eriq	0.1287	0.4765 mph	0.4004	0.4533	-186	Human Computer Interaction	338	277
+1	809 m^2	0.185	chicken	Lise, Sam, Fabrice, Chris	0.3737	0.7784 mph	0.7528	0.9296	568	Computer Science	176	556
+2	-229 m^2	1.0338	reptile	andrew	0.4964	-0.0707 mph	0.4219	0.2161	1024	Natural Language Processing	503	618
+0	410 m^2	0.3547	rat	Inan, Vani	0.7474	0.5251 mph	0.0741	1.1273	702	Computer Game Design	1062	718
+3	952 m^2	0.5148	pig	Reilly	0.3395	0.5745 mph	0.6559	0.2712	492	Robotics Engineering	169	68
+2	120 m^2	0.6863	pig	Sam, Lise	0.8104	-0.0375 mph	0.3748	-0.042	836	Natural Language Processing	602	835
+3	1243 m^2	0.5959	pig	Eriq	0.4	0.734 mph	0.7116	0.3816	121	Robotics Engineering	41	-103
+0	437 m^2	0.1812	cat	Tony, Vani	0.6253	0.4646 mph	0.2654	NULL	958	Computer Game Design	802	-42
+0	511 m^2	0.3489	hamster	Tony	0.9308	0.1596 mph	0.0586	0.3717	339	Computer Game Design	1321	738
+2	303 m^2	0.5915	bird	Andrew	0.8363	-0.2976 mph	0.5096	0.2586	1342	Bioinformatics	934	884
+1	794 m^2	0.0396	chicken	Chris	0.2911	0.5882 mph	0.6134	0.3254	724	Technology and Information Management	-264	992
+2	195 m^2	0.9128	reptile	Andrew	0.456	-0.0898 mph	0.3589	0.23	694	Bioinformatics	606	746
+0	412 m^2	0.5782	hamster	Vani, Inan	1.3001	0.2059 mph	0.1279	0.618	466	Computer Game Design	1125	512
+2	393 m^2	0.8325	dog	Andrew	0.8032	-0.0036 mph	0.4882	0.3517	1490	Biotechnology	927	744
+1	605 m^2	0.4117	guinea pig	?	-0.0034	0.5521 mph	0.9231	0.8226	454	Technology and Information Management	-149	1251
+0	515 m^2	0.6968	rat	Inan, Vani	0.8425	0.5292 mph	-0.342	0.7521	482	Computer Game Design	972	502
+1	700 m^2	0.3108	fish	Chris, Michael, Fabrice, Sam	0.153	0.7417 mph	0.6689	0.6009	742	Computer Science	75	1218
+1	978 m^2	0.0045	guinea pig	Lise, Fabrice, Michael, Sam	-0.1639	1.1189 mph	1.186	0.9457	706	Data Science	-506	1507
+3	988 m^2	0.5402	pig	Reilly	0.5009	0.9184 mph	0.6862	0.5824	-24	Games and Playable Media	277	34
+0	189 m^2	0.5995	rat	Inan	0.8122	0.196 mph	-0.0106	0.6163	772	Computer Game Design	1016	469
+3	739 m^2	0.5218	pig	Eriq	0.6473	0.8861 mph	1.0932	0.6718	653	computer engineering	145	-81
+1	685 m^2	-0.1098	fish	Sam, Chris	0.2334	0.655 mph	0.7593	0.6327	277	Statistics	-233	1009
+1	729 m^2	0.3691	guinea pig	Chris	0.2068	0.6002 mph	0.8976	1.0142	657	Computer Science	41	961
+2	93 m^2	0.7923	bird	Andrew	0.989	0.2425 mph	0.7017	0.2892	1068	Bioinformatics	333	918
+1	683 m^2	0.1619	chicken	Michael	0.0282	1.1135 mph	0.7836	1.0655	8	Natural Language Processing	216	757
+1	775 m^2	0.2099	guinea pig	Andrew	0.427	1.2196 mph	0.8336	0.4445	794	Data Science	-48	792
+0	270 m^2	0.525	cat	Inan	1.0286	N/A	0.0991	0.2485	718	Computer Game Design	1158	888
+3	1080 m^2	0.4371	cat	Reilly	0.3066	0.4206 mph	0.918	0.4448	407	Robotics Engineering	255	23
+3	1091 m^2	0.5281	pig	Reilly	0.294	0.6892 mph	0.6149	0.4193	456	Computer Engineering	216	104
+3	1042 m^2	0.5586	pig	Reilly	0.1696	0.6578 mph	0.6788	0.5396	90	Bioengineering	-54	-496
+1	968 m^2	-0.2116	chicken	Lise	-0.1405	0.8622 mph	0.6771	0.9832	411	Computational Media	55	827
+1	656 m^2	0.2689	chicken	Chris, Lise, Michael	-0.1754	0.896 mph	0.642	0.683	227	Applied Mathematics	-143	985
+2	155 m^2	0.8179	dog	Andrew	0.5707	0.016 mph	0.7613	0.2477	713	Electrical Engineering	661	1151
+0	264 m^2	0.1841	cat	Vani	0.8218	0.3649 mph	0.0314	0.8465	108	Computer Game Design	1246	58
+2	181 m^2	0.6016	ferret	Andrew	0.6835	0.0895 mph	0.0035	-0.1444	878	Bioinformatics	368	1059
+1	759 m^2	0.2546	fish	Sam, Fabrice, Chris	-0.0952	0.7056 mph	0.871	0.8132	362	Computational Media	-32	554
+2	-247 m^2	0.7515	bird	Andrew	0.5985	0.1975 mph	0.246	0.443	773	Electrical Engineering	402	518
+3	833 m^2	0.5933	pig	Eriq	0.2087	0.627 mph	0.7388	0.3648	54	Games and Playable Media	110	277
+3	893 m^2	0.5273	pig	Eriq	0.109	0.8633 mph	0.4221	0.2606	295	Computer Engineering	243	73
+3	869 m^2	0.3978	pig	Reilly	0.4784	0.8493 mph	0.7426	0.2065	115	computer engineering	602	162
+0	609 m^2	0.6049	rabbit	Inan, Tony	1.1299	0.3593 mph	-0.001	0.7911	206	Computer Game Design	994	692
+0	270 m^2	0.5531	pig	Vani	0.7774	0.2606 mph	0.07	0.5972	667	Computer Game Design	1212	888
+0	?	0.6127	rabbit	Vani, Tony	0.7717	0.4241 mph	0.2651	0.3081	465	Computer Game Design	814	324
+3	906 m^2	0.7113	pig	Reilly	0.2629	0.4406 mph	0.6855	0.5194	434	computer engineering	-171	-37
+2	128 m^2	0.8864	reptile	Andrew	0.4406	0.1653 mph	0.4716	0.363	945	Electrical Engineering	654	763
+3	969 m^2	0.7965	pig	Eriq	0.1359	0.5977 mph	0.1985	0.2515	281	Bioengineering	25	-261
+1	937 m^2	0.0397	guinea pig	Lise, Fabrice, Chris, Michael	0.3834	0.6778 mph	0.8002	0.9826	200	Technology and Information Management	66	1215
+3	547 m^2	0.5082	pig	Reilly	0.4175	1.1715 mph	0.825	0.6241	280	Bioengineering	593	107
+1	837 m^2	0.1122	guinea pig	Michael, Fabrice	-0.0843	0.6463 mph	0.6001	0.6667		Computer Science	257	959
+1	838 m^2	0.3391	guinea pig	Sam, Chris, Fabrice	0.0461	0.6494 mph	0.7069	0.3214	566	Statistics	-541	1174
+0	559 m^2	0.9346	rabbit	Vani	0.4972	0.3291 mph	0.0476	0.3032	626	Computer Game Design	1296	545
+1	839 m^2	0.1614	fish	Reilly	0.021	0.5638 mph	0.7948	0.874	718	Computational Media	318	799
+1	919 m^2	0.2623	chicken	Michael, Lise, Chris	-0.144	0.7638 mph	0.7621	0.3829	118	Applied Mathematics	-408	1342
+2	176 m^2	0.794	dog	Andrew	0.8822	-0.2275 mph	0.3871	0.0476	925	Electrical Engineering	651	597
+3	772 m^2	0.6039	pig	Eriq	0.5227	0.5088 mph	0.9968	0.1291	None	Human Computer Interaction	197	-101
+2	196 m^2	1.0875	bird	Andrew	0.745	0.0366 mph	0.2264	0.0135	635	Biotechnology	851	1192
+2	-182 m^2	0.8487	ferret	Andrew	0.6577	-0.0968 mph	0.2339	-0.016	647	Biotechnology	637	799
+2	137 m^2	0.6249	cat	Andrew	1.1242	0.2006 mph	0.3178	0.0504	919	Electrical Engineering	695	753
+2	85 m^2	0.7234	ferret	Andrew	0.8147	-0.1025 mph	0.5901	0.5565	843	Electrical Engineering	366	942
+3	732 m^2	0.5764	pig	Eriq	0.3556	0.3966 mph	0.5594	0.6471	651	Games and Playable Media	230	741
+0	455 m^2	0.2986	rabbit	Inan	1.1735	0.3729 mph	-0.2059	0.5032	492	Computer Game Design	1090	201
+0	448 m^2	N/A	rabbit	Vani	0.5508	0.1195 mph	-0.4545	0.805	683	Computer Game Design	979	337
+3	616 m^2	0.4133	pig	Reilly	0.7562	0.3774 mph	0.582	0.184	278	Computer Engineering	29	481
+3	829 m^2	0.7294	pig	Reilly	-0.0471	0.6819 mph	1.0332	-0.21	-330	Bioengineering	495	318
+2	274 m^2	0.7676	cat	aNDREW	0.4517	0.5585 mph	0.4031	0.1717	597	Electrical Engineering	503	733
+3	635 m^2	0.5716	pig	Reilly	0.1717	0.8713 mph	0.4316	0.2478	669	Human Computer Interaction	89	130
+0	258 m^2	0.8341	cat	Inan, Tony	1.0192	0.494 mph	-0.0333	0.5995	587	Computer Game Design	917	464
+0	405 m^2	0.7966	rat	Lise, Sam, Michael, Fabrice	0.7017	0.4337 mph	-0.0205	0.5698	801	Computer Game Design	1302	992
+1	780 m^2	0.1272	chicken	Fabrice	-0.2353	0.6265 mph	0.9957	1.1491	491	NULL	-143	544
+1	603 m^2	-0.1387	chicken	Chris, Michael, Fabrice, Lise	0.3593	0.6895 mph	0.8245	0.9803	511	Data Science	204	852
+1	785 m^2	-0.1347	guinea pig	Chris	-0.1283	0.643 mph	1.1133	0.6599	395	Applied Mathematics	-133	1055
+2	55 m^2	0.7699	bird	Andrew	0.5857	0.2264 mph	0.6496	0.0279	570	Electrical Engineering	550	655
+0	437 m^2	0.2665	rabbit	tONY	0.9328	0.5885 mph	0.2006	0.3495	526	Computer Game Design	1347	854
+1	601 m^2	0.0421	chicken	Fabrice, Chris	0.2762	0.6521 mph	1.0188	1.0244	198	Statistics	254	1150
+2	268 m^2	0.4976	bird	Andrew	1.0219	0.0804 mph	0.4875	-0.1032	685	Bioinformatics	355	871
+2	64 m^2	1.1703	dog	Andrew	0.8499	0.0651 mph	0.0627	0.1825	785	Biotechnology	95	640
+3	820 m^2	0.7002	pig	Eriq	0.4022	0.299 mph	0.7985	0.2406	-110	Games and Playable Media	210	516
+2	267 m^2	0.8815	ferret	Andrew	0.619	-0.0856 mph	0.293	0.4993	1018	Natural Language Processing	490	617
+1	891 m^2	0.1383	guinea pig	Chris, Michael, Fabrice	0.1862	0.8324 mph	0.6827	0.5413	-33	Data Science	None	814
+0	2 m^2	0.4338	cat	Tony	1.0681	0.1854 mph	-0.0516	0.2044	709	Computer Game Design	1116	640
+0	32 m^2	0.436	rabbit	Vani, Tony	0.8473	0.3379 mph	0.1156	0.6836	477	Computer Game Design	1106	47
+1	560 m^2	0.503	cat	Chris	-0.0085	0.5853 mph	1.1419	0.8377	504	Statistics	-476	1356
+0	296 m^2	0.5204	rabbit	Tony	0.6519	0.8334 mph	-0.0124	0.6095	852	Computer Game Design	1107	819
+1	814 m^2	0.0504	chicken	Michael	0.089	0.511 mph	0.7424	0.6195	404	Technology and Information Management	128	1153
+1	678 m^2	-0.0861	fish	Chris, Fabrice, Lise	0.3519	0.8245 mph	0.4315	0.4585	783	dATA sCIENCE	140	1302
+0	568 m^2	0.6732	cat	Tony, Vani	0.7735	0.5661 mph	-0.23	0.5253	690	Computer Game Design	1141	848
+1	817 m^2	0.2386	chicken	Sam, Fabrice, Michael, Lise	0.1006	0.8298 mph	0.674	1.0668	483	Data Science	222	965
+3	779 m^2	0.8453	pig	Eriq	-0.1178	0.546 mph	1.253	0.3114	237	Human Computer Interaction	315	554
+1	690 m^2	0.3368	guinea pig	Michael, Fabrice, Chris	0.2243	0.9429 mph	0.5946	0.7549	370	Computational Media	171	617
+1	748 m^2	0.2621	pig	Sam	-0.0493	0.7633 mph	0.5714	1.0746	131	Computer Science	3	1207
+2	204 m^2	0.5678	bird	Andrew	1.0341	-0.1295 mph	0.22	0.09	699	Bioinformatics	273	488
+3	263 m^2	0.4083	pig	Reilly	-0.123	0.6693 mph	0.3971	0.3022	223	Applied Mathematics	-42	56
+1	893 m^2	0.0602	guinea pig	Lise, Fabrice, Michael, Chris	0.2417	0.9312 mph	0.649	0.4404	609	Computer Science	16	771
+2	311 m^2	0.5223	ferret	Andrew	0.8823	0.1118 mph	0.2376	0.5581	1071	Natural Language Processing	676	861
+1	794 m^2	0.125	fish	Chris, Lise	-0.37	1.3102 mph	0.8764	0.9672	485	Technology and Information Management	114	877
+2	88 m^2	0.9519	ferret	Andrew	0.5967	0.087 mph	0.4659	0.4816	1052	Biotechnology	479	628
+0	271 m^2	0.4755	rabbit	Tony, Inan	1.0722	0.5586 mph	0.0944	0.3307	406	Computer Game Design	1112	345
+1	966 m^2	0.0591	chicken	Fabrice, Chris	0.3177	0.9495 mph	0.2129	0.5041	597	Computational Media	-311	478
+2	294 m^2	0.7999	dog	Andrew	0.7692	0.0458 mph	0.6794	NULL	1171	Natural Language Processing	502	405
+2	145 m^2	0.8569	ferret	Andrew	0.3146	-0.0659 mph	0.2482	0.0096	702	Electrical Engineering	783	
+1	965 m^2	0.4328	bird	Sam, Chris, Michael	0.2058	0.5594 mph	0.4954	0.7662	657	Data Science	-356	983
+0	463 m^2	0.4771	cat	Tony	0.8431	0.4204 mph	0.0874	0.3947	560	Computer Game Design	779	649
+1	None	0.1191	fish	Lise, Michael, Fabrice	0.4425	0.5489 mph	0.7349	0.6306	379	Computer Science	263	1277
+1	666 m^2	0.2083	guinea pig	Fabrice, Michael, Chris	0.2193	0.8757 mph	1.0269	0.8794	483	Data Science	302	1553
+0	354 m^2	0.3746	cat	Andrew	1.0032	0.4909 mph	0.0317	0.5299	455	Computer Game Design	1372	138
+2	194 m^2	0.5748	ferret	Andrew	0.6783	0.2247 mph	0.3148	0.5881	833	Computational Media	633	610
+1	671 m^2	0.2547	Fish	Lise, Chris, Fabrice	0.2686	0.8053 mph	1.0771	0.4368	96	Computer Science	466	703
+2	125 m^2	0.4723	reptile	Andrew	0.248	0.2878 mph	0.2597	0.24	755	Biotechnology	577	578
+2	75 m^2	0.9204	reptile	ANDREW	0.2804	-0.1038 mph	0.329	0.0155	513	Natural Language Processing	131	764
+2	140 m^2	0.5949	pig	Andrew	0.4452	0.0831 mph	0.5406	0.2317	404	Natural Language Processing	650	569
+0	393 m^2	0.4935	hamster	Inan	0.8491	0.4139 mph	0.316	0.7802	642	Computer Game Design	742	34
+1	717 m^2	-0.0518	chicken	Sam	0.1841	0.7791 mph	0.6267	0.566	45	Data Science	-256	988
+1	504 m^2	0.1426	fish	Lise, Chris, Michael, Fabrice	0.2624	0.6985 mph	0.6356	0.5837	593	Statistics	307	378
+0	346 m^2	0.5156	hamster	Tony	0.8398	0.4059 mph	-0.2313	1.017	349	Biotechnology	889	315
+0	267 m^2	0.6173	hamster	Inan, Vani	0.6301	0.4737 mph	NULL	0.6578	920	Computer Game Design	1119	276
+2	248 m^2	0.9303	bird	Andrew	0.4747	0.0611 mph	0.7459	-0.1154	207	Statistics	566	815
+2	232 m^2	0.857	ferret	Andrew	0.5026	-0.0665 mph	0.2354	0.4859	668	Computer Game Design	606	501
+2	225 m^2	0.7334	reptile	Andrew	0.5605	0.4017 mph	0.0508	-0.22	1013	Biotechnology	394	849
+3	1070 m^2	0.5676	pig	Reilly	0.3421	0.3909 mph	0.4201	0.0952	-25	Human Computer Interaction	-135	384
+2	-302 m^2	0.8521	reptile	Andrew	0.6256	0.0911 mph	0.2102	-0.2608	421	Biotechnology	307	672
+1	799 m^2	0.1445	guinea pig	Michael, Chris, Lise	-0.3225	0.887 mph	0.5473	0.6712	863	Technology and Information Management	-66	None
+1	374 m^2	-0.2167	chicken	Chris, Sam, Michael, Lise	0.1099	0.7333 mph	0.6331	0.8516	582	Data Science	98	509
+2	-134 m^2	0.8328	ferret	Andrew	0.9089	0.0468 mph	0.3849	0.3894	721	Natural Language Processing	293	478
+1	499 m^2	0.1379	fish	Lise, Chris	-0.204	0.5565 mph	0.7705	0.8557	393	Computational Media	160	1394
+3	601 m^2	0.579	pig	Reilly	0.6633	0.8778 mph	0.5948	0.3325	145	Human Computer Interaction	-216	194
+2	379 m^2	0.9474	reptile	ANDREW	0.6538	-0.0674 mph	0.7577	0.2723	861	Bioinformatics	481	987
+3	985 m^2	0.7152	pig	Eriq	0.1212	0.4893 mph	0.813	0.4304	280	Robotics Engineering	464	-18
+2	160 m^2	0.9256	reptile	Andrew	0.7692	0.2985 mph	0.0434	0.3984	844	Bioinformatics	435	699
+2	175 m^2	0.9121	dog	Andrew	0.6073	0.2059 mph	0.5323	0.2468	541	Bioinformatics	441	n/a
+0	631 m^2	0.2832	rabbit	Tony	0.7164	0.5314 mph	-0.0073	0.7129	348	Computer Game Design	1005	576
+0	288 m^2	0.2754	hamster	Tony	1.1202	0.1769 mph	-0.1213	0.764	287	Computer Game Design	956	697
+1	736 m^2	-0.0375	chicken	Lise	0.0332	0.6964 mph	0.3613	0.8688	384	Computer Science	-117	891
+0	773 m^2	0.4622	hamster	Inan, Tony	0.9875	0.3008 mph	0.1637	0.5942	1152	Computer Game Design	920	484
+0	296 m^2	0.5743	cat	Vani, Inan	0.9003	0.3499 mph	0.1691	0.5737	258	Computer Game Design	790	790
+0	611 m^2	0.648	cat	Vani	1.1068	0.3389 mph	0.0334	0.47	213	Computer Game Design	1046	335
+2	445 m^2	0.3345	guinea pig	andrew	0.8968	0.156 mph	0.2252	0.5377	917	Biotechnology	N/A	730
+0	502 m^2	0.5526	rabbit	Tony, Vani	1.1173	0.2844 mph	0.3499	0.5471	571	Computer Game Design	707	548
+2	382 m^2	1.0065	ferret	Andrew	0.8726	0.1403 mph	0.5599	0.2649	747	Bioinformatics	526	383
+1	679 m^2	0.1194	fish	Lise	0.2661	0.8278 mph	0.9462	0.6572	132	Computer Science	30	636
+0	330 m^2	0.3578	rat	Tony, Vani	0.9311	0.3174 mph	-0.024	1.009	664	Computer Game Design	1201	126
+1	724 m^2	-0.0236	fish	Lise, Fabrice, Sam, Chris	-0.181	0.647 mph	0.6351	0.8889	618	Computer Science	225	1337
+1	380 m^2	0.3275	guinea pig	Eriq	0.1437	0.9911 mph	0.9639	0.8309	526	Technology and Information Management	277	1047
+0	336 m^2	0.4743	rabbit	Chris, Fabrice, Lise	-0.019	0.4603 mph	0.0306	0.7669	228	Computer Game Design	575	442
+0	302 m^2	0.578	rabbit	Vani, Inan	0.7189	0.322 mph	-0.206	0.6761	525	Computer Game Design	1246	587
+2	278 m^2	0.4505	bird	Andrew	0.8186	0.1325 mph	0.3703	0.181	712	Bioinformatics	606	858
+0	594 m^2	0.5872	rabbit	Inan, Vani	1.0057	0.2184 mph	0.0856	0.582	99	N/A	1120	353
+3	668 m^2	0.9541	pig	Eriq	0.2541	0.7195 mph	0.7645	0.4273	112	Robotics Engineering	-161	-329
+1	660 m^2	0.2249	guinea pig	Chris, Michael, Sam, Fabrice	0.1663	0.7192 mph	0.6356	0.8288	732	Data Science	18	661
+3	977 m^2	0.3665	pig	Eriq	-0.0829	0.7395 mph	0.7694	0.3426	285	Human Computer Interaction	95	118
+2	264 m^2	0.6203	n/a	Andrew	1.0095	0.0442 mph	0.6753	0.3166	886	Biotechnology	424	791
+3	957 m^2	0.4779	pig	Reilly	0.3644	0.1835 mph	0.6681	0.1557	450	Human Computer Interaction	238	128
+2	281 m^2	0.6276	dog	Andrew	0.8589	-0.0222 mph	0.5848	0.1517	722	Electrical Engineering	138	797
+1	772 m^2	0.2756	chicken	Michael, Fabrice, Sam	-0.0289	0.2949 mph	0.9787	0.7249	40	Applied Mathematics	165	596
+3	729 m^2	1.0397	pig	Eriq	0.2855	0.985 mph	0.7644	0.6657	326	Robotics Engineering	441	-377
+1	763 m^2	0.1542	fish	Fabrice, Michael, Chris, Lise	0.0831	0.7201 mph	0.7525	0.9227	130	Technology and Information Management	-56	1423
+0	475 m^2	0.4785	rabbit	Vani	0.5184	0.1031 mph	0.1504	0.6585	226	Computer Game Design	930	139
+3	965 m^2	0.3783	pig	Reilly	0.4028	0.4808 mph	0.9997	0.1076	261	Bioengineering	-50	7
+3	911 m^2	0.4554	pig	Reilly	0.5377	0.7916 mph	1.0651	0.2292	376	cOMPUTER eNGINEERING	406	11
+2	209 m^2	0.8525	Reptile	Andrew	0.8856	0.3356 mph	0.4144	0.2002	562	Bioinformatics	593	606
+0	478 m^2	0.4445	rat	Tony, Vani	0.9332	0.3097 mph	-0.0734	0.3797	604	Computer Game Design	1088	738
+1	653 m^2	0.1733	chicken	Lise, Michael, Sam	0.2487	0.3236 mph	0.8503	0.9761	569	Data Science	-347	711
+2	152 m^2	0.8317	reptile	Andrew	0.5609	0.3058 mph	0.42	0.25	817	Natural Language Processing	455	706
+3	821 m^2	0.9335	pig	rEILLY	0.1529	0.6697 mph	0.9317	0.3516	644	Bioengineering	377	288
+2	-124 m^2	0.952	hamster	Andrew	0.9282	0.215 mph	0.6043	0.667	973	Electrical Engineering	635	790
+1	637 m^2	0.2364	fish	Sam, Fabrice	0.0096	0.4825 mph	1.1588	1.0964	-287	Applied Mathematics	332	1067
+2	207 m^2	0.8492	chicken	Andrew	0.3947	0.2081 mph	0.2191	0.6399	652	bioinformatics	286	563
+3	916 m^2	0.7276	PIG	Reilly	0.2885	0.5821 mph	0.6745	0.387	-365	Robotics Engineering	441	263
+2	88 m^2	0.8428	pig	Andrew	0.728	-0.1855 mph	0.5701	0.7075	483	Natural Language Processing	641	900
+0	730 m^2	0.6957	rat	Inan	0.7318	0.3264 mph	-0.1288	0.2939	751	Computer Game Design	1165	518
+3	928 m^2	0.4877	pig	Reilly	0.1175	0.8243 mph	0.9251	0.4572	220	Games and Playable Media	268	181
+3	923 m^2	0.5781	pig	Eriq	-0.4821	0.5922 mph	0.8698	0.537	-157	Robotics Engineering	624	-24
+0	353 m^2	0.5726	hamster	Inan, Vani	0.7984	0.7344 mph	0.2622	0.2955	112	Bioinformatics	1032	286
+3	1058 m^2	0.5428	pig	eRIQ	0.4879	0.8427 mph	0.8071	0.4146	183	Computer Game Design	283	-138
+2	0 m^2	0.8663	reptile	Andrew	0.5148	0.1211 mph	0.1671	0.3165	728	Bioinformatics	380	584
+0	154 m^2	0.6888	cat	Inan	0.84	0.4423 mph	0.1424	0.5981	416	Computer Game Design	1039	751
+2	331 m^2	0.8241	dog	Andrew	0.7618	-0.0524 mph	0.7041	0.2883	972	Bioinformatics	197	659
+1	551 m^2	0.0366	fish	Sam, Lise, Fabrice	0.0585	0.7701 mph	1.1175	1.3379	354	Statistics	-84	1395
+3	605 m^2	0.7866	pig	rEILLY	0.1934	0.5437 mph	0.9045	-0.1191	33	Bioengineering	407	224
+2	171 m^2	0.7338	reptile	Andrew	0.7529	0.2077 mph	0.346	0.2863	1082	Electrical Engineering	535	753
+3	807 m^2	0.7883	hamster	Reilly	0.2663	0.7201 mph	0.8533	0.3286	277	Computer Engineering	566	-238
+3	551 m^2	0.8783	pig	Reilly	-0.0431	0.6166 mph	0.9737	0.4773	218	Bioengineering	137	195
+1	716 m^2	0.0123	fish	Chris, Sam, Lise, Fabrice	0.0696	0.7328 mph	0.8166	0.7082	690	Data Science	390	758
+2	484 m^2	0.6347	REPTILE	Andrew	0.7388	0.172 mph	0.3157	0.3813	1021	Biotechnology	678	387
+2	197 m^2	0.6545	reptile	Andrew	1.0531	0.129 mph	0.5341	0.3968	682	Natural Language Processing	625	618
+3	1133 m^2	0.4873	pig	Eriq	0.3424	0.6106 mph	0.8389	0.6178	99	Games and Playable Media	55	373
+3	984 m^2	0.7605	pig	Reilly	0.3692	1.0381 mph	0.8437	0.4397	591	Computer Engineering	283	22
+1	367 m^2	0.2503	guinea pig	Sam, Chris	0.4881	0.6243 mph	1.0359	0.6611	225	Applied Mathematics	-33	894
+1	868 m^2	0.2068	chicken	Chris, Fabrice	0.2759	1.182 mph	0.7906	0.9894	595	Computational Media	284	1247
+2	86 m^2	0.6771	reptile	Andrew	0.4832	0.0043 mph	0.4868	0.0314	720	Natural Language Processing	692	635
+2	31 m^2	0.7381	dog	Andrew	0.5296	0.2345 mph	0.1683	0.3565	783	Natural Language Processing	542	374
+0	394 m^2	0.5045	hamster	Vani, Inan	1.2628	0.6085 mph	-0.3381	0.5099	807	Computer Game Design	958	347
+3	883 m^2	0.7348	pig	Eriq	-0.034	1.0429 mph	0.7331	0.3182	290	Bioengineering	192	376
+1	657 m^2	-0.0626	guinea pig	Sam, Fabrice, Michael, Chris	0.1666	0.9376 mph	0.8148	1.2943	438	Data Science	-54	1301
+0	427 m^2	0.1192	cat	Vani	0.9509	0.2671 mph	-0.0447	0.7287	227	Computer Game Design	1022	316
+3	610 m^2	0.799	pig	Reilly	0.3464	0.7595 mph	0.79	0.1691	159	Games and Playable Media	289	-98
+3	645 m^2	0.7755	pig	Eriq	0.4625	0.9115 mph	0.4772	NULL	315	Technology and Information Management	154	-37
+1	799 m^2	0.369	chicken	Sam, Lise	0.0912	0.8276 mph	1.2773	0.8454	636	Statistics	-91	1087
+1	658 m^2	0.3623	fish	Michael, Fabrice, Sam, Lise	0.0019	1.0258 mph	0.7891	0.431	92	Data Science	67	682
+0	404 m^2	0.5442	cat	Tony	0.9392	0.3053 mph	-0.0548	0.5504	1094	Computer Game Design	969	643
+0	501 m^2	0.0729	cat	Vani	0.9248	0.3293 mph	0.1294	0.1628	973	Computer Game Design	962	502
+1	592 m^2	-0.0157	chicken	Lise, Michael, Chris	0.4107	0.6678 mph	0.8818	0.461	323	Applied Mathematics	241	811
+0	542 m^2	-0.012	rabbit	Inan, Vani	0.6396	0.4395 mph	-0.0485	0.5112	489	Computer Game Design	888	485
+0	425 m^2	0.4382	cat	Vani	0.8496	0.5354 mph	0.0623	0.5649	1077	Computer Game Design	1336	619
+0	234 m^2	0.2684	hamster	Inan, Vani	0.6215	0.4475 mph	0.2226	0.673	344	Computer Game Design	726	705
+2	105 m^2	0.8672	ferret	Andrew	0.6298	0.1358 mph	0.1418	0.1409	308	Bioinformatics	1077	715
+3	916 m^2	0.7068	pig	Eriq	0.3686	0.9865 mph	0.4367	0.5956	180	Human Computer Interaction	152	-25
+0	461 m^2	0.2584	cat	Vani	0.9489	0.3085 mph	0.1616	0.683	455	Computer Game Design	861	593
+1	950 m^2	0.2723	Guinea Pig	Michael	-0.145	0.4718 mph	0.6322	0.6113	526	Applied Mathematics	282	960
+1	898 m^2	0.0056	guinea pig	Fabrice	0.5456	0.6232 mph	0.3011	0.7251	289	Data Science	126	901
+2	317 m^2	0.9843	ferret	Andrew	0.8763	-0.1015 mph	0.4538	-0.1915	813	Electrical Engineering	787	560
+3	658 m^2	0.3362	pig	Reilly	0.4907	0.9237 mph	0.675	0.4275	554	Human Computer Interaction	330	495
+1	893 m^2	0.4915	fish	Chris, Sam, Fabrice	0.0887	0.4466 mph	0.7279	0.5349	612	Applied Mathematics	-121	957
+0	500 m^2	0.632	cat	Vani, Tony	0.9828	0.6015 mph	0.1918	0.8748	723	Computer Game Design	932	457
+2	-230 m^2	0.775	reptile	Andrew	0.9124	0.0533 mph	0.7674	0.3977	613	Electrical Engineering	613	856
+1	829 m^2	0.2557	fish	Michael, Lise	0.2529	n/a	0.5306	0.611	348	Data Science	10	1087
+2	38 m^2	0.9779	dog	Andrew	0.3175	0.2904 mph	0.525	0.4295	762	Bioinformatics	500	424
+1	585 m^2	-0.0508	chicken	Fabrice, Sam	0.2561	0.6948 mph	1.0884	0.9451	678	Computer Science	380	931
+3	930 m^2	0.426	pig	Reilly	0.3256	0.675 mph	0.5135	0.7051	-83	Computer Engineering	402	239
+0	315 m^2	0.5871	hamster	Vani	0.9429	0.5804 mph	0.376	0.7282	726	Computer Game Design	1209	379
+3	828 m^2	0.6679	pig	Reilly	0.584	0.5501 mph	0.6995	0.7984	-120	Robotics Engineering	487	246
+1	557 m^2	0.0911	fish	Lise, Michael, Chris, Sam	0.1528	0.4512 mph	0.7198	1.0596	493	Data Science	-307	630
+2	290 m^2	1.05	reptile	Andrew	0.856	0.389 mph	0.4919	0.1764	811	Natural Language Processing	840	721
+2	-21 m^2	0.9824	dog	Andrew	1.0817	0.3242 mph	0.7667	0.112	824		919	266
+2	56 m^2	0.987	reptile	Andrew	0.6251	0.0568 mph	0.5103	0.4095	1085	Bioinformatics	779	432
+2	3 m^2	0.9273	reptile	Andrew	0.8609	0.44 mph	0.6628	0.3465	623	Electrical Engineering	968	762
+2	414 m^2	0.6243	DOG	Andrew	0.8343	0.1652 mph	0.4034	0.2452	970	Natural Language Processing	79	583
+2	577 m^2	0.6682	ferret	Andrew	0.7257	0.3652 mph	0.805	0.0733	432	Bioinformatics	538	1057
+2	146 m^2	0.8582	ferret	Andrew	0.8659	-0.0481 mph	0.5226	0.4126	436	Electrical Engineering	825	878
+1	623 m^2	0.0572	fish	Chris, Fabrice, Michael	0.3178	1.1776 mph	0.3889	0.942	757	Computer Science	389	1246
+3	677 m^2	0.5023	pig	Reilly	-0.0441	0.2303 mph	0.6776	?	18	Computer Engineering	334	599
+3	564 m^2	0.8551	pig	Reilly	0.0937	0.7473 mph	0.7461	0.3881	51	Human Computer Interaction	307	-51
+3	643 m^2	0.5757	pig	Reilly	0.1994	0.7927 mph	0.9182	0.1565	71	Computer Game Design	104	10
+1	769 m^2	0.227	ferret	Chris, Fabrice, Sam	0.3028	0.9086 mph	0.8155	0.8092	-126	Statistics	272	685
+0	850 m^2	0.5807		Tony, Inan	0.4601	0.1737 mph	-0.1705	0.5651	481	Computational Media	1115	613
+3	797 m^2	0.7733	pig	Reilly	0.3142	0.5575 mph	0.9224	0.3091	422	Bioengineering	429	393
+3	745 m^2	NULL	pig	Eriq	0.0508	0.5884 mph	0.7766	0.3233	144	Computer Engineering	428	-134
+1	488 m^2	-0.0724	chicken	Chris, Lise, Fabrice, Michael	0.1492	0.475 mph	0.5204	1.2477	442	Computational Media	-183	1392
+2	306 m^2	0.8633	ferret	Andrew	0.3783	0.1117 mph	0.4781	0.3464	870	Natural Language Processing	612	523
+3	910 m^2	0.6328	pig	Eriq	0.3596	0.5912 mph	0.494	0.0776	425	hUMAN cOMPUTER iNTERACTION	-188	60
+1	645 m^2	0.0603	fish	Sam	0.076	0.9283 mph	1.1627	0.9493	-32	Applied Mathematics	-161	1132
+1	667 m^2	0.315	chicken	Inan	0.356	0.8197 mph	0.8791	0.6824	607	Computational Media	-21	936
+0	394 m^2	0.6604	hamster	Vani	0.8011	-0.1132 mph	-0.1183	0.7932	198	Computer Game Design	695	540
+3	909 m^2	0.6418	pig	Eriq	0.1882	0.8411 mph	0.7408	-0.057	391	Bioengineering	752	315
+1	748 m^2	0.4584	chicken	Chris, Sam, Lise, Fabrice	-0.1038	0.6358 mph	0.6285	1.1056	277	Computer Science	0	929
+2	276 m^2	1.0086	bird	Andrew	0.6976	-0.1879 mph	0.5448	0.0063	515	Natural Language Processing	885	272
+2	261 m^2	0.7275	dog	Andrew	0.8093	0.2942 mph	0.3812	0.133	491	eLECTRICAL eNGINEERING	545	675
+0	302 m^2	0.3738	rabbit	Inan	0.5174	-0.0764 mph	0.0433	0.5147	283	Computer Game Design	1011	634
+3	807 m^2	0.432	pig	Eriq	0.062	0.4455 mph	0.9916	0.0809	369	Bioengineering	309	196
+0	194 m^2	0.3566	rabbit	Inan, Tony	0.8479	0.2625 mph	0.2413	0.6013	232	Computer Game Design	1022	222
+3	726 m^2	0.496	pig	Eriq	0.3781	0.642 mph	0.6221	0.3939	329	Games and Playable Media	270	-15
+0	36 m^2	0.494	hamster	Inan	0.7978	0.4685 mph	0.2728	0.8446	1002	Computer Game Design	644	270
+2	308 m^2	0.8873	reptile	Andrew	1.0854	0.3059 mph	0.0933	0.3423	608	Electrical Engineering	642	895
+1	753 m^2	0.1302	chicken	Chris, Sam	0.072	0.6984 mph	0.9228	0.8311	248	Computational Media	54	727
+1	599 m^2	0.2445	fish	Chris, Lise, Sam, Michael	0.1509	0.5265 mph	0.6392	0.8111	586	Statistics	175	1068
+0	84 m^2	0.2137	hamster	Inan	1.1771	0.3219 mph	-0.2082	0.8479	338	Computer Game Design	819	416
+2	130 m^2	1.0099	bird	Andrew	1.0144	-0.0341 mph	0.4293	-0.0964	562	Biotechnology	593	753
+3	734 m^2	0.9574	pig	Eriq	0.388	0.7386 mph	0.6874	0.5349	90	Bioengineering	-94	87
+1	865 m^2	0.1286		Fabrice	0.1349	0.6143 mph	1.081	0.9254	481	Computer Science	250	876
+1	853 m^2	0.6627	chicken	Fabrice, Lise, Chris	0.0131	0.5615 mph	0.9579	0.6996	824	Technology and Information Management	205	735
+1	581 m^2	0.0434	fish	Fabrice	-0.2147	0.9918 mph	0.7585	1.3754	860	Data Science	-234	387
+2	-109 m^2	0.8651	bird	Andrew	0.4796	0.201 mph	0.5697	0.2473	927	Natural Language Processing	245	464
+0	597 m^2	0.8253	cat	Vani	1.2638	-0.0642 mph	-0.1638	0.6919	811	Computer Game Design	898	538
+2	-91 m^2	0.8139	dog	Andrew	1.4362	0.3591 mph	0.111	0.095	781	Biotechnology	728	965
+0	210 m^2	0.3962	cat	Tony, Inan	0.7313	0.6007 mph	-0.1775	0.8566	974	Computer Game Design	1253	474
+3	729 m^2	0.6238	pig	Reilly	0.371	1.063 mph	0.5939	0.1502	-39	Computer Engineering	454	255
+3	738 m^2	0.1358	pig	ERIQ	0.6619	0.7019 mph	0.8287	0.3654	408	Applied Mathematics	353	-247
+3	996 m^2	0.5221	pig	Reilly	0.2642	0.6769 mph	0.7241	0.0476	83	Robotics Engineering	573	283
+2	149 m^2	0.855	dog	Andrew	0.9016	0.3642 mph	0.2681	0.1679	991	Biotechnology	493	389
+3	905 m^2	0.4615	pig	Reilly	0.54	0.5944 mph	1.0043	0.0586	931	Human Computer Interaction	118	504
+0	495 m^2	0.4252	cat	Tony	0.7232	0.5915 mph	0.1607	0.7567	417	Computer Game Design	886	883
+3	1303 m^2	0.8234	pig	Eriq	-0.0489	0.589 mph	0.9394	0.2311	250	Computer Engineering	431	253
+0	372 m^2	-0.0017	cat	Inan, Tony	0.5816	0.522 mph	0.1585	0.3397	360	Computer Game Design	1209	597
+0	483 m^2	0.5887	hamster	Tony	0.9599	0.6293 mph	0.1141	0.426	8	Computer Game Design	1100	296
+3	801 m^2	0.7894	pig	Eriq	0.3422	0.9368 mph	0.8359	0.151	-9	Human Computer Interaction	11	-159
+0	423 m^2	0.6685	rabbit	Inan	0.9753	-0.0044 mph	-0.0374	0.5026	679	Computer Game Design	592	433
+2	296 m^2	0.797	dog	Andrew	0.696	0.1817 mph	0.622	0.1278	1190	Natural Language Processing	637	543
+3	996 m^2	0.8152	pig	Reilly	0.2132	0.5984 mph	0.8224	0.3266	159	Human Computer Interaction	152	465
+0	393 m^2	0.6158	rabbit	Tony	0.7832	0.3215 mph	-0.1746	0.7327	556	Computer Game Design	885	336
+0	333 m^2	0.6226	cat	Inan	0.4406	0.8018 mph	-0.2572	1.3491	611	Computer Game Design	916	290
+1	602 m^2	0.0018	hamster	Sam, Fabrice, Michael, Lise	-0.1435	0.9709 mph	0.6574	0.5421	426	Data Science	262	801
+0	103 m^2	0.6671	rat	Inan	0.5974	0.4336 mph	-0.3773	0.8418	756	computer game design	1500	864
+1	807 m^2	0.2055	guinea pig	Andrew	-0.1558	0.8281 mph	0.8787	0.602	121	Statistics	257	1155
+3	953 m^2	0.4583	pig	Reilly	0.2831	0.629 mph	0.257	0.0882	508	Computer Engineering	-13	-181
+2	-19 m^2	1.2901	reptile	Andrew	0.9911	-0.0515 mph	0.1039	0.4143	648	Bioinformatics	551	823
+1	841 m^2	0.0696	guinea pig	Lise, Michael, Sam, Fabrice	-0.0738	0.9295 mph	0.9124	0.6931	264	Computer Science	124	1049
+2	29 m^2	0.9173	dog	Andrew	0.3229	0.0496 mph	0.395	-0.2107	1155	BIOTECHNOLOGY	169	955
+1	842 m^2	0.0052	chicken	Fabrice, Michael, Sam, Lise	-0.058	0.8513 mph	0.9602	0.9966	117	Statistics	-180	889
+3	954 m^2	0.4713	pig	Reilly	0.2762	0.5629 mph	0.904	-0.1188	-301	Robotics Engineering	434	87
+2	-94 m^2	0.8548	cat	Andrew	0.6052	0.1981 mph	0.2076	0.5121	421	Biotechnology	326	751
+1	415 m^2	-0.0134	N/A	Michael, Fabrice, Lise	0.3273	0.7978 mph	0.7315	0.6187	755	Data Science	70	630
+3	843 m^2	0.9727	pig	Reilly	0.0174	0.4215 mph	0.9072	0.3978	298	Games and Playable Media	453	112
+2	180 m^2	0.7697	ferret	Andrew	1.1931	0.2166 mph	0.4245	-0.1986	n/a	Natural Language Processing	844	385
+3	748 m^2	0.8006	pig	Reilly	-0.1782	0.1071 mph	0.7314	0.3039	485	Robotics Engineering	377	143
+1	662 m^2	0.1921	guinea pig	Lise, Sam, Fabrice, Michael	-0.0171	0.8022 mph	0.9865	0.8986	259	Statistics	210	1361
+2	89 m^2	0.5618	fish	Andrew	0.9088	?	0.6319	0.3047	682	Bioinformatics	764	611
+3	605 m^2	0.5858	pig	Reilly	0.0443	0.6968 mph	0.6637	-0.2287	0	Robotics Engineering	622	32
+2	100 m^2	0.5237	reptile	Andrew	0.569	0.1553 mph	0.7228	0.1484	809	Computer Game Design	599	992
+1	767 m^2	0.2347	fish	Lise, Chris	0.0183	0.9511 mph	0.7608	0.4028	573	Computer Science	183	760
+0	-50 m^2	0.6664	rabbit	Inan	1.1375	0.4214 mph	-0.2998	0.8018	629	Computer Game Design	1227	385
+2	164 m^2	0.7548	pig	Andrew	0.5003	0.2447 mph	0.1544	-0.1326	559	Biotechnology	695	917
+0	255 m^2	0.6117	hamster	Inan	0.7246	0.2432 mph	0.0281	0.8775	299	Computer Game Design	1266	483
+2	57 m^2	0.9404	ferret	Andrew	0.5938	0.2804 mph	0.4506	0.1439	637	Natural Language Processing	776	926
+1	644 m^2	-0.0232	fish	Vani, Tony	0.1971	0.479 mph	0.8505	0.6118	705	Data Science	228	762
+1	945 m^2	0.2869	guinea pig	Fabrice, Lise, Chris	0.3007	0.5927 mph	0.9083	0.7983	312	Statistics	-345	762
+1	603 m^2	0.2244	guinea pig	Lise, Sam, Fabrice, Chris	-0.033	0.9761 mph	0.8205	1.1309	134	Computer Science	179	623
+0	327 m^2	0.651	cat	Vani	0.9761	0.3482 mph	0.3942	0.3384	760	Computer Game Design	1179	522
+2	340 m^2	0.7186	reptile	andrew	0.6391	0.2522 mph	0.21	0.1992	355	Electrical Engineering	484	844
+2	263 m^2	0.5473	bird	Andrew	0.6542	0.3923 mph	0.3808	0.1968	999	Electrical Engineering	897	918
+2	35 m^2	0.7759	bird	Andrew	0.955	0.1885 mph	0.7941	0.2469	747	Bioinformatics	928	361
+1	799 m^2	-0.0716	guinea pig	MICHAEL	0.3084	0.7155 mph	1.1277	0.803	339	Statistics	239	611
+0	324 m^2	0.4225	rabbit	Chris, Michael, Lise	0.875	0.4722 mph	0.0589	0.7059	408	Computer Game Design	1081	752
+1	758 m^2	0.1583	hamster	Sam, Chris	0.0096	0.7133 mph	0.5735	0.8113	613	Data Science	171	1218
+1	737 m^2	0.1953	guinea pig	Chris, Fabrice, Sam, Lise	0.2721	0.5235 mph	0.8548	0.6152	212	Computer Science	-45	611
+0	515 m^2	0.4906	rat	Vani	0.5634	0.316 mph	0.1436	0.5756	n/a	Computer Game Design	655	-31
+3	1125 m^2	0.7969	pig	Reilly	0.1625	0.5724 mph	0.6003	0.1221	129	Computer Engineering	310	462
+0	509 m^2	0.3788	hamster	Vani, Inan	1.0093	0.0767 mph	-0.3173	0.5876	56	Computer Game Design	991	448
+1	719 m^2	0.3359	guinea pig	Andrew	0.1365	0.969 mph	0.6198	0.9127	449	Computer Science	43	1029
+1	575 m^2	0.1771	guinea pig	Chris	0.194	0.773 mph	0.7552	0.8085	654	Data Science	-78	838
+2	201 m^2	0.722	ferret	Andrew	0.7663	0.1621 mph	0.4025	0.441	546	Electrical Engineering	923	660
+3	920 m^2	0.3872	pig	Eriq	0.3602	0.9279 mph	0.4624	0.3322	-247	Bioengineering	353	598
+2	-16 m^2	1.0638	reptile	Andrew	0.8287	0.1272 mph	0.3581	0.4378	1014	Bioinformatics	559	822
+3	671 m^2	0.7577	pig	Reilly	0.1779	0.7055 mph	0.8793	0.0812	-99	Robotics Engineering	270	45
+2	123 m^2	0.7443	ferret	Andrew	0.6089	0.2485 mph	0.2208	0.3501	624	Electrical Engineering	685	549
+0	190 m^2	0.4662	rat	Tony	0.7377	0.1624 mph	0.0704	0.4663	1114	Computer Game Design	718	374
+1	787 m^2	0.1869	fish	Lise, Michael	0.2285	0.7446 mph	0.9483	0.9491	74	Computer Science	56	527
+0	230 m^2	0.4661	cat	Inan	0.6489	0.2059 mph	-0.0072	0.7488	677	Computer Game Design	745	297
+0	333 m^2	0.1384	cat	Inan, Tony	1.1051	0.3295 mph	-0.409	0.6556	770	Computer Game Design	1310	84
+2	57 m^2	0.9686	ferret	Andrew	0.479	0.1056 mph	0.3886	0.5709	714	Biotechnology	788	596
+0	304 m^2	0.5237	rat	Tony, Vani	0.8384	0.2168 mph	-0.0767	0.9193	649	Computer Game Design	808	511
+1	588 m^2	0.0305	chicken	Lise, Fabrice, Sam	0.0069	0.9341 mph	0.6507	0.8316	228	Data Science	-109	883
+1	1141 m^2	-0.1512	chicken	Chris, Fabrice	-0.1933	0.7823 mph	0.8054	0.7226	419		415	862
+2	190 m^2	1.0924	ferret	Andrew	0.7842	0.2718 mph	0.2261	0.0139	693	Biotechnology	254	584
+0	265 m^2	0.6681	rat	Vani	0.5115	0.4284 mph	0.0822	0.8547	449	Computer Game Design	813	907
+3	862 m^2	0.5439	pig	Reilly	0.587	0.4864 mph	0.7809	0.4227	90	Games and Playable Media	413	30
+1	419 m^2	0.3871	fish	Lise, Michael, Fabrice	0.4172	0.6723 mph	0.7194	0.7604	55	Computational Media	396	653
+2	226 m^2	0.9384	reptile	ANDREW	0.7401	0.0917 mph	0.4105	n/a	1149	Biotechnology	345	597
+2	58 m^2	0.6584	reptile	Andrew	0.627	0.2145 mph	0.5763	0.1319	795	Electrical Engineering	245	1110
+3	958 m^2	0.5682	pig	Eriq	0.1528	0.6405 mph	0.8013	0.4083	227	Games and Playable Media	542	36
+3	873 m^2	0.966	pig	Reilly	0.0045	0.8008 mph	0.9544	0.3665	406	Computer Game Design	246	-3
+2	237 m^2	0.7149	reptile	Andrew	0.6349	0.279 mph	0.6906	0.0496	864	Electrical Engineering	407	1012
+1	600 m^2	-0.0078	chicken	Sam	0.1774	0.8298 mph	0.4489	0.7123	233	Data Science	-24	951
+1	758 m^2	0.3744	rabbit	Lise, Chris, Michael, Sam	-0.1271	0.9463 mph	0.7387	None	318	Technology and Information Management	-162	1574
+1	740 m^2	0.2482	chicken	Sam, Fabrice, Lise	?	0.96 mph	0.6587	1.2951	395	Data Science	572	969
+0	145 m^2	0.2532	rat	Tony, Vani	0.6718	0.3897 mph	0.1761	0.3538	72	Computer Game Design	1062	403
+1	656 m^2	0.3483	FISH	Chris, Fabrice, Lise	-0.1736	0.9293 mph	0.4822	0.8831	1024	Statistics	-348	713
+3	861 m^2	0.7717	pig	Reilly	0.1392	0.6612 mph	0.7762	0.2521	270	Computer Engineering	498	369
+0	238 m^2	0.394	chicken	Inan, Tony	1.009	0.2927 mph	0.1145	0.4667	753	Computer Game Design	1173	203
+1	451 m^2	0.3637	chicken	Sam	0.4125	0.8747 mph	0.9636	0.6302	918	sTATISTICS	40	599
+0	489 m^2	0.3002	cat	Tony	0.7154	0.3215 mph	0.0434	1.1094	735	Computer Game Design	1081	245
+3	1031 m^2	0.495	pig	Reilly	0.415	0.7354 mph	1.1661	0.1651	-72	Bioengineering	328	154
+0	241 m^2	0.7161	rabbit	Vani, Inan	0.8132	0.5463 mph	0.0708	0.5015	894	Computer Game Design	1021	679
+2	147 m^2	0.5524	reptile	Andrew	0.8714	0.2865 mph	0.472	0.4481	600	Bioinformatics	837	433
+0	531 m^2	0.6018	rat	Vani, Inan	0.9952	0.0989 mph	-0.0441	0.4182	1034	Computer Game Design	1344	378
+1	1013 m^2	0.0956	chicken	Chris, Lise	0.2018	1.1269 mph	0.6348	0.9502	398	Technology and Information Management	11	1499
+2	249 m^2	0.874	dog	Andrew	0.7197	0.0738 mph	0.3745	-0.3447	595	Bioinformatics	506	676
+0	278 m^2	0.4391	dog	Tony, Vani	0.8103	0.5794 mph	None	0.9378	423	Computer Game Design	1369	423
+0	375 m^2	0.8524	rat	Tony, Inan	0.9955	0.0377 mph	0.1326	0.3851	589	Computer Game Design	1012	30
+1	646 m^2	-0.111	chicken	Lise	0.3531	0.678 mph	1.3108	0.5845	313	Data Science	172	1326
+0	545 m^2	0.448	cat	Vani, Tony	0.9531	0.1923 mph	0.2481	0.4895	427	Computer Game Design	708	1008
+1	927 m^2	0.0481	fish	Fabrice, Michael, Sam	-0.3773	0.55 mph	0.9186	0.8188	429	Statistics	-178	825
+1	994 m^2	0.2024	hamster	Michael	-0.2903	0.9115 mph	0.4596	0.6646	563	Applied Mathematics	-94	622
+2	154 m^2	0.6509	reptile	Andrew	0.578	-0.0792 mph	0.1161	0.1029	909	Bioinformatics	648	639
+1	557 m^2	0.0446	fish	Eriq	0.127	0.9562 mph	0.7029	0.947	200	Computer Science	335	650
+1	970 m^2	0.1303	fish	Michael	0.2185	0.8736 mph	0.782	1.0357	494	Applied Mathematics	-37	760
+3	901 m^2	0.6427	pig	Eriq	0.19	0.8633 mph	0.7581	0.2245	156	COMPUTER ENGINEERING	-299	211
+1	968 m^2	-0.22	guinea pig	Chris	0.0561	0.7138 mph	1.0787	0.5274	453	Data Science	189	853
+0	632 m^2	0.7892	rat	Tony, Inan	0.7845	NULL	-0.0937	0.653	673	Computer Game Design	1116	224
+3	956 m^2	0.6758	pig	Reilly	0.3902	0.599 mph	0.6342	0.5764	25	Computer Engineering	378	-52
+0	260 m^2	0.4964	hamster	Inan, Vani	1.0523	0.3181 mph	-0.0364	0.4104	1126	cOMPUTER gAME dESIGN	962	515
+1	672 m^2	0.1347	chicken	Michael, Lise	-0.2285	1.0472 mph	0.6413	0.4844	250	Data Science	-76	601
+0	42 m^2	0.5445	CAT	Inan	0.853	0.231 mph	0.1792	0.973	1281	Computer Game Design	1314	539
+0	491 m^2	0.3724	cat	Vani, Inan	1.1654	0.0867 mph	-0.0725	0.6696	765	Computer Game Design	965	637
+2	184 m^2	0.94	dog	Andrew	0.632	-0.1727 mph	0.404	0.2449	954	Bioinformatics	903	568
+0	484 m^2	0.4919	rabbit	Inan	1.0842	0.4923 mph	0.2343	0.8146	335	Computer Game Design	676	761
+0	539 m^2	0.7347	hamster	Inan, Vani	1.2593	0.567 mph	0.1028	0.3082	528	Computer Game Design	1157	260
+3	809 m^2	0.9618	pig	Reilly	0.001	0.7715 mph	0.5888	0.4145	101	Human Computer Interaction	115	-87
+1	696 m^2	0.335	fish	Sam	-0.2104	0.8696 mph	0.5262	0.6548	753	Computational Media	273	794
+0	552 m^2	0.2197	cat	Vani, Tony	0.6427	0.3856 mph	0.0662	0.8371	397	Computer Game Design	950	313
+2	239 m^2	0.7791	ferret	Andrew	0.9266	0.1858 mph	0.4191	0.3149	1074	Electrical Engineering	288	706
+3	556 m^2	0.719	pig	Eriq	0.3371	0.814 mph	0.6322	0.7176	119	Computer Engineering	289	375
+2	222 m^2	0.8437	ferret	Andrew	0.4548	0.2295 mph	0.554	0.1615	443	Electrical Engineering	718	559
+0	625 m^2	0.2524	rat	Tony	0.6006	0.5318 mph	0.418	0.0557	906	Computer Game Design	1139	49
+0	578 m^2	0.6093	hamster	Tony, Vani	0.8558	0.5362 mph	0.0073	0.5494	1019	Computer Game Design	1048	572
+0	358 m^2	0.2534	cat	Inan, Vani	0.7663	0.4004 mph	0.1094	0.7569	810	Computer Game Design	1255	777
+1	1053 m^2	0.0629	guinea pig	Lise	0.053	0.8539 mph	0.5785	0.5849	403	Data Science	376	1119
+1	660 m^2	0.3495	guinea pig	Lise	-0.1184	0.8586 mph	0.5512	0.6313	385	Computer Science	83	1207
+1	832 m^2	0.159	chicken	Fabrice, Lise, Chris	0.4348	0.7711 mph	1.0338	0.6791	538	Computational Media	-148	965
+0	-26 m^2	0.3849	cat	Inan, Vani	1.1262	0.7003 mph	-0.0006	0.8474	743	Computer Game Design	917	929
+1	698 m^2	0.3398	guinea pig	Fabrice	-0.155	0.5776 mph	0.6203	0.7549	365	COMPUTATIONAL MEDIA	152	887
+1	758 m^2	-0.1761	fish	Michael, Sam, Chris, Fabrice	-0.2333	0.8915 mph	1.01	1.2523	0	Data Science	-520	1009
+1	563 m^2	0.0827	guinea pig	Lise		0.5407 mph	0.6773	0.9774	196	Biotechnology	414	660
+1	689 m^2	0.2093	fish	Fabrice	-0.1399	0.9624 mph	0.5244	0.8242	373	Computational Media	310	905
+2	?	1.0251	reptile	Andrew	0.8895	-0.0521 mph	0.3239	-0.0916	971	Natural Language Processing	501	547
+2	132 m^2	0.7415	bird	Andrew	0.8372	-0.0053 mph	0.5546	-0.0753	941	Bioinformatics	610	981
+1	712 m^2	0.0347	fish	Chris, Fabrice, Michael	-0.1496	0.7459 mph	0.8579	0.8781	467	Computer Science	-418	900
+2	9 m^2	0.9579	reptile	Andrew	0.9001	0.1481 mph	0.2118	0.0794	773	Electrical Engineering	580	1067
+1	646 m^2	0.4787	fish	Michael, Chris	0.0867	0.5806 mph	0.7545	0.5874	112	Applied Mathematics	63	357
+0	578 m^2	0.5755	cat	Inan, Tony	0.7743	0.5647 mph	-0.3227	0.5131	343	Computer Game Design	908	437
+2	244 m^2	0.8011	dog	Andrew	0.3698	-0.2324 mph	0.502	0.0492	1121	Bioinformatics	687	534
+3	748 m^2	0.9633	pig	Reilly	0.3241	0.6475 mph	0.8001	0.2664	323	Robotics Engineering	203	403
+1	179 m^2	0.1059	fish	Fabrice	0.5412	0.4362 mph	0.5212	0.9071	174	Applied Mathematics	-233	1290
+3	637 m^2	0.7272	pig	fABRICE, lISE	0.3738	0.6845 mph	1.0056	0.5919	52	Robotics Engineering	460	18
+1	679 m^2	0.6643	chicken	Sam, Michael	0.2759	0.8784 mph	0.9647	0.4349	624	Data Science	-58	1295
+1	639 m^2	0.2776	chicken	Chris	0.1782	0.9418 mph	0.7314	0.7948	1025	Computer Science	-99	1217
+0	770 m^2	0.2436	hamster	Inan, Tony	0.6872	0.5171 mph	None	0.2779	717	Computer Game Design	820	74
+1	820 m^2	0.2287	chicken	fABRICE, sAM	-0.0611	1.1991 mph	0.8943	0.4521	918	Applied Mathematics	-145	1208
+3	761 m^2	0.8768	pig	Reilly	0.1784	0.7868 mph	0.5272	-0.0033	561	Computer Engineering	240	220
+0	5 m^2	0.6018	rabbit	Inan, Tony	0.7588	0.5889 mph	-0.1103	0.4417	562	Computer Game Design	1041	219
+1	631 m^2	-0.0058	fish	Chris, Fabrice	-0.0065	1.1237 mph	0.8678	0.8398	248	Data Science	34	1040
+1	931 m^2	0.6056	guinea pig	Sam, Lise, Chris, Fabrice	0.3437	0.9637 mph	0.8478	0.9996	2	Computer Science	248	937
+1	955 m^2	0.0229	chicken	Chris	0.4464	1.0326 mph	0.8599	0.5635	1	Technology and Information Management	-562	772
+2	368 m^2	0.8087	ferret	Andrew	0.9528	-0.0038 mph	-0.0405	0.187	488	Natural Language Processing	851	971
+1	1058 m^2	-0.3018	chicken	Sam, Chris	0.1497	0.8972 mph	0.8589	0.8234	131	Technology and Information Management	11	1141
+0	137 m^2	0.6734	rat	Vani	0.7328	0.1695 mph	-0.036	0.7549	423	Computer Game Design	793	522
+2	248 m^2	?	reptile	Fabrice, Michael, Chris, Lise	0.2921	0.2163 mph	0.129	-0.0147	438	Electrical Engineering	501	384
+1	733 m^2	0.0266	chicken	Michael	0.3991	0.6973 mph	0.8863	0.6203	201	Applied Mathematics	-348	795
+0	479 m^2	0.6485	hamster	Inan	0.5245	0.0597 mph	0.2288	0.4361	556	Computer Game Design	1134	477
+3	472 m^2	0.8476	chicken	Andrew	0.1664	0.5359 mph	0.5848	0.2867	388	Computer Engineering	429	153
+1	362 m^2	-0.0331	chicken	Fabrice, Chris, Sam, Michael	-0.3234	0.7147 mph	1.0765	0.6801	486	Computer Science	168	953
+0	333 m^2	0.6643	rabbit	Tony, Inan	0.6928	0.4212 mph	-0.1747	0.4919	490	Computer Game Design	1110	724
+1	607 m^2	0.021	fish	Chris, Lise	0.3359	0.6936 mph	0.9977	0.5022	?	Computer Science	485	1383
+2	101 m^2	1.0799	ferret	Andrew	0.9777	0.2347 mph	0.1082	0.2565	889	Bioinformatics	421	270
+0	310 m^2	0.3388	fish	N/A	0.6155	0.3902 mph	-0.0353	0.866	516	Computer Game Design	998	443
+1	759 m^2	0.5234	chicken	Fabrice, Chris, Lise, Michael	0.1383	0.9035 mph	1.2141	0.8326	279	Games and Playable Media	327	1078
+3	664 m^2	0.1812	pig	Andrew	0.6058	0.8358 mph	0.7911	0.7918	95	Bioengineering	230	355
+2	-140 m^2	0.7108	dog	Andrew	0.6069	?	0.3076	-0.1684	769	Biotechnology	797	708
+2	194 m^2	0.9448	bird	Andrew	1.017	0.2067 mph	0.4861	0.0684	1141	Biotechnology	327	506
+0	270 m^2	0.5373	rabbit	Tony, Inan	0.7322	0.4563 mph	0.3866	0.4222	389	Computer Game Design	927	179
+3	889 m^2	0.8303	pig	Eriq	0.1902	0.6705 mph	1.2703	0.4212	518	Robotics Engineering	542	85
+1	635 m^2	0.2061	fish	Lise	-0.1271	0.8865 mph	0.8979	1.2149	404	Technology and Information Management	-17	1277
+3	652 m^2	0.9103	pig	Eriq	-0.003	0.9114 mph	0.778	0.5681	322	Computer Engineering	583	-178
+1	676 m^2	0.0528	chicken	Chris, Fabrice	0.1439	0.7172 mph	0.6567	0.6533	375	Data Science	162	811
+2	299 m^2	0.924	reptile	Andrew	0.678	0.1727 mph	-0.0062	0.4301	488	Bioinformatics	585	643
+1	593 m^2	0.4429	guinea pig	Michael, Lise, Fabrice	0.0814	0.5383 mph	0.1742	0.7362	278	Computer Science	240	910
+3	846 m^2	0.5874	pig	Reilly	0.1342	0.6808 mph	0.8181	0.5862	-282	Games and Playable Media	102	324
+1	617 m^2	0.1203	fish	Chris, Sam	-0.0037	0.845 mph	0.5358	0.9665	313	NULL	-272	1096
+1	481 m^2	0.2679	fish	Lise, Michael, Sam, Fabrice	0.018	1.1085 mph	0.9554	0.7794	331	Data Science	-395	1250
+1	743 m^2	-0.1225	chicken	Chris, Lise	-0.0724	0.8105 mph	0.4324	0.5573	365	Computer Science	181	707
+2	212 m^2	0.9046	dog	Andrew	0.6947	0.2621 mph	0.461	-0.056	831	Natural Language Processing	694	533
+3	940 m^2	0.7842	pig	Reilly	0.1052	N/A	0.4915	0.1429	562	Games and Playable Media	457	256
+0	338 m^2	0.5706	rat	Inan	0.6465	0.3833 mph	0.0324	NULL	934	Computer Game Design	963	282
+3	761 m^2	0.6903	pig	Reilly	0.4733	0.9577 mph	0.8033	0.6262	-99	Bioengineering	145	614
+1	766 m^2	0.1725	chicken	Chris, Sam	0.0555	1.0422 mph	0.7594	0.7153	117	Applied Mathematics	-198	1353
+0	381 m^2	0.6052	rat	Inan, Vani	0.4461	0.1855 mph	-0.0455	0.4922	629	Computer Game Design	1211	217
+1	617 m^2	-0.1367	guinea pig	Michael, Fabrice, Lise, Sam	0.0561	0.5188 mph	0.7397	1.0382	419	Data Science	-223	1155
+0	327 m^2	0.2491	cat	Inan, Vani	0.5913	0.2456 mph	-0.3015	0.3512	626	Computer Game Design	997	n/a
+3	898 m^2	0.4236	pig	Reilly	0.2995	0.8309 mph	0.955	0.3762	506	Bioengineering	405	219
+0	398 m^2	0.3725	cat	Tony	1.1952	0.3938 mph	0.0039	0.6843	904	Computer Game Design	1034	179
+2	222 m^2	0.5683	ferret	Reilly	0.6604	0.1638 mph	0.3729	0.3783	767	Biotechnology	983	667
+0	364 m^2	0.7579	rat	Inan, Vani	0.6095	0.4988 mph	0.052	0.4979	506	Computer Game Design	1191	628
+2	-69 m^2	1.1059	dog	Andrew	0.256	0.2528 mph	0.2773	-0.0834	889	Electrical Engineering	778	578
+0	None	0.5297	hamster	INAN	0.9973	0.1491 mph	-0.0425	0.5933	477	Computer Game Design	536	925
+2	291 m^2	0.9644	reptile	Andrew	0.8039	0.015 mph	0.7723	-0.3969	1236	?	648	471
+3	808 m^2	0.9083	pig	Reilly	0.355	0.9257 mph	0.7034	0.2568	445	Computer Engineering	51	217
+0	466 m^2	0.4766	hamster	Tony	0.7351	0.235 mph	-0.1089	0.7958	391	Computer Game Design	980	565
+3	657 m^2	0.5545	pig	Eriq	0.3124	0.4038 mph	0.722	0.1587	260	Robotics Engineering	3	400
+0	27 m^2	0.2519	cat	Inan	0.7123	0.4419 mph	0.3065	0.5136	877	Computer Game Design	916	165
+0	61 m^2	0.6465	rabbit	Tony	1.0482	0.4743 mph	-0.3897	0.2191	651	Computer Game Design	1107	521
+0	467 m^2	0.4112	rabbit	Inan	0.6193	0.1291 mph	-0.1063	0.6529	586	Computer Game Design	1287	574
+1	912 m^2	0.0106	fish	Lise, Sam, Michael	0.5105	0.9323 mph	0.6259	1.3558	541	Statistics	-68	1045
+0	189 m^2	0.4502	hamster	Vani, Inan	0.6796	0.4564 mph	-0.1281	0.8799	491	Computer Game Design	1015	651
+1	599 m^2	0.2396	fish	Michael, Chris	0.1847	0.8256 mph	0.9184	0.4967	383	Applied Mathematics	-61	675
+2	85 m^2	0.5872	ferret	Andrew	0.312	0.2487 mph	0.4114	0.1067	681	Biotechnology	267	843
+2	388 m^2	0.7144	guinea pig	Andrew	0.7668	-0.1552 mph	0.7736	-0.1138	1078	Bioinformatics	379	761
+2	387 m^2	0.8854	reptile	Andrew	0.4443	0.0739 mph	0.4418	0.7927	979	Bioinformatics	869	705
+0	312 m^2	0.2527	rat	Inan, Vani	0.8601	0.1751 mph	-0.4479	0.4432	463	Computer Game Design	1279	474
+3	837 m^2	0.5511	pig	Inan	0.5142	0.5878 mph	0.7836	0.2002	210	human computer interaction	81	-283
+1	943 m^2	0.2612	chicken	Fabrice, Chris, Sam	-0.139	0.8455 mph	0.6748	0.5372	212	Technology and Information Management	83	887
+2	165 m^2	1.0001	reptile	Andrew	0.4745	0.4336 mph	0.2468	0.3055	956	Electrical Engineering	471	725
+2	227 m^2	0.6445	dog	Andrew	0.9583	-0.2399 mph	0.3477	-0.0851	1085	Electrical Engineering	789	1006
+3	724 m^2	n/a	pig	Reilly	0.3762	0.7404 mph	0.7481	-0.0382	106	Human Computer Interaction	322	195
+0	271 m^2	0.6246	cat	Vani	0.7674	0.5624 mph	0.0171	0.7208	557	Computer Game Design	1089	634
+2	-65 m^2	0.9247	ferret	Andrew	0.9288	0.2547 mph	0.4573	0.1274	879	Natural Language Processing	521	440
+0	600 m^2	0.4599	cat	Vani, Tony	0.5827	0.2621 mph	0.2932	0.653	512	Computer Game Design	671	797
+0	97 m^2	0.3033	hamster	Inan, Vani	1.1556	0.3536 mph	0.294	0.8213	475	Computer Game Design	1380	161
+2	20 m^2	0.9914	bird	Andrew	0.4646	0.1704 mph	-0.0208	0.0779	693	Natural Language Processing	1008	528
+3	689 m^2	0.4386	pig	Eriq		0.5979 mph	0.7056	0.4076	113	Human Computer Interaction	291	-177
+2	-109 m^2	0.6324	dog	Andrew	0.5212	0.3238 mph	0.544	-0.0749	882	Biotechnology	662	712
+3	666 m^2	0.4012	pig	Eriq	0.1936	0.9939 mph	0.5189	0.2634	424	Bioengineering	303	242
+3	868 m^2	0.5778	pig	Eriq	0.6574	0.4937 mph	0.9939	0.3484	13	Bioengineering	313	-226
+0	386 m^2	0.6578	rat	Vani, Inan	0.5508	0.3942 mph	-0.191	0.5712	10	Computer Game Design	1032	180
+3	702 m^2	0.4924	pig	Eriq	0.1695	0.7408 mph	0.8537	0.7331	-64	Computer Engineering	340	385
+2	-32 m^2	1.1189	dog	Andrew	0.6317	0.2125 mph	0.3203	0.2379	830	Natural Language Processing	764	549
+3	719 m^2	0.6153	pig	Reilly	0.112	0.9271 mph	0.688	0.5137	9	Human Computer Interaction	631	501
+0	247 m^2	0.5688	rat	Vani, Tony	0.9325	0.407 mph	0.1133	0.6662	632	Computer Game Design	1018	374
+1	573 m^2	0.3909	chicken	Sam, Chris, Fabrice	-0.0571	1.005 mph	1.1575	0.5486	377	Technology and Information Management	-373	858
+0	171 m^2	0.1505	hamster	Vani, Inan	0.6616	0.3344 mph	0.1422	0.5788	445	None	885	655
+0	425 m^2	0.368	rat	Vani, Inan	0.8122	0.4905 mph	-0.2413	0.3654	580	Computer Game Design	1142	None
+3	1126 m^2	0.3312	pig	Reilly	0.0583	0.7374 mph	0.6059	0.3458	258	Robotics Engineering	105	-40
+0	763 m^2	0.6291	Hamster	Tony, Inan	0.9395	0.6396 mph	0.012	1.0928	278	Computer Game Design	741	366
+0	338 m^2	0.2998	rabbit	Tony	0.4079	0.6469 mph	0.4516	0.9076	453	Computer Game Design	1103	397
+2	-337 m^2	0.9663	bird		0.5667	0.2435 mph	0.366	0.3982	785	NATURAL LANGUAGE PROCESSING	586	556
+3	867 m^2	0.6044	pig	Reilly	-0.1106	0.7138 mph	0.8444	0.4121	64	Robotics Engineering	204	349
+3	704 m^2	0.527	pig	Eriq	0.2142	0.5292 mph	0.6997	0.3688	403	Computer Engineering	-112	-131
+1	674 m^2	0.3703	fish	Chris	0.556	0.5498 mph	0.7477	0.972	294	Computational Media	-128	538
+0	343 m^2	0.37	rat	Inan	0.8085	0.3524 mph	-0.1793	0.7269	612	Computer Game Design	1098	567
+3	774 m^2	0.3196	pig	Eriq	0.5924	0.6121 mph	0.5178	0.4417	478	Games and Playable Media	388	536
+0	308 m^2	0.6459	cat	Inan, Vani	1.4355	0.3538 mph	-0.0546	0.383	1265	Computer Game Design	734	782
+1	699 m^2	0.2975	guinea pig	Lise, Fabrice	0.3602	0.9854 mph	1.0295	0.653	462	Computer Science	-2	1641
+0	310 m^2	0.1145	rabbit	Tony, Inan	0.8888	0.0707 mph	0.2848	0.9331	605	Computer Game Design	795	627
+0	536 m^2	0.6432	rat	Inan	0.3819	0.563 mph	0.0458	0.8319	901	Computer Game Design	1116	297
+2	32 m^2	0.9884	ferret	Andrew	0.859	-0.1208 mph	0.4195	0.3751	401	eLECTRICAL eNGINEERING	549	456
+3	548 m^2	0.7674	pig	Reilly	0.0891	0.7129 mph	0.5689	0.6146	3	Human Computer Interaction	646	122
+2	102 m^2	0.641	reptile	Andrew	0.6107	-0.2487 mph	0.2073	0.2987	497	Natural Language Processing	458	861
+3	700 m^2	0.7622	pig	Reilly	0.3591	0.6623 mph	1.101	0.2649	421	Robotics Engineering	169	256
+2	-46 m^2	0.9257	ferret	Andrew	0.9112	0.1105 mph	0.3127	0.0824	1027	Natural Language Processing	288	11
+0	228 m^2	0.3711	rabbit	Vani, Tony	0.7393	0.5273 mph	0.1047	0.1636	496	Computer Game Design	1432	297
+0	333 m^2	0.5781	rat	Tony	0.9714	0.3675 mph	0.0843	0.2919	1182	Computer Game Design	771	671
+2	-27 m^2	1.1357	REPTILE	Andrew	0.865	0.238 mph	0.2416	-0.1923	838	Bioinformatics	791	773
+2	45 m^2	0.8413	bird	Andrew	0.8575	-0.1335 mph	0.4307	-0.2388	758	Bioinformatics	386	397
+1	654 m^2	0.037	guinea pig	Fabrice, Sam, Lise, Michael	-0.198	0.7492 mph	0.789	0.9657	428	Human Computer Interaction	258	803
+1	513 m^2	0.1952	Chicken	Chris	-0.0809	0.8772 mph	0.6974	0.7383	206	Applied Mathematics	-194	1064
+1	901 m^2	0.0004	fish	Fabrice, Lise, Chris, Michael	-0.2424	1.1535 mph	0.8216	0.8634	342	Computer Science	-210	1190
+1	871 m^2	0.11	chicken	Lise	0.4024	1.0656 mph	1.1643	0.8452	415	Data Science	198	659
+3	773 m^2	0.709	pig	Fabrice	0.3452	0.8005 mph	0.5633	0.1561	254	Games and Playable Media	389	181
+2	74 m^2	0.5795	dog	ANDREW	0.6905	0.131 mph	0.5866	0.4265	985	Bioinformatics	563	620
+2	-68 m^2	0.8654	bird	Andrew	0.4061	-0.1176 mph	0.6834	0.1834	1003	Natural Language Processing	338	1061
+1	750 m^2	0.1553	guinea pig	Fabrice	0.1415	0.9619 mph	0.9616	0.6426	6	Technology And Information Management	340	410
+3	782 m^2	0.8252	pig	Eriq	0.5871	0.3138 mph	1.0753	0.3981	536	Games and Playable Media	418	10
+1	598 m^2	0.1946	fish	Chris	0.2841	0.867 mph	0.7942	0.6688	1064	Statistics	-213	834
+2	170 m^2	0.8058	ferret	Andrew	0.4383	0.1047 mph	0.2689	0.5577	1009	Biotechnology	661	1017
+0	655 m^2	0.4022	hamster	Vani	0.8639	0.1542 mph	0.0505	0.828	717	Computer Game Design	866	176
+3	551 m^2	0.7402	pig	Eriq	-0.0175	0.7994 mph	0.487	0.1145	460	Human Computer Interaction	519	268
+2	177 m^2	0.862	reptile	Andrew	0.8673	0.1453 mph	0.8428	-0.086	563	?	650	798
+0	297 m^2	0.5867	rabbit	Vani, Inan	0.8327	0.3505 mph	-0.0945	0.7245	602	Computer Game Design	1449	137
+3	957 m^2	0.7083	pig	Reilly	-0.0584	0.9875 mph	0.5488	0.3051	589	cOMPUTER eNGINEERING	274	414
+3	798 m^2	0.4952	pig	Reilly	0.2183	0.8779 mph	0.7939	0.3498	364	Robotics Engineering	42	330
+2	-261 m^2	0.9463	ferret	Andrew	0.7725	0.1402 mph	0.2738	0.3315	818	Bioinformatics	401	659
+0	628 m^2	0.5351	cat	Inan	1.0538	0.2423 mph	-0.0528	0.8325	477	Computer Game Design	934	597
+0	138 m^2	0.5327	cat	vANI, iNAN	1.1589	0.4745 mph	-0.01	0.6957	837	Computer Game Design	616	352
+1	822 m^2	-0.0592	guinea pig	Michael, Sam, Chris	-0.0331	1.0337 mph	0.5657	1.0221	220	Statistics	476	850
+0	124 m^2	0.6271	hamster	Vani	1.0447	0.3461 mph	0.2253	0.7263	509	Computer Game Design	1063	671
+1	480 m^2	0.1584	fish	Michael, Sam, Chris, Fabrice	-0.1458	1.0973 mph	0.7962	0.5863	639	Technology and Information Management	-154	624
+2	-19 m^2	0.8234	bird	Andrew	0.554	0.2688 mph	0.4331	0.1198	643	Biotechnology	817	610
+2	75 m^2	0.9016	dog	Andrew	1.0779	0.0266 mph	0.3887	0.4236	198	Biotechnology	708	187
+3	734 m^2	0.6892	pig	Eriq	-0.0182	0.8499 mph	0.8751	0.5884	398	Bioengineering	2	93
+2	154 m^2	0.8241	pig	Andrew	0.7303	0.2758 mph	0.5525	-0.0212	1039	Natural Language Processing	257	442
+0	333 m^2	0.1443	cat	Vani, Tony	0.9854	0.4818 mph	-0.1623	0.6886	658	Computer Game Design	889	198
+1	786 m^2	0.2684	fish	Michael, Fabrice	0.3035	0.7259 mph	0.5954	0.9601	416	Applied Mathematics	NULL	933
+1	965 m^2	0.11	Fish	Reilly	0.3443	0.8541 mph	0.6038	0.9052	302	Technology and Information Management	-587	661
+2	390 m^2	1.0102	dog	ANDREW	0.6484	0.0111 mph	-0.1425	0.2152	878	Electrical Engineering	456	681
+1	964 m^2	0.5653	RABBIT	Chris	0.0537	0.98 mph	0.8697	0.6842	44	Technology and Information Management	-179	1002
+3	718 m^2	0.2987	pig	Eriq	0.462	0.636 mph	0.7206	0.5437	519	Robotics Engineering	123	-168
+3	911 m^2	0.4623	pig	Vani, Tony	0.0621	0.818 mph	0.8377	0.1744	158	Robotics Engineering	801	-38
+0	480 m^2	0.3159	rabbit	Inan, Vani	1.1462	0.2319 mph	0.326	0.4183	398	computer game design	683	67
+2	371 m^2	0.8123	hamster	Andrew	0.8246	-0.0754 mph	0.4453	0.2321	1053	Biotechnology	458	657
+3	731 m^2	0.5591	pig	Reilly	0.4931	0.6742 mph	0.8316	0.3946	n/a	Robotics Engineering	297	217
+3	1017 m^2	0.6616	pig	eriq	0.7181	0.6685 mph	0.719	-0.0145	407	Games and Playable Media	288	13
+3	826 m^2	0.6191	fish	Reilly	0.0336	0.8853 mph	1.2841	0.6313	142	Bioengineering	448	-96
+1	930 m^2	-0.0981	chicken	Sam	0.3013	0.8916 mph	0.9457	1.2097	453	Applied Mathematics	-16	941
+2	36 m^2	0.4858	ferret	Andrew	0.4812	0.0806 mph	0.4043	0.2137	1096	Bioinformatics	444	595
+0	302 m^2	0.6347	hamster	Tony, Inan	0.9381	0.4114 mph	-0.3579	0.6329	528	Computer Game Design	1102	662
+1	649 m^2	0.4401	chicken	Lise, Sam, Michael	-0.2432	0.7219 mph	0.1114	1.0428	659	Technology and Information Management	-403	734
+3	375 m^2	0.9708	pig	Reilly	0.2228	0.728 mph	0.8237	0.6599	-156	human computer interaction	738	326
+0	38 m^2	0.6269	hamster	Vani, Tony	1.0851	0.2992 mph	0.0757	0.6487	640	Computer Game Design	923	499
+2	-181 m^2	1.095	bird	Andrew	0.7301	-0.039 mph	0.6624	0.2235	969	N/A	298	781
+3	1017 m^2	0.8185	pig	Eriq	0.3656	0.5676 mph	0.544	0.5997	-17	Robotics Engineering	194	-194
+3	614 m^2	0.9242	pig	Eriq	0.3211	0.7234 mph	0.9872	0.6223	204	Biotechnology	-111	103
+2	320 m^2	1.0445	ferret	Andrew	0.9121	0.2003 mph	0.2562	-0.036	950	Electrical Engineering	759	280
+2	308 m^2	1.0325	bird	Andrew	0.8835	-0.0441 mph	0.3809	0.1517	947	Bioinformatics	118	258
+0	181 m^2	?	hamster	Inan, Tony	0.8865	0.5681 mph	-0.1119	0.7594	480	Computer Game Design	917	535
+1	793 m^2	0.5027	chicken	Sam	0.0655	0.7341 mph	0.5625	0.8512	659	Computational Media	-263	1197
+0	172 m^2	0.3912	hamster	Inan, Vani	1.054	0.2682 mph	0.0864	0.1667	692	Computer Game Design	846	428
+0	281 m^2	0.668	hamster	Vani	0.943	0.5726 mph	-0.0385	0.2253	614	Computer Game Design	1184	213
+0	445 m^2	0.4917	rabbit	Tony	1.1491	0.5668 mph	0.1952	1.1217	1113	Computer Game Design	863	431
+0	181 m^2	0.5906	cat	Inan, Tony	1.1775	0.4305 mph	0.0567	0.5247	739	Computer Game Design	891	299
+3	814 m^2	0.8283	pig	Reilly	0.4422	0.6617 mph	0.5274	0.6499	334	Computer Engineering	270	65
+0	223 m^2	0.6996	rabbit	Vani	0.637	0.6775 mph	-0.1761	0.9857	478	Computer Game Design	1303	649
+2	489 m^2	0.7864	fish	Andrew	0.9499	0.2005 mph	0.0125	0.5545	468	Electrical Engineering	545	1069
+0	2 m^2	0.2485	hamster	Inan, Tony	0.3625	0.1976 mph	0.0368	0.4933	808	Computer Game Design	1335	111
+2	171 m^2	0.8831	dog	Andrew	0.8523	0.0173 mph	0.744	0.0434	918	Electrical Engineering	604	610
+0	741 m^2	0.2847	rabbit	Fabrice, Michael, Sam, Lise	0.7285	0.2669 mph	-0.0119	0.946	610	Computer Game Design	968	511
+0	369 m^2	0.5469	rabbit	Inan, Tony	0.527	0.1116 mph	0.0627	0.9559	758	Computer Game Design	840	636
+3	725 m^2	0.8609	pig	Reilly	0.2094	0.4299 mph	0.7079	0.0155	-140	Robotics Engineering	643	322
+1	518 m^2	0.1328	guinea pig	Michael, Fabrice, Lise	0.1833	0.8335 mph	0.7202	0.8203	516	COMPUTER SCIENCE	254	969
+0	361 m^2	0.574	RAT	Vani	1.2093	0.4703 mph	0.4517	0.9156	1176	Computer Game Design	812	273
+1	724 m^2	0.0147	guinea pig	Sam	-0.2387	1.0236 mph	0.8644	0.8378	-74	Statistics	-49	570
+3	412 m^2	0.2648	pig	Eriq	0.1388	0.7182 mph	0.7531	0.1807	375	Robotics Engineering	202	-56
+1	851 m^2	0.5806	guinea pig	Sam, Fabrice, Chris	-0.099	0.4826 mph	0.7766	0.9366	396	Statistics	-33	1078
+3	615 m^2	0.409	pig	Reilly	0.0647	0.932 mph	0.8602	0.1399	363	Human Computer Interaction	644	-92
+0	283 m^2	n/a	rabbit	Tony	1.1118	0.3069 mph	-0.0309	0.7739	1171	Computer Game Design	866	145
+0	457 m^2	0.7764		Vani, Inan	0.6762	0.2945 mph	0.2216	0.9816	586	Computer Game Design	1186	400
+1	869 m^2	0.2461	chicken	lise	0.3793	0.8602 mph	0.7885	0.9603	339	Computer Science	210	1046
+2	18 m^2	0.5799	ferret	Andrew	0.4207	0.0267 mph	None	0.1237	505	Natural Language Processing	689	334
+3	1017 m^2	n/a	pig	NULL	0.3253	0.7584 mph	0.8516	0.1362	472	Human Computer Interaction	765	162
+1	759 m^2	0.198	fish	Chris	0.3293	0.5201 mph	0.5381	1.2535	187	Computer Science	-77	663
+1	587 m^2	-0.2142	guinea pig	Lise, Michael, Chris	-0.0808	0.8201 mph	0.6384	0.5276	-72	Statistics	78	908
+0	269 m^2	0.7595	cat	Vani	0.7947	0.5257 mph	-0.1571	0.4756	422	Computer Game Design	903	584
+3	1258 m^2	0.7047	pig	Eriq	0.3277	0.4932 mph	0.7472	0.3589	410	Bioengineering	656	-85
+3	754 m^2	0.7494	pig	Reilly	-0.0843	0.3552 mph	0.4892	-0.0099	236	Computer Engineering	366	99
+1	705 m^2	-0.0094	chicken	Fabrice, Sam, Michael, Chris	-0.1733	0.4619 mph	0.6576	0.8469	562	Computational Media	86	1053
+0	323 m^2	0.3731	hamster	Vani, Tony	0.8353	0.5109 mph	0.0909	0.755	880	Computer Game Design	964	638
+1	736 m^2	0.363	chicken	Chris, Michael, Sam, Lise	0.363	0.7104 mph	1.0	0.829	424	Computational Media	-153	888
+0	450 m^2	0.5276	hamster	Vani, Inan	0.7537	0.5123 mph	0.0341	0.5198	479	Computer Game Design	536	140
+3	954 m^2	0.7941	pig	Eriq	0.4794	0.6607 mph	0.7015	0.3574	-281	Bioengineering	299	185
+3	742 m^2	0.6675	chicken	Eriq	0.3213	0.8603 mph	0.7345	0.2383	82	Robotics Engineering	164	158
+0	408 m^2	0.3526	cat	Vani	0.7424	0.4143 mph	0.2712	0.7869	392	Computer Game Design	1063	215
+3	876 m^2	0.5734	pig	Reilly	-0.0016	0.9719 mph	0.7355	0.5432	158	Bioengineering	136	193
+1	748 m^2	0.1364	fish	Sam, Fabrice, Michael	0.3295	0.5429 mph	0.9842	0.8017	854	Technology and Information Management	-79	1075
+2	-182 m^2	0.8716	bird	Andrew	0.4526	0.2777 mph	0.5417	0.2755	1150	Biotechnology	394	502
+2	97 m^2	0.4697	ferret	Andrew	0.7245	0.424 mph	0.2248	0.3102	893	Bioinformatics	649	981
+0	402 m^2	0.6151	rabbit	Tony	0.8949	0.5156 mph	-0.0102	0.6331	883	Computer Game Design	907	172
+1	633 m^2	0.3613	guinea pig	Michael, Chris, Lise, Sam	0.2228	0.3786 mph	0.9276	0.5067	476	Data Science	196	585
+0	535 m^2	0.6584	rabbit	Vani, Inan	0.676	0.3045 mph	-0.1862	0.3934	1079	Computer Game Design	1039	673
+2	86 m^2	1.0052	reptile	Andrew	0.6582	0.0444 mph	0.2188	-0.5426	841	Bioinformatics	757	744
+0	356 m^2	0.2	cat	Vani	0.9975	N/A	-0.1367	0.4365	583	bIOINFORMATICS	1354	679
+1	791 m^2	0.4454	chicken	Michael	0.0729	1.0399 mph	1.0125	0.7577	232	Technology and Information Management	-190	726
+0	298 m^2	0.8756	cat	Vani, Tony	0.9716	0.3719 mph	-0.0199	0.7498	323	Computer Game Design	1102	879
+0	240 m^2	0.8134	hamster	Vani, Inan	1.0863	0.152 mph	0.267	0.6535	228	Computer Game Design	1239	529
+3	NULL	0.3887	fish	Eriq	-0.0095	0.7368 mph	0.698	0.5448	223	Robotics Engineering	400	95
+0	432 m^2	0.4447	rat	vANI	1.113	0.3442 mph	-0.1457	0.5101	743	Computer Game Design	745	232
+0	342 m^2	0.5267	rat	Tony	0.7533	0.4641 mph	0.0534	0.8711	819	Computer Game Design	1006	656
+1	745 m^2	0.3485	chicken	Fabrice, Sam, Michael, Chris	0.3988	0.7605 mph	0.6047	1.0279	691	Statistics	-335	971
+0	107 m^2	0.748	cat	Tony	0.625	0.2484 mph	-0.6054	0.4922	256	Computer Game Design	639	489
+0	224 m^2	0.706	rabbit	Tony, Vani	0.5579	0.1885 mph	0.2586	0.7297	676	Computer Game Design	1208	236
+3	660 m^2	0.6394	pig	Eriq	0.3161	0.3804 mph	0.6257	0.242	454	Computer Engineering	630	81
+1	619 m^2	?	NULL	Lise	0.0478	0.6667 mph	1.0738	0.8611	430	Applied Mathematics	20	1240
+0	475 m^2	0.4884	rat	Inan	0.7446	0.3786 mph	0.1618	0.4613	455	Computer Game Design	935	647
+2	249 m^2	0.3527	ferret	Andrew	0.5759	-0.1246 mph	0.4473	0.132	860	Electrical Engineering	603	655
+3	982 m^2	0.5164	pig	Reilly	-0.0709	0.7625 mph	0.8027	0.2434	100	Robotics Engineering	517	84
+1	522 m^2	-0.0165	fish	Eriq	0.1954	0.8514 mph	0.7581	0.6169	548	Data Science	172	572
+3	913 m^2	0.5434	pig	Reilly	0.6166	0.7682 mph	0.9288	0.1229	-136	Bioengineering	166	232
+1	624 m^2	-0.1579	chicken	mICHAEL, sAM, fABRICE	-0.0293	0.7332 mph		0.5997	343	Data Science	188	1013
+1	411 m^2	0.012	guinea pig	Eriq	-0.1839	0.823 mph	0.6292	1.2017	538	Statistics	-58	840
+3	970 m^2	0.706	pig	Reilly	0.4955	0.7213 mph	0.5357	-0.1713	-232	Human Computer Interaction	446	82
+1	565 m^2	0.1277	guinea pig	Chris, Fabrice	0.169	0.8003 mph	1.0372	1.0258	469	Technology and Information Management	246	969
+1	852 m^2	0.2538	chicken	Lise	0.1999	0.7194 mph	0.8667	0.569	65	cOMPUTER sCIENCE	2	935
+3	813 m^2	0.3723	pig	Reilly	0.3147	0.6918 mph	0.8021	0.0929	247	Bioengineering	575	-173
+3	None	0.5513	pig	Reilly	0.5536	0.7649 mph	0.7547	0.1769	304	Bioengineering	287	157
+3	1032 m^2	0.569	pig	Reilly	-0.0312	0.7774 mph	0.8536	0.4475	131	Robotics Engineering	819	360
+1	984 m^2	0.5959	guinea pig	Sam, Fabrice	0.1979	0.7141 mph	1.0271	0.7667	550	Bioinformatics	239	1307
+0	383 m^2	0.3982	hamster	Tony, Inan	0.758	0.2436 mph	-0.0389	0.7498	1044	Computer Game Design	828	361
+1	845 m^2	0.0538	guinea pig	Lise	-0.348	0.5285 mph	0.7901	0.9018	559	Statistics	-87	661
+0	563 m^2	0.329	chicken	Inan	0.7276	0.2906 mph	0.028	0.7319	347	Computer Game Design	863	510
+0	477 m^2	0.2366	reptile	Vani, Inan	0.7137	0.4347 mph	-0.0657	0.7067	380	Computer Game Design	1181	789
+1	696 m^2	0.5613	fish	Lise, Fabrice, Michael, Chris	0.0047	0.7185 mph	0.6172	0.782	156	Statistics	120	962
+3	534 m^2	0.6829	pig	Reilly	0.2362	0.6725 mph	1.0228	0.3862	332	Games and Playable Media	313	634
+2	161 m^2	0.763	bird	Andrew	0.6549	0.1063 mph	0.3923	0.4875	315	Electrical Engineering	441	950
+0	355 m^2	0.7792	hamster	Tony, Vani	1.1083	0.3087 mph	-0.2163	0.6248	425	Computer Game Design	1004	735
+3	1093 m^2	0.6476	pig	Reilly	0.4016	0.7313 mph	0.4464	0.503	97	Games and Playable Media	247	12
+2	348 m^2	0.7116	bird	Andrew	0.4242	0.1653 mph	0.0351	0.5177	945	Electrical Engineering	1003	332
+1	903 m^2	-0.0295	chicken	Lise, Fabrice	0.3076	0.805 mph	0.8753	0.803	595	Statistics	634	726
+0	483 m^2	0.4297	hamster	NULL	0.6501	0.4098 mph	-0.24	0.7708	1142	Computer Game Design	1151	298
+0	320 m^2	0.5504	rat	Inan, Tony	0.5334	0.3234 mph	-0.2447	0.6986	407	Computer Game Design	571	234
+3	771 m^2	0.832	pig	Reilly	0.2104	0.6702 mph	0.5772	0.5023	155	Games and Playable Media	398	-192
+1	857 m^2	0.2212	fish	Michael, Lise, Fabrice	0.2004	0.8121 mph	0.9175	0.9779	11	Data Science	-42	813
+0	325 m^2	0.29	cat	Tony	1.0864	0.534 mph	0.1525	0.7142	546	Computer Game Design	878	345
+0	437 m^2	0.651	hamster	Inan, Vani	0.5737	0.0667 mph	-0.2027	0.3361	435	Computer Game Design	1347	193
+2	-8 m^2	1.1513	bird	Andrew	0.9284	0.1064 mph	0.8103	0.1768	10	Bioinformatics	533	?
+2	349 m^2	0.6912	dog	Andrew	0.8796	0.0379 mph	0.3275	-0.0103	987	Bioinformatics	307	883
+1	683 m^2	-0.1577	chicken	Lise	0.2134	0.4839 mph	0.8938	0.6695	552	Technology and Information Management	N/A	1163
+1	768 m^2	0.3023	fish	Chris, Michael, Fabrice	-0.1583	0.7586 mph	0.827	0.316	269	Data Science	60	918
+3	825 m^2	0.9933	pig	Reilly	0.2196	0.8378 mph	0.8098	0.1769	259	Games and Playable Media	534	256
+1	718 m^2	0.2919	chicken	Fabrice, Lise, Sam	-0.0821	0.5423 mph	0.7288	1.0081	497	Applied Mathematics	-128	1193
+3	725 m^2	0.7536	pig	Eriq	0.8161	0.5968 mph	0.9235	0.4775	-87	Bioengineering	278	-198
+1	976 m^2	-0.156	chicken	Sam, Michael	-0.15	0.3817 mph	0.6864	0.4824	323	Technology and Information Management	-236	358
+1	491 m^2	-0.2442	chicken	Chris, Lise, Sam, Michael	0.0152	0.6118 mph	0.897	0.8481	415	Applied Mathematics	6	975
+0	240 m^2	0.3187	bird	cHRIS, lISE, mICHAEL	0.7515	0.5061 mph	0.4338	0.9692	416	Computer Game Design	726	799
+3	769 m^2	0.3252	pig	Reilly	0.2133	0.5642 mph	0.5118	0.4569	240	HUMAN COMPUTER INTERACTION	456	364
+1	845 m^2	0.2761	chicken	Lise, Chris, Sam	0.0244	0.6801 mph	0.8488	1.0213	199	Computational Media	-427	875
+2	69 m^2	1.011	ferret	Andrew	0.7632	0.2049 mph	0.2909	0.4446	925	Natural Language Processing	608	788
+3	746 m^2	0.7189	pig	Eriq	0.4795	0.3191 mph	0.9642	0.4237	162	Human Computer Interaction	295	29
+2	22 m^2	0.943	ferret	Andrew	0.7047	0.2153 mph	0.3271	-0.0054	1004	Bioinformatics	520	540
+0	243 m^2	0.5669	pig	Fabrice, Chris	1.0308	0.1398 mph	-0.4233	0.9964	546	Games and Playable Media	887	524
+2	182 m^2	0.8131	ferret	Andrew	0.5225	0.0327 mph	0.6588	-0.0183	742	Electrical Engineering	448	370
+3	481 m^2	0.7045	pig	Eriq	0.1143	0.9468 mph	0.5426	0.8225	216	Human Computer Interaction	376	114
+2	226 m^2	0.8272	reptile	Andrew	0.5333	-0.2476 mph	0.4868	0.162	601	Bioinformatics	434	764
+2	-69 m^2	0.8525	ferret	Andrew	0.7632	0.2323 mph	0.7701	0.1236	754	Natural Language Processing	352	811
+2	324 m^2	0.7475	ferret	Andrew	0.9487	0.0013 mph	0.2631	0.1861	490	Biotechnology	466	436
+1	1010 m^2	0.4096	guinea pig	Fabrice, Lise	0.3994	0.7527 mph	0.6868	0.5968	415	Computational Media	161	668
+1	820 m^2	0.2769	fish	Lise, Fabrice	-0.3884	1.0709 mph	0.5984	0.9851	856	Data Science	-235	781
+2	47 m^2	0.7717	bird	Andrew	0.6353	-0.0244 mph	0.3094	0.5233	1145	Natural Language Processing	327	270
+2	213 m^2	0.8533	bird	Andrew	0.7053	0.044 mph	0.421	0.0624	774	Bioinformatics	696	867
+0	502 m^2	0.5383	rabbit	Tony, Inan	0.5396	0.2888 mph	0.0625	0.5069	572	Computer Game Design	998	32
+2	379 m^2	0.9541	reptile	Andrew	0.4649	0.1763 mph	0.4596	0.4851	690	Natural Language Processing	407	672
+2	326 m^2	0.621	bird	Andrew	0.8616	0.0637 mph	0.4931	0.2346	264	Biotechnology	522	660
+0	414 m^2	0.6581	cat	Inan	0.8337	0.7112 mph	-0.0609	0.8306	721	Computer Game Design	1066	1152
+0	261 m^2	0.2242	rabbit	Vani	0.739	0.5057 mph	-0.1244	0.6694	830	Computer Game Design	745	278
+2	-183 m^2	0.6493	bird	Andrew	0.8004	0.2479 mph	0.3912	0.5164	477	Biotechnology	375	248
+3	802 m^2	0.495	pig	Eriq	0.6981	0.8328 mph	1.0312	0.0932	344	Computer Engineering	243	257
+1	699 m^2	0.3376	chicken	Eriq	0.0595	0.91 mph	0.7523	0.6976	503	Computational Media	-691	1008
+3	1208 m^2	0.6203	rabbit	Eriq	0.719	1.01 mph	0.6813	0.588	-76	Games and Playable Media	343	164
+1	761 m^2	0.1337	guinea pig	lISE, cHRIS	-0.0062	0.7211 mph	0.4877	0.2479	144	Applied Mathematics	-230	1045
+1	660 m^2	0.478	GUINEA PIG	Sam, Chris	0.0426	0.5984 mph	0.9302	0.878	510	Statistics	25	731
+2	21 m^2	0.8992	ferret	Andrew	0.9305	0.2502 mph	0.4017	-0.0046	455	Natural Language Processing	187	800
+2	306 m^2	0.809	dog	Andrew	1.0215	0.0053 mph	0.0326	0.4188	844	Biotechnology	451	868
+1	999 m^2	0.3293	guinea pig	Fabrice	0.1004	0.7831 mph	0.8108	0.5074	399	Computer Science	175	1027
+3	764 m^2	0.6602	pig	Reilly	0.4715	1.0449 mph	0.9017	0.6462	98	Robotics Engineering	273	232
+1	605 m^2	0.1847	fish	Michael, Lise	-0.0148	0.7952 mph	0.8465	0.932	345	Data Science	-405	744
+0	592 m^2	0.3048	rabbit	Reilly	0.8747	0.2668 mph	0.2924	0.7024	603	Computer Game Design	1188	653
+1	849 m^2	-0.021	chicken	Chris, Lise	0.0351	0.7054 mph	0.5528	0.7783	264	Technology and Information Management	483	875
+0	343 m^2	0.5446	hamster	Inan, Tony	0.8876	0.2576 mph	-0.2571	0.8217	469	Computer Game Design	457	290
+1	841 m^2	0.0494	guinea pig	Michael, Sam, Chris, Lise	0.1709	0.6944 mph	0.8122	0.9603	456	Technology and Information Management	263	968
+3	873 m^2	0.1637	pig	Eriq	0.3475	0.6742 mph	0.6309	0.2546	10	games and playable media	506	-70
+2	304 m^2	0.7351	ferret	Andrew	0.7407	-0.0849 mph	0.5987	0.0235	930	Bioinformatics	321	758
+1	720 m^2	-0.0278	chicken	Sam, Lise, Chris	0.1366	1.1021 mph	0.8286	0.7248	494	Data Science	140	551
+2	170 m^2	0.3984	ferret	Andrew	0.627	-0.3068 mph	0.467	0.1245	419	Electrical Engineering	201	659
+3	653 m^2	0.5219	pig	Reilly	0.115	0.4951 mph	0.7542	0.2479	420	Robotics Engineering	224	40
+0	648 m^2	0.5703	rat	FABRICE, CHRIS	1.2848	0.6821 mph	-0.0349	0.7007	372	Computer Game Design	665	373
+0	-46 m^2	0.261	cat	Vani	0.8973	0.3574 mph	0.3794	0.4936	411	Computer Game Design	1256	720
+3	1002 m^2	0.5569	pig	Reilly	0.057	0.7365 mph	0.792	0.3464	300	Human Computer Interaction	52	60
+1	452 m^2	-0.0908	chicken	Michael, Lise	0.0749	1.1002 mph	1.0008	1.0476	378	Applied Mathematics	130	668
+2	204 m^2	1.0265	dog	Andrew	1.0197	0.4026 mph	0.668	0.5125	784	None	827	858
+1	490 m^2	-0.2192	chicken	Sam	-0.3287	0.7786 mph	0.8863	0.9493	361	Data Science	190	788
+0	512 m^2	0.498	cat	Vani	0.758	0.0909 mph	-0.374	0.2694	335	Computer Game Design	936	747
+2	381 m^2	0.8364	dog	Andrew	0.3914	0.118 mph	0.2563	0.2296	619	Bioinformatics	667	707
+1	939 m^2	0.2082	chicken	Sam, Michael	0.3665	0.7989 mph	0.7901	0.9412	61	Technology and Information Management	-73	430
+2	156 m^2	0.7275	Ferret	Andrew	0.4271	0.3911 mph	0.1538	0.148	872	Bioinformatics	569	602
+2	31 m^2	0.5869	ferret	Andrew	0.7102	0.1289 mph	0.5123	0.31	702	Biotechnology	346	750
+2	-192 m^2	0.7254	ferret		0.5584	0.3205 mph	0.0642	0.3253	842	Biotechnology	764	697
+3	733 m^2	0.3769	pig	Eriq	0.381	1.1227 mph	0.8736	0.2938	144	Robotics Engineering	76	322
+3	517 m^2	0.9677	pig	Reilly	0.3118	0.7757 mph	0.714	0.2969	393	Bioengineering	-74	50
+3	753 m^2	0.7283	pig	Reilly	0.5153	0.5018 mph	0.9185	0.4571	133	Bioengineering	561	-85
+0	294 m^2	0.3589	rat	Tony, Inan	1.2265	0.3309 mph	-0.2169	0.8236	996	Computer Game Design	1033	571
+3	721 m^2	0.8379	pig	Eriq	-0.0456	0.5629 mph	1.2264	0.3341	85	Computer Engineering	435	255
+0	417 m^2	0.7191	rat	Vani, Inan	1.3873	0.2834 mph	0.0503	0.7207	389	Computer Game Design	967	833
+3	935 m^2	0.3214	pig	Eriq	0.2752	0.8136 mph	0.4392	0.078	94	Games and Playable Media	35	457
+3	1129 m^2	0.4378	pig	Lise, Fabrice, Michael	0.2	0.6348 mph	0.7493	0.3178	450	Human Computer Interaction	301	-186
+3	694 m^2	0.6549	chicken	Eriq	0.1313	0.4805 mph	0.533	0.3008	491	Computer Engineering	638	154
+2	335 m^2	0.4749	ferret	Andrew	?	-0.0184 mph	0.8856	0.5365	668	Bioinformatics	471	477
+3	781 m^2	0.5603	pig	Eriq	0.314	0.8419 mph	0.8715	0.5847	520	Computer Engineering	364	-346
+3	790 m^2	0.4573	pig	Eriq	0.4114	0.5712 mph	0.4757	-0.3035	154	Natural Language Processing	211	256
+2	89 m^2	0.6846	bird	Andrew	0.3034	0.1958 mph	0.4301	0.3252	422	Biotechnology	331	382
+2	60 m^2	1.0106	dog	Andrew	0.7838	0.0671 mph	0.072	0.3539	650	Electrical Engineering	483	624
+0	450 m^2	0.7151	rabbit	Vani	0.7659	0.3648 mph	-0.2646	0.6945	651	Computer Game Design	725	334
+0	214 m^2	0.8153	Rat	Vani	0.7152	0.552 mph	0.039	1.0232	860	Computer Game Design	1116	482
+3	921 m^2	0.7397	pig	Eriq	0.467	0.6497 mph	0.5497	0.4053	84	Robotics Engineering	383	-162
+0	227 m^2	0.6414		Inan, Tony	0.7503	0.3172 mph	0.0848	0.7782	237	Computer Game Design	1325	655
+3	795 m^2	0.5596	pig	Reilly	0.4227	0.5293 mph	0.8783	0.2596	110	Computer Engineering	393	267
+1	721 m^2	0.0364	fish	Lise, Fabrice	0.0947	0.6511 mph	0.7973	0.916	539	Technology and Information Management	-27	962
+3	854 m^2	0.7773	guinea pig	Eriq	0.5918	0.6405 mph	0.9067	0.2191	-62	Human Computer Interaction	-14	-186
+1	1107 m^2	0.2698	guinea pig	Chris, Michael	0.5435	0.8981 mph	0.1495	0.9586	247	Technology and Information Management	113	880
+0	-72 m^2	?	hamster	Inan	1.1327	0.4166 mph	-0.2404	0.9058	529	Computer Game Design	584	604
+1	602 m^2	0.4354	chicken	Chris, Fabrice	0.4185	0.8959 mph	0.8952	0.5469	262	Computer Science	-3	945
+0	266 m^2	0.6872	rabbit	Tony, Inan	0.4497	0.431 mph	-0.0048	0.6941	452	Computer Game Design	723	542
+1	568 m^2	0.1069	chicken	Michael, Fabrice	-0.0235	1.1776 mph	0.7749	0.4901	346	?	142	1127
+0	323 m^2	0.8303	cat	Inan	0.7948	0.5385 mph	0.4377	1.0	818	Computer Game Design	1102	253
+2	-108 m^2	0.7795	pig	Andrew	0.9867	0.1118 mph	0.8104	0.0395	672	Electrical Engineering	892	410
+2	232 m^2	1.0227	ferret	Andrew	0.7227	0.0791 mph	0.725	0.2392	766	Natural Language Processing	354	538
+1	1127 m^2	-0.0254	chicken	Sam	-0.1288	0.5659 mph	0.7408	0.6944	145	sTATISTICS	-164	492
+2	130 m^2	0.5344	dog	Andrew	0.5665	-0.4008 mph	0.2339	0.4827	964	Electrical Engineering	928	595
+2	-232 m^2	0.6616	dog	Andrew	0.5001	0.2025 mph	0.2967	-0.2806	589	Bioinformatics	487	493
+1	792 m^2	-0.059	fish	Fabrice	-0.0295	0.8018 mph	0.8005	0.9108	354	Applied Mathematics	-11	1035
+2	-115 m^2	0.6914	Dog	Andrew	0.7774	-0.1795 mph	0.2872	-0.1477	1035	Natural Language Processing	767	630
+3	1353 m^2	0.9025	pig	Reilly	0.0172	1.0073 mph	0.6114	0.11	157	Robotics Engineering	425	227
+1	651 m^2	0.2102	fish	Chris, Lise, Fabrice	?	0.3108 mph	0.3467	0.5866	548	Data Science	35	659
+2	-236 m^2	0.9889	reptile	Andrew	0.4629	0.1678 mph	0.404	0.3193	1069	Natural Language Processing	560	614
+3	577 m^2	0.5481	pig	Reilly	0.275	0.2821 mph	0.8538	0.4416	747	Bioengineering	208	74
+1	842 m^2	0.1841	chicken	Michael, Chris, Fabrice	-0.0649	0.7071 mph	0.7238	1.2068	253	Data Science	228	1366
+2	175 m^2	0.7706	reptile	Andrew	0.7726	0.2433 mph	0.5493	0.4111	942	Biotechnology	552	999
+1	948 m^2	-0.0437	CHICKEN	Chris, Michael, Lise	0.2236	1.0085 mph	1.2051	1.1355	248	Statistics	234	1133
+2	1 m^2	0.8246	reptile	Eriq	0.4673	-0.1433 mph	0.555	0.3324	537	Electrical Engineering	465	686
+0	363 m^2	0.9384	rabbit	Vani, Tony	1.1887	0.2812 mph	0.146	0.687	350	Computer Game Design	1093	546
+2	-35 m^2	0.818	reptile	Andrew	0.5995	-0.1535 mph	0.2471	0.3639	825	Biotechnology	421	713
+0	284 m^2	0.1637	rat	Tony, Vani	1.0961	0.3356 mph	0.0547	0.4863	1110	Biotechnology	1199	418
+3	708 m^2	0.798	Pig	Eriq	0.439	0.6992 mph	0.7365	0.2138	52	Robotics Engineering	41	133
+2	19 m^2	0.9844	reptile	Andrew	0.8413	0.0937 mph	0.5524	-0.0946	653	Natural Language Processing	434	586
+2	-45 m^2	0.8236	bird	Andrew	0.8542	0.0457 mph	0.2458	0.0065	562	Natural Language Processing	656	754
+1	826 m^2	0.3124	fish	Michael, Chris, Sam, Lise	-0.2894	0.7268 mph	0.9479	0.6236	606	Computational Media	-189	975
+1	886 m^2	-0.2766	guinea pig	Sam	0.0155	0.7007 mph	0.5051	0.8833	729	Statistics	-44	1016
+3	803 m^2	0.5341	pig	Eriq	-0.5311	0.7871 mph	0.6236	0.4801	306	Robotics Engineering	335	264
+1	483 m^2	0.074	chicken	Michael	0.3834	1.0321 mph	0.9549	0.771	583	Computational Media	66	789
+1	766 m^2	0.2525	chicken	Michael	0.029	0.8138 mph	0.7648	0.6274	401	Computer Science	-410	849
+1	582 m^2	0.2498	fish	Eriq	0.4185	1.1125 mph	0.662	0.739	394	Electrical Engineering	-378	921
+0	422 m^2	0.5586	cat	Inan, Vani	0.3797	0.318 mph	-0.136	0.4417	485	Computer Game Design	1215	275
+3	949 m^2	0.86	pig	Reilly	0.3244	0.7357 mph	0.9066	0.6425	48	Computer Engineering	222	325
+0	362 m^2	0.5004	rabbit	Fabrice, Lise, Chris, Sam	0.7258	0.2213 mph	0.617	0.7943	649	Computer Game Design	749	532
+3	856 m^2	0.5673	pig	Eriq	-0.1464	0.5473 mph	0.9333	0.2134	153	Bioengineering	364	122
+2	45 m^2	1.0143	reptile	Andrew	0.3449	0.065 mph	0.5386	0.1952	738	ELECTRICAL ENGINEERING	425	1192
+3	640 m^2	0.4819	pig	Eriq	0.1404	0.7045 mph	0.7362	0.0664	-119	Robotics Engineering	276	104
+3	774 m^2	0.4952	pig	Reilly	0.295	0.7467 mph	0.6896	0.8447	-16	Bioengineering	102	244
+3	623 m^2	0.719	pig	Eriq	0.4238	0.7334 mph	0.7277	0.2002	632	Bioengineering	195	258
+1	822 m^2	0.201	chicken	Michael, Sam, Chris	0.2367	0.6813 mph	0.7922	0.9527	560	Data Science	114	960
+0	251 m^2	0.7241	cat	Vani, Tony	0.9471	0.1799 mph	0.1792	0.8589	694	Computer Game Design	873	222
+0	207 m^2	0.8871	hamster	Tony, Vani	0.7372	0.3897 mph	-0.1309	0.2593	490	Computer Game Design	990	713
+3	993 m^2	0.7526	pig	Reilly	0.8313	0.9051 mph	1.0434	0.3103	739	Bioengineering	264	320
+1	554 m^2	-0.2189	fish	Sam, Lise, Fabrice	0.0624	0.6268 mph	0.2069	1.1383	-48	Applied Mathematics	371	662
+0	188 m^2	0.5673	hamster	Vani	0.6606	0.2983 mph	-0.2106	0.2656	491	Computer Game Design	967	509
+0	635 m^2	0.6896	cat	Vani, Inan	0.9778	N/A	-0.0071	0.577	936	Computer Game Design	1129	301
+2	114 m^2	0.4209	reptile	Andrew	0.7337	-0.085 mph	0.3338	0.1734	1046	Electrical Engineering	780	491
+0	126 m^2	0.3615	HAMSTER	Inan, Tony	0.9199	0.5344 mph	-0.2247	1.0542	447	Computer Game Design	1009	835
+0	640 m^2	0.4093	rat	Tony	1.1384	0.5795 mph	-0.1403	0.5779	1056	Computer Game Design	1155	752
+0	174 m^2	0.2159	rat	Vani, Inan	1.0142	0.2488 mph	0.2529	0.5649	819	Computer Game Design	910	398
+2	-163 m^2	0.7502	reptile	Andrew	0.7135	-0.1159 mph	0.1958	0.179	880	Bioinformatics	307	704
+0	545 m^2	0.5653	rabbit	Vani, Inan	0.8074	0.2937 mph	-0.1945	0.7529	632	Computer Game Design	822	211
+1	870 m^2	0.3366	chicken	Fabrice, Sam	0.0459	0.7858 mph	0.7214	0.9481	915	Technology and Information Management	88	922
+0	545 m^2	0.2447	cat	Inan	0.8422	0.246 mph	-0.3691	0.6376	986	Computer Game Design	915	447
+3	906 m^2	0.6747	pig	Reilly	0.4	0.5324 mph	1.0854	0.726	269	Robotics Engineering	351	142
+3	738 m^2	0.6378	pig	Eriq	0.508	0.8994 mph	NULL	0.548	-29	Games and Playable Media	389	273
+1	958 m^2	0.4026	chicken	Vani	0.2521	0.6799 mph	1.005	0.4613	317	Statistics	-77	1137
+3	644 m^2	0.6793	pig	Andrew	0.3838	0.5989 mph	0.7606	0.4298	105	Bioengineering	494	-23
+1	769 m^2	0.0717	chicken	Chris, Fabrice, Michael, Sam	-0.0154	0.7629 mph	0.9121	0.9558	165	Computational Media	-161	1042
+0	250 m^2	0.4986	hamster	Vani, Inan	0.7005	0.5551 mph	0.2182	0.6484	602	Computer Game Design	900	398
+0	398 m^2	0.5183	cat	Tony, Inan	0.987	0.4154 mph	-0.0222	0.6813	538	Computer Game Design	973	830
+2	236 m^2	0.7674	bird	Andrew	0.7495	0.3122 mph	0.4977	0.1222	238	Bioinformatics	317	566
+2	332 m^2	0.9872	bird	Andrew	?	0.1881 mph	0.4178	0.1876	1255	Biotechnology	395	881
+2	443 m^2	0.9932	reptile	Andrew	0.6	0.1229 mph	0.9207	0.3363	542	Natural Language Processing	498	591
+0	225 m^2	0.7618	rat	Tony	1.1582	0.2604 mph	-0.074	0.7315	557	Computer Game Design	985	158
+0	609 m^2	0.5342	rat	Vani	1.2252	0.3666 mph	-0.1313	0.5487	594	Computer Game Design	982	553
+1	753 m^2	0.0709	chicken	Lise, Michael	0.1135	0.4716 mph	0.9451	1.265	170	Applied Mathematics	-31	1291
+0	308 m^2	0.7517	rabbit	Inan	1.0201	0.4197 mph	0.2254	0.4838	654	Computer Game Design	783	437
+3	904 m^2	0.5734	pig	Reilly	-0.0359	0.6548 mph	0.9076	0.0623	-251	Biotechnology	693	206
+3	979 m^2	0.9275	pig	Eriq	0.3084	0.7606 mph	0.75	0.1599	282	Games and Playable Media	152	10
+3	924 m^2	0.6898	pig	Eriq	0.0256	0.5393 mph	0.8442	0.017	251	Computer Engineering	155	348
+3	671 m^2	0.5882	pig	Eriq	0.4592	0.6926 mph	0.6363	0.3174	464	Bioengineering	-81	-158
+3	1053 m^2	0.4053	pig	Eriq	0.1846	0.8506 mph	0.7266	0.1905	108	Robotics Engineering	576	597
+1	684 m^2	0.0395	chicken	Chris, Lise, Sam	-0.3311	0.7667 mph	0.9648	0.8311	n/a	Data Science	147	997
+3	928 m^2	0.3113	pig	Reilly	0.3676	?	0.9342	-0.0933	672	Bioengineering	217	-188
+2	204 m^2	1.0554	reptile	Andrew	0.7976	-0.0927 mph	0.4578	-0.0851	1090	Bioinformatics	451	790
+3	888 m^2	0.6717	pig	Reilly	0.2023	0.5274 mph	0.7211	0.4411	350	Bioengineering	183	165
+1	981 m^2	-0.0872	fish	Chris, Fabrice	0.1252	1.0525 mph	0.8953	0.2239	109	Statistics	139	1001
+0	314 m^2	0.6976	rat	Inan	0.8885	0.3734 mph	-0.0795	0.6745	695	Computer Game Design	1062	206
+2	116 m^2	0.755	ferret	Andrew	0.9371	0.105 mph	0.4901	0.2191	680	Bioinformatics	622	516
+2	215 m^2	0.6268	ferret	Andrew	0.0485	-0.1641 mph	0.6438	-0.1219	962	Electrical Engineering	545	285
+2	217 m^2	1.0878	ferret	Andrew	0.7232	0.4537 mph	0.7811	0.2868	726	Electrical Engineering	552	673
+1	626 m^2	0.0394	guinea pig	n/a	-0.0142	0.6317 mph	0.5538	0.6983	441	Computational Media	81	1485
+2	99 m^2	0.9214	dog	Andrew	0.6044	0.1719 mph	0.3161	0.091	1157	Bioinformatics	447	763
+3	1085 m^2	0.6583	pig	Eriq	0.4479	0.6427 mph	0.7136	0.2955	412	Computer Engineering	184	89
+2	162 m^2	1.0937	ferret	Andrew	1.1094	-0.0385 mph	0.3375	0.2091	800	Biotechnology	482	552
+0	399 m^2	0.2507	fish	Inan, Tony	0.7256	0.4506 mph	-0.0544	0.5774	647	Computer Game Design	1229	957
+3	1003 m^2	0.4092	pig	Eriq	-0.079	0.8436 mph	0.8797	0.6204	164	Human Computer Interaction	45	-53
+1	849 m^2	0.2105	fish	Fabrice	0.209	0.7596 mph	0.7372	0.6725	168	cOMPUTATIONAL mEDIA	137	747
+0	231 m^2	0.6475	cat	Tony, Vani	0.6323	0.5361 mph	0.1284	0.6281	286	Computer Game Design	1270	498
+1	647 m^2	0.2072	guinea pig	Chris, Michael, Sam, Fabrice	-0.2249	1.1275 mph	0.6402	0.7748	529	Computer Science	-274	958
+2	-106 m^2	0.5547	bird	Andrew	1.0609	0.118 mph	0.3873	0.1236	539	Computer Game Design	607	751
+1	741 m^2	0.2349	fish	Lise	0.3615	0.5745 mph	0.7264	0.9468	668	Games and Playable Media	-114	1192
+2	-2 m^2	0.8779	bird	Andrew	0.3045	0.378 mph	0.2725	-0.08	567	Bioinformatics	644	324
+1	434 m^2	0.1603	guinea pig	Lise, Sam, Fabrice, Michael	0.2937	1.322 mph	0.508	0.6089	408	Computer Science	132	983
+3	627 m^2	0.6991	pig	Eriq	0.1664	0.7905 mph	0.9155	0.4762	15	Human Computer Interaction	145	302
+0	290 m^2	0.2781	rabbit	Tony, Vani	1.2802	0.5153 mph	0.1251	0.5363	241	Computer Game Design	1176	61
+0	252 m^2	0.5561	cat	Tony	0.9114	0.3767 mph	-0.17	0.7812	358	Computer Game Design	1169	435
+3	1141 m^2	0.9565	pig	Reilly	0.0438	0.6324 mph	0.837	0.1556	22	Human Computer Interaction	269	656
+3	510 m^2	0.6781	bird	Reilly	0.244	0.6247 mph	0.8744	0.3421	320	Games and Playable Media	446	330
+1	471 m^2	0.2646	fish	Fabrice	0.3254	0.8299 mph	0.3515	0.8445	244	Statistics	-1	1188
+0	183 m^2	0.4862	rat	Tony	0.8228	0.1348 mph	0.1114	0.7612	265	Human Computer Interaction	1013	408
+3	643 m^2	0.688	pig	Reilly	0.167	0.5268 mph	0.8834	0.9268	-301	Games and Playable Media	453	83
+1	749 m^2	0.1892	fish	Fabrice, Chris, Lise, Sam	-0.0892	0.6089 mph	1.249	0.5635	475	Applied Mathematics	-146	1107
+3	1072 m^2	0.6183	pig	Eriq	-0.1423	0.7209 mph	1.091	0.3002	414	Human Computer Interaction	438	95
+2	129 m^2	0.5755	reptile	Andrew	0.8224	0.1164 mph	0.4749	0.1245	937	Natural Language Processing	392	374
+3	877 m^2	0.4296	pig	Reilly	0.7139	0.6288 mph	0.7782	0.5226	-24	Robotics Engineering	281	-216
+3	900 m^2	0.6762	pig	Eriq	0.4534	0.7126 mph	0.7652	0.2283	186	Games and Playable Media	112	92
+2	196 m^2	0.7205	reptile	Andrew	0.9779	0.2086 mph	0.7897	0.0774	404	Natural Language Processing	614	712
+3	695 m^2	0.3472	pig	Reilly	-0.0504	0.8343 mph	0.8874	0.5878	381	Bioengineering	647	576
+0	582 m^2	0.4012	rat	Inan, Vani	0.971	0.3011 mph	-0.1767	0.9179	541	Computer Game Design	1244	293
+0	334 m^2	0.1308	Cat	Tony, Vani	1.0469	0.2795 mph	-0.0773	0.4755	552	Computer Game Design	918	399
+0	379 m^2	0.3445	rat	Tony	1.206	0.5128 mph	-0.1314	0.804	177	Computer Game Design	993	433
+3	890 m^2	0.4461	pig	Reilly	0.2159	0.904 mph	None	0.4497	-142	Bioengineering	141	422
+3	589 m^2	0.6023	pig	Reilly	0.127	0.6169 mph	0.5473	0.3891	98	Bioengineering	105	-158
+0	490 m^2	0.4501	cat	Lise	0.9713	0.5121 mph	0.1556	0.7965	343	Computer Game Design	1368	302
+0	597 m^2	0.7055	reptile	Vani	0.5819	0.1771 mph	-0.4995	0.7091	327	Computer Game Design	1312	471
+2	64 m^2	0.7884	bird	Andrew	0.5388	0.1133 mph	0.3549	0.6201	1049	Bioinformatics	78	616
+0	348 m^2	0.4438	rat	Tony, Vani	0.491	0.2034 mph	-0.3274	0.2873	413	Computer Game Design	1174	608
+3	870 m^2	0.5582	pig	Eriq	0.3599	0.4776 mph	0.9623	0.0136	115	Bioengineering	304	386
+3	854 m^2	1.0447	pig	Eriq	0.5014	0.6228 mph	0.8664	0.86	286	Bioengineering	-105	471
+0	363 m^2	0.2472	Rabbit	Tony, Inan	0.7143	0.4712 mph	0.0325	1.1845	686	Computer Game Design	1055	-21
+3	668 m^2	0.4506	pig	Reilly	0.7789	0.6235 mph	0.8356	0.5469	270	Computer Engineering	-81	-4
+3	855 m^2	0.3258	pig	Eriq	0.2588	0.4845 mph	0.7044	0.3154	19	ROBOTICS ENGINEERING	83	36
+1	816 m^2	0.1751	fish	Fabrice, Sam, Chris, Michael	0.2228	0.5264 mph	0.4555	1.0645	284	Technology and Information Management	364	979
+3	661 m^2	0.9469	pig	Reilly	0.0436	0.7131 mph	0.7962	0.7846	36	Computer Engineering	411	508
+0	214 m^2	0.4994	rat	Tony	0.782	-0.2874 mph	0.0153	0.7581	352	Computer Game Design	913	65
+3	745 m^2	1.0897	pig	Eriq	0.1019	0.7672 mph	0.6828	0.4208	815	Computer Engineering	429	-107
+1	1110 m^2	0.0801	guinea pig	Michael	0.1381	0.7451 mph	0.805	0.8396	802	Computer Science	-154	1114
+0	?	0.5335	hamster	Tony	1.0069	0.0014 mph	-0.0064	0.4831	557	Computer Game Design	775	234
+2	1 m^2	0.8012	bird	Andrew	0.7582	0.3415 mph	0.5863	0.5577	899	Electrical Engineering	737	820
+3	923 m^2	0.649	pig	Eriq	0.3548	0.7546 mph	N/A	0.2469	-34	Robotics Engineering	211	100
+1	808 m^2	-0.0124	guinea pig	Michael, Sam, Lise	0.0372	0.7167 mph	0.5302	None	380	Statistics	31	726
+1	596 m^2	0.1475	chicken	Chris, Lise	-0.1347	0.5173 mph	1.1065	0.762	223	Computer Science	286	1281
+2	223 m^2	0.5483	ferret	Andrew	0.434	0.2186 mph	0.0678	0.0602	772	Natural Language Processing	853	642
+3	648 m^2	0.782	pig	Reilly	0.1753	0.7922 mph	0.476	0.3977	307	Computer Game Design	693	-30
+0	554 m^2	0.6319	cat	Tony, Vani	0.8881	0.3727 mph	0.1527	0.608	1008	Computer Game Design	1505	387
+2	200 m^2	0.7843	reptile	Andrew	N/A	0.3182 mph	0.4807	0.39	710	Bioinformatics	660	734
+0	331 m^2	0.7358	rat	Tony, Inan	0.5133	0.345 mph	0.0884	0.2112	788	Computer Game Design	1029	777
+1	691 m^2	0.3685	guinea pig	Fabrice, Sam	0.0654	0.8046 mph	0.8295	0.7816	355	Technology and Information Management	-195	1093
+1	832 m^2	-0.1339		Fabrice	0.0774	0.9193 mph	0.8167	1.1523	688	Applied Mathematics	24	978
+0	151 m^2	0.4048	cat	Tony, Vani	0.8317	0.3517 mph	None	0.1834	665	Computer Game Design	896	791
+1	813 m^2	0.4721	CHICKEN	Michael, Lise, Fabrice	-0.1223	0.8428 mph	0.7737	0.947	245	Applied Mathematics	-194	918
+1	897 m^2	0.3278	fish	Sam, Chris	0.3804	0.7517 mph	0.8498	0.6739	468	Statistics	265	705
+2	73 m^2	0.3911	FERRET	Andrew	0.9484	0.2755 mph	0.2009	-0.2668	631	Natural Language Processing	475	283
+1	513 m^2	0.1956	chicken	Fabrice, Lise, Sam, Chris	0.3365	0.6362 mph	0.7424	0.6319	503	Data Science	439	698
+0	377 m^2	0.1612	cat	Tony, Vani	0.4821	0.3628 mph	-0.035	0.8678	946	Computer Game Design	952	381
+3	672 m^2	0.9067	pig	Eriq	0.3807	0.8848 mph	0.8175	0.8852	-393	Robotics Engineering	170	-54
+3	755 m^2	0.903	pig	Eriq	0.449	0.8308 mph	0.5608	0.5752	-177	Robotics Engineering	116	-93
+3	830 m^2	0.8667	pig	Reilly	0.5447	0.5398 mph	0.4156	0.4636	219	Human Computer Interaction	192	-166
+3	903 m^2	1.0247	pig	Tony, Vani	0.2392	0.6063 mph	0.8408	0.3646	268	Computer Engineering	630	-44
+2	559 m^2	0.4728	ferret	Andrew	0.966	-0.0156 mph	0.6027	0.2718	513	Bioinformatics	501	486
+1	671 m^2	0.0122	fish	Sam, Fabrice, Michael	-0.1768	0.4639 mph	0.7472	0.6465	354	Applied Mathematics	303	603
+2	324 m^2	0.9255	reptile	Andrew	0.4313	0.008 mph	0.1532	0.1409	1156	Biotechnology	329	475
+1	804 m^2	-0.0742	fish	Sam	-0.1431	0.8579 mph	0.8161	0.5062	885	Applied Mathematics	-160	1171
+0	196 m^2	0.4327	hamster	Vani	1.0866	0.2527 mph	0.226	0.4073	866	Computer Game Design	1342	735
+3	751 m^2	0.8193	pig	Reilly	0.1377	0.6503 mph	0.9316	-0.0768	143	Robotics Engineering	265	-160
+1	431 m^2	0.096	fish	Andrew	-0.0844	0.9677 mph	0.8236	0.6445	908	Data Science	-109	531
+0	805 m^2	0.3115	hamster	Vani	1.1553	0.4136 mph	-0.2186	0.5617	419	Computer Game Design	1126	750
+3	804 m^2	None	pig	Eriq	-0.0204	0.7231 mph	0.7435	0.1324	-164	Games and Playable Media	NULL	270
+3	407 m^2	0.4858	pig	Reilly	0.2122	0.6841 mph	0.6905	0.1699	184	Bioinformatics	364	63
+3	671 m^2	0.4636	PIG	Reilly	0.8386	0.5694 mph	0.3166	0.4819	345	Bioengineering	618	-134
+3	897 m^2	0.6409	pig	Eriq	0.2698	0.94 mph	0.8275	0.3432	-251	bIOENGINEERING	487	361
+1	840 m^2	-0.0989	guinea pig	Sam, Michael, Fabrice, Chris	0.3142	0.652 mph	0.8534	0.5346	575	data science	-51	1161
+3	725 m^2	0.6922	pig	Reilly	0.1666	0.5918 mph	0.7608	0.0192	376	Bioengineering	400	227
+3	798 m^2	0.7671	pig	Eriq	0.4584	0.824 mph	0.8451	0.6792	-104	Human Computer Interaction	96	-200
+0	570 m^2	0.6425	pig		1.1312	0.0844 mph	0.5191	0.4875	605	Computer Game Design	754	298
+2	61 m^2	0.9267	bird	Andrew	0.8011	0.1625 mph	0.1708	-0.0905	872	Biotechnology	762	374
+1	940 m^2	0.0085	chicken	Sam, Chris, Michael	0.2212	0.5661 mph	0.5344	0.5998	581	Technology and Information Management	-266	1030
+2	-107 m^2	0.9594	reptile	Andrew	0.6144	-0.0018 mph	0.4115	0.1427	909	Bioinformatics	1172	616
+1	608 m^2	0.1486	chicken	Tony, Inan	0.3212	0.6078 mph	0.5693	0.5298	112	Statistics	-43	1153
+0	343 m^2	0.6916	rat	Vani, Inan	0.8647	0.6304 mph	0.1202	0.6033	659	Computer Game Design	1079	331
+0	478 m^2	0.5789	rat	Vani, Inan	0.7426	0.4007 mph	-0.1593	0.3933	844	Computer Game Design	1377	369
+1	486 m^2	0.1742	fish	Michael, Sam, Fabrice	-0.0551	0.7922 mph	0.5936	0.5953	359	Computer Game Design	-12	1152
+2	-53 m^2	0.7296	dog	Andrew	0.9891	0.0907 mph	0.4534	0.0487	977	Electrical Engineering	484	844
+1	757 m^2	0.043	fish	Chris, Sam	0.3412	0.9412 mph	0.8011	0.8317	796	Computational Media	373	1110
+1	1017 m^2	0.4694	fish	Vani	0.0953	0.8928 mph	0.646	1.1408	690	Data Science	-375	796
+2	-337 m^2	1.1658	dog	Andrew	0.384	0.0518 mph	0.3442	-0.0306	827	Electrical Engineering	558	953
+1	674 m^2	0.0909	CHICKEN	Fabrice	-0.0969	0.8741 mph	0.3955	0.9033	592	Data Science	-185	1436
+3	682 m^2	0.6136	pig	Eriq	-0.0212	1.0538 mph	0.733	0.6143	386	Bioengineering	-151	-171
+3	1109 m^2	0.45	rat	Reilly	0.3205	0.914 mph	0.866	0.0525	285	Robotics Engineering	674	10
+0	244 m^2	0.4676	rabbit	Vani	0.839	0.4583 mph	0.0634	0.6001	385	Computer Game Design	1048	829
+3	562 m^2	0.222	pig	Eriq	0.5733	0.6439 mph	0.8223	0.414	20	Bioengineering	427	200
+2	201 m^2	0.9567	cat	Andrew	0.3816	0.5363 mph	0.3906	0.2583	1117	Natural Language Processing	407	808
+2	525 m^2	0.6939	ferret	Andrew	0.5846	0.1279 mph	0.2948	-0.1067	871	Biotechnology	630	927
+3	823 m^2	0.6266	pig	Reilly	0.5475	0.6821 mph	0.9731	0.1036	-119	Computer Engineering	53	-28
+3	835 m^2	0.8572	pig	Eriq	0.0479	0.7602 mph	0.9324	0.5357	-141	Computer Engineering	627	210
+1	1071 m^2	-0.0357	fish	Sam	-0.2022	0.9755 mph	0.7664	0.9504	684	Technology and Information Management	202	1282
+2	81 m^2	0.8658	dog	Inan, Vani	0.4583	0.2525 mph	0.1672	0.3733	775	Bioinformatics	288	614
+2	41 m^2	0.9739	bird	Andrew	0.8953	-0.0552 mph	0.3655	-0.0298	943	Biotechnology	501	927
+3	722 m^2	0.5986	pig	Reilly	0.3794	0.745 mph	1.0249	0.813	109	Bioengineering	639	1
+2	n/a	1.1693	ferret	Andrew	0.6667	0.0693 mph	0.2949	0.2811	1088	Electrical Engineering	453	591
+1	656 m^2	0.0889	CHICKEN	Fabrice, Chris, Sam, Lise	0.1286	0.7639 mph	0.3447	0.7095	310	Computational Media	450	673
+1	801 m^2	0.3265	chicken	Lise	0.291	0.864 mph	0.5783	1.0951	371	Technology and Information Management	184	885
+2	220 m^2	0.9905	FERRET	Andrew	0.5993	0.017 mph	0.4766	0.261	240	Natural Language Processing	570	908
+3	799 m^2	0.8231	pig	Reilly	0.1658	0.7056 mph	0.8797	0.6925	429	cOMPUTER eNGINEERING	-60	330
+2	30 m^2	0.7561	bird	rEILLY	0.7653	0.4765 mph	0.3447	0.1009	491	Natural Language Processing	240	544
+2	186 m^2	0.6966	bird	Andrew	0.717	0.4667 mph	0.2417	-0.1292	989	Natural Language Processing	358	772
+0	319 m^2	0.8671	hamster	Tony	0.7014	0.3577 mph	-0.0068	0.6911	814	Computer Game Design	1457	856
+3	981 m^2	0.266	pig	Reilly	0.2946	0.561 mph	0.7081	0.1639	91	Bioengineering	287	374
+2	206 m^2	1.2998	ferret	Andrew	0.489	0.3406 mph	0.3962	-0.2219	828	Natural Language Processing	666	319
+1	722 m^2	0.4331	fish	Lise, Chris, Fabrice	0.2973	0.7587 mph	0.8413	0.9705	205	Technology and Information Management	-337	912
+3	848 m^2	0.8703	pig	Reilly	0.4184	0.6913 mph	0.5548	0.0874	98	Games and Playable Media	324	-78
+2	374 m^2	N/A	bird	Andrew	0.6111	0.1357 mph	0.3597	0.4756	1185	Electrical Engineering	581	580
+3	976 m^2	0.7693	pig	Reilly	0.396	0.4705 mph	0.642	0.4914	168	Games and Playable Media	-24	202
+0	450 m^2	0.2347	cat	Inan	0.8217	0.4157 mph	-0.0141	0.673	382	Computer Game Design	1311	406
+3	623 m^2	0.4034	pig	Eriq	0.1594	0.4718 mph	0.8492	0.5431	207	Robotics Engineering	42	4
+3	913 m^2	0.3191	pig	Eriq	0.1349	0.3084 mph	0.8718	0.2442	268	Games and Playable Media	475	75
+3	886 m^2	0.8982	rat	Eriq	0.4753	0.8522 mph	1.0696	-0.0318	374	Computer Engineering	343	65
+1	895 m^2	0.0026	fish	Sam	0.0521	0.5036 mph	1.0137	0.8167	325	Computer Science	-266	899
+1	536 m^2	0.2455	guinea pig	Lise	0.1099	0.9066 mph	0.9875	1.1161	301	Computational Media	-192	868
+1	635 m^2	0.1319	fish	?	0.4413	0.5634 mph	0.8998	0.9872	-19	Computational Media	-133	795
+3	671 m^2	0.3582	chicken	Reilly	0.338	0.5008 mph	0.5603	0.1668	165	Human Computer Interaction	477	4
+2	-142 m^2	0.7574	dog	Andrew	0.8572	0.1409 mph	0.55	0.3028	1002	Natural Language Processing	691	613
+0	367 m^2	0.5303	cat	Tony, Vani	0.9489	0.2548 mph	0.199	0.9112	700	Computer Game Design	1192	642
+3	888 m^2	0.8448	NULL	Reilly	0.2427	0.738 mph	0.726	0.7129	120	Games and Playable Media	358	-232
+2	-66 m^2	1.0715	ferret	?	0.7334	0.0135 mph	0.7077	0.2036	784	Electrical Engineering	740	792
+1	614 m^2	0.4236	chicken	Chris, Michael, Fabrice, Lise	0.131	0.9412 mph	0.544	0.7471	535	Computer Science	-12	926
+3	1054 m^2	0.4085	pig	Reilly	-0.0021	0.8575 mph	0.4525	0.6886	-13	Computer Engineering	334	471
+3	721 m^2	0.2317	pig	Eriq	0.0639	0.6665 mph	1.166	0.4705	-70	Human Computer Interaction	606	124
+1	735 m^2	0.6484	guinea pig	CHRIS	0.2987	0.7744 mph	0.8865	0.5532	548	technology and information management	118	877
+2	351 m^2	1.0475	bird	Andrew	0.4037	-0.0673 mph	0.013	0.4969	729	Data Science	1028	514
+0	302 m^2	0.3121	hamster	Tony	0.7751	0.4505 mph	0.1031	0.3702	551	Computer Game Design	1018	108
+2	238 m^2	0.6745	dog	Andrew	0.5751	0.0463 mph	0.4566	0.1286	1021	Biotechnology	663	902
+0	332 m^2	0.5761	guinea pig	Inan	1.0141	0.7189 mph	-0.3937	0.6282	395	Computer Game Design	1066	842
+1	996 m^2	0.1578	chicken	sam	0.0828	0.7238 mph	1.1405	0.5931	280	Computational Media	276	1078
+1	749 m^2	0.0725	guinea pig	Michael	0.1906	0.7052 mph	1.0903	0.5719	278	Statistics	49	816
+2	130 m^2	0.8971	reptile	Andrew	0.7492	0.3861 mph	0.5673	0.1747	805	Biotechnology	472	970
+1	550 m^2	0.2494	fish	Michael, Fabrice, Chris, Sam	0.3399	1.1362 mph	?	0.4487	81	Computer Science	-70	844
+0	278 m^2	0.31	rat	Inan	0.9363	0.353 mph	-0.0911	0.62	785	Computer Game Design	927	547
+2	21 m^2	0.6449	reptile	Andrew	0.4447	0.2001 mph	0.3934	0.0792	609	Natural Language Processing	447	487
+0	406 m^2	0.3312	cat	Tony, Vani	1.3998	0.6477 mph	-0.1166	1.1307	685	Computer Game Design	1129	490
+3	766 m^2	0.2776	pig	Fabrice, Michael, Sam, Lise	0.2446	0.5529 mph	0.6324	0.3919	284	Games and Playable Media	65	141
+3	820 m^2	0.286	pig	Reilly	0.0537	0.8612 mph	0.9438	0.156	528	Robotics Engineering	411	209
+0	537 m^2	0.5704	hamster	Vani, Tony	0.7073	0.4327 mph	0.0938	0.8144	665	Computer Game Design	951	616
+2	54 m^2	0.8227	dog	Andrew	0.564	-0.0058 mph	0.6618	0.2647	841	Bioinformatics	423	745
+2	30 m^2	0.8019	dog	Andrew	1.049	0.006 mph	0.1495	0.4206	598	Bioinformatics	403	772
+2	156 m^2	0.8331	reptile	Andrew	0.9353	0.1854 mph	0.4294	0.3145	689	Electrical Engineering	302	503
+1	639 m^2	0.09	guinea pig	Lise, Fabrice, Sam	0.3275	0.625 mph	0.3643	0.8046	576	Applied Mathematics	96	1088
+1	699 m^2	0.1899	guinea pig	Michael, Sam, Chris, Lise	-0.1974	0.5186 mph	0.9792	0.7397	281	Data Science	241	903
+2	69 m^2	0.666	ferret	Andrew	0.6826	0.1725 mph	0.7	0.215	703	Biotechnology	684	604
+2	223 m^2	1.2752	bird	Andrew	0.752	-0.0035 mph	0.37	0.125	430	Biotechnology	631	778
+0	366 m^2	0.4333	rat	Tony, Inan	0.8268	0.1853 mph	-0.0799	0.9993	115	Computer Game Design	745	482
+3	789 m^2	0.836	pig	Eriq	0.8586	0.422 mph	0.7473	0.4333	386	Games and Playable Media	107	-170
+3	389 m^2	0.3697	pig	Tony	0.1184	0.4066 mph	0.8128	0.1235	279	Games and Playable Media	98	242
+0	432 m^2	0.3849	hamster	Inan, Vani	0.5818	0.4932 mph	-0.0652	0.4804	388	Computer Game Design	653	626
+3	608 m^2	0.8925	pig	Reilly	0.3025	0.4467 mph	0.6328	0.4661	238	Human Computer Interaction	415	-3
+0	472 m^2	0.3688	rat	Vani	0.9219	0.455 mph	-0.165	0.8334	598	Computer Game Design	989	308
+2	247 m^2	0.684	dog	ANDREW	0.6222	0.0088 mph	0.3203	-0.0415	643	Bioinformatics	834	731
+3	737 m^2	0.615	pig	Reilly	0.1325	0.6207 mph	0.6818	0.0523	150	Bioengineering	570	438
+2	61 m^2	0.5876	Dog	Andrew	0.5035	0.4132 mph	0.2535	-0.2741	702	Electrical Engineering	819	461
+1	971 m^2	0.2998	guinea pig	Michael, Lise, Chris, Fabrice	-0.0239	0.5848 mph	0.8097	0.9232	737	Computer Science	-132	873
+0	138 m^2	0.2725	rat	Inan, Vani	0.7787	0.4699 mph	-0.2684	0.7335	260	Computer Game Design	1195	506
+0	661 m^2	0.7852	hamster	Inan	0.8376	0.4264 mph	0.0952	0.5713	527	Computer Game Design	747	406
+1	657 m^2	0.0897	fish	Michael, Sam	-0.2006	0.6448 mph	0.8708	1.0643	51	Data Science	173	774
+2	310 m^2	1.1659	bird	Andrew	0.6882	0.1807 mph	0.1424	0.3751		Electrical Engineering	532	438
+2	21 m^2	0.5861	dog	Andrew	0.9628	0.076 mph	0.6693	0.2263	582	Computer Game Design	288	649
+2	380 m^2	0.7241	bird	Andrew	0.4819	0.1999 mph	0.3035	0.3183	566	Bioengineering	664	119
+2	179 m^2	0.9921	bird	Andrew	0.56	0.3002 mph	0.2659	0.789	1088	Biotechnology	862	777
+3	894 m^2	1.0778	pig	Eriq	-0.1799	0.45 mph	0.4261	0.6123	267	Robotics Engineering	207	164
+1	706 m^2	0.2388	chicken	Fabrice, Lise	-0.2204	0.6492 mph	0.7557	1.2092	127	Statistics	222	841
+2	356 m^2	0.6275	bird	Andrew	0.6536	0.4872 mph	0.4773	0.4307	683	Bioinformatics		847
+1	794 m^2	0.196	guinea pig	Fabrice, Lise, Sam	-0.3896	0.878 mph	0.6463	0.7838	335	Statistics	134	513
+0	438 m^2	0.5476	rat	Inan, Tony	0.7727	0.4041 mph	0.1193	1.2905	351	Computer Game Design	984	372
+3	965 m^2	0.4982	pig	Reilly	0.28	0.7407 mph	1.3152	0.4103	-100	Robotics Engineering	171	-362
+3	913 m^2	0.6191	pig	Eriq	0.3408	0.5183 mph	1.1194	0.1591	149	Human Computer Interaction	-48	51
+2	67 m^2	1.1116	NULL	Andrew	0.6791	?	0.6503	0.2887	900	Bioinformatics	349	588
+0	281 m^2	0.6605	rat	Vani, Tony	1.0427	0.0977 mph	-0.134	0.8188	512	Computer Game Design	1017	866
+3	869 m^2	0.6849	pig	Eriq	0.0536	0.5384 mph	0.9665	0.6208	387	Bioengineering	609	163
+1	808 m^2	0.1683	chicken	Fabrice	0.1191	1.0016 mph	0.4997	0.4728	455	technology and information management	75	312
+2	NULL	1.0721	ferret	Andrew	0.5744	-0.1233 mph	0.3132	0.1777	786	Biotechnology	659	595
+2	105 m^2	0.8723	dog	Andrew	1.1004	0.2055 mph	0.7526	0.3438	742	Natural Language Processing	430	850
+2	177 m^2	0.8472	ferret	Andrew	0.6616	-0.0607 mph	0.3212	0.136	672	Bioinformatics	431	499
+2	260 m^2	0.8981	dog	Andrew	0.8286	0.1461 mph	0.1894	0.4022	597	Natural Language Processing	697	278
+2	-254 m^2	0.6702	reptile	Andrew	1.0241	0.1235 mph	0.5454	0.6301	NULL	Biotechnology	429	797
+0	2 m^2	0.4674	rat	Inan, Vani	1.095	0.2564 mph	0.4477	0.4171	888	Computer Game Design	1032	464
+1	648 m^2	0.3471	guinea pig	Fabrice, Chris	-0.3535	0.6842 mph	0.6923	0.9105	379	Computer Science	84	813
+0	500 m^2	0.7531	cat	Vani	0.8389	0.4247 mph	0.0281	0.2171	462	Computer Game Design	738	603
+2	140 m^2	0.9965	ferret	aNDREW	0.5973	0.0975 mph	0.8319	0.498	466	Electrical Engineering	707	366
+3	610 m^2	0.717	pig	Eriq	0.008	0.9543 mph	1.124	0.1811	279	Human Computer Interaction	556	147
+2	-192 m^2	0.5924	reptile	Andrew	0.5898	0.092 mph	0.151	0.3302	703	Natural Language Processing	817	511
+1	581 m^2	0.1122	guinea pig	Michael, Chris, Lise	0.3741	1.0196 mph	0.8272	0.7487	655	Statistics	507	946
+3	738 m^2	0.7094	pig	Reilly	0.5325	0.8122 mph	0.8754	-0.1404	353	GAMES AND PLAYABLE MEDIA	494	477
+3	811 m^2	0.9113	pig	Eriq	0.1692	0.3305 mph	0.6534	0.5411	480	Games and Playable Media	124	83
+2	153 m^2	1.0446	reptile	Andrew	0.8971	-0.0422 mph	0.4687	0.0932	330	Natural Language Processing	541	740
+2	-117 m^2	0.8797	dog	Andrew	0.8288	0.0934 mph	0.4595	0.5343	697	Biotechnology	817	856
+2	174 m^2	0.922	reptile	Andrew	0.8272	0.4189 mph	0.4847	0.3862	1051	Bioinformatics	866	786
+3	512 m^2	0.8231	pig	Reilly	0.1453	0.9099 mph	0.8607	0.2809	-55	Computer Engineering	40	-211
+1	812 m^2	-0.0255	guinea pig		0.343	0.4985 mph	0.762	1.005	317	Data Science	182	959
+3	654 m^2	0.6227	pig	Eriq	0.6368	0.5734 mph	0.7341	0.2316	67	Robotics Engineering	378	-168
+3	N/A	0.1506	pig	Reilly	0.6322	0.8512 mph	0.7359	0.7289	93	Computer Engineering	55	-54
+1	713 m^2	0.338	chicken	mICHAEL, fABRICE, sAM	-0.0035	1.3879 mph	0.7985	0.337	334	Computational Media	214	892
+1	277 m^2	0.2133	chicken	Fabrice, Chris	0.0599	0.9212 mph	0.6273	0.3933	253	Statistics	-323	945
+0	52 m^2	0.7624	hamster	Inan	0.9316	0.3426 mph	-0.2311	1.0209	433	Computer Game Design	1305	345
+2	251 m^2	0.914	dog	Andrew	0.4552	0.0469 mph	0.1931	0.1444	955	Natural Language Processing	486	1005
+2	-28 m^2	0.8213	dog	Andrew	0.645	0.1127 mph	0.3863	0.1897	649	Biotechnology	996	420
+0	422 m^2	0.2507	rabbit	Tony	0.4272	0.7501 mph	0.0424		817	Computer Game Design	1323	384
+3	692 m^2	0.2472	pig	Reilly	-0.1376	0.5077 mph	0.4406	0.7008	222	Bioengineering	N/A	-2
+3	1042 m^2	0.4672	pig	Eriq	0.27	0.5561 mph	0.7523	0.2232	-220	Bioengineering	446	-54
+3	903 m^2	0.8572	pig	Reilly	0.3553	0.5755 mph	0.6163	0.4149	110	Games and Playable Media	365	-452
+0	632 m^2	0.7885	hamster	Vani, Tony	0.8584	0.4358 mph	0.3098	0.7092	428	Computer Game Design	1250	203
+3	795 m^2	0.8039	PIG	eriq	0.1003	0.5529 mph	0.6073	-0.1406	243	Games and Playable Media	97	-317
+2	152 m^2	0.7097	ferret	Andrew	0.4551	-0.1122 mph	0.1817	0.0442	n/a	Electrical Engineering	74	973
+1	700 m^2	0.463	guinea pig	Michael, Sam	-0.0634	0.9033 mph	0.7686	0.8853	495	Data Science	183	870
+3	798 m^2	0.729	pig	Reilly	0.1928	0.6306 mph	0.7789	0.6019	47	Bioengineering	488	-5
+1	725 m^2	-0.0732	guinea pig	Chris, Lise, Sam	0.0682	1.0329 mph	0.7909	0.7936	471	Technology and Information Management	-2	797
+1	781 m^2	0.2807	fish	Fabrice, Sam	0.4085	0.8035 mph	0.6376	0.8223	731	Data Science	-151	1059
+2	138 m^2	0.8721	bird	Andrew	0.5983	0.0317 mph	0.4835	0.4754	767	Bioinformatics	810	795
+2	89 m^2	0.7329	dog	Andrew	0.6786	0.1404 mph	0.2657	0.1291	626	Bioinformatics	262	522
+0	450 m^2	0.4687	hamster	Vani	0.6787	0.5163 mph	0.0762	0.6442	526	Computer Game Design	1149	262
+0	242 m^2	0.6595	hamster	Inan	1.1065	0.6649 mph	0.1259	1.0446	616	Computer Game Design	686	351
+2	341 m^2	1.0085	dog	Andrew	0.2931	0.2837 mph	0.6416	0.3153	777	Biotechnology	829	560
+0	324 m^2	0.8657	rat	Tony	0.707	0.2574 mph	0.1257	0.9493	762	Computer Game Design	983	275
+2	218 m^2	1.0499	bird	Andrew	0.8937	-0.0921 mph	0.3511	0.4629	807	Biotechnology	486	520
+0	657 m^2	0.4528	rat	Vani	0.8961	0.299 mph	-0.1628	0.1644	703	Computer Game Design	1326	1068
+1	700 m^2	0.0209	guinea pig	Fabrice, Sam, Chris	-0.4744	0.7776 mph	0.698	0.44	221	Computational Media	-270	452
+2	109 m^2	0.811	ferret	Andrew	1.0464	0.1412 mph	0.3591	0.4165	409	Bioinformatics	892	617
+2	-132 m^2	0.4441	ferret	Andrew	0.6277	0.337 mph	0.7835	0.3362	744	Electrical Engineering	1129	518
+3	759 m^2	0.5774	pig	Eriq	0.5063	0.7102 mph	1.0855	0.153	244	Human Computer Interaction	16	450
+1	810 m^2	0.1298	guinea pig	SAM, MICHAEL	-0.0902	0.6868 mph	0.8127	0.7031	390	Data Science	-45	1002
+0	578 m^2	0.323	cat	Inan	0.4862	0.3454 mph	-0.0972	0.3648	545	cOMPUTER gAME dESIGN	1037	481
+1	834 m^2	0.3122	chicken	Chris, Michael, Lise, Fabrice	0.0977	0.6991 mph	1.3264	0.8049	146	Data Science	442	986
+1	?	0.2344	guinea pig	Michael, Lise	0.3269	1.2783 mph	1.2004	0.7941	56	Data Science	146	726
+1	666 m^2	0.1976	chicken	Fabrice, Sam, Michael	0.2042	0.838 mph	0.6554	0.2165	744	Computational Media	93	631
+2	161 m^2	0.736	reptile	Andrew	0.651	0.5546 mph	0.191	0.5045	1109	Electrical Engineering	412	860
+3	742 m^2	0.6572	chicken	Eriq	0.2887	0.9893 mph	0.9434	0.4058	-28	Human Computer Interaction	99	-38
+2	-86 m^2	0.6398	reptile	Andrew	0.5046	0.196 mph	0.4948	-0.111	749	Bioinformatics	620	525
+3	885 m^2	0.8807	pig	Eriq	-0.177	0.8659 mph	0.7835	0.7137	392	Bioengineering	76	229
+3	1065 m^2	0.5907	pig	Eriq	-0.0491	0.5042 mph	0.9227	0.3563	-433	Robotics Engineering	-130	308
+2	-98 m^2	1.0645	dog	Andrew	0.7183	-0.0552 mph	0.4121	-0.0492	500	Electrical Engineering	221	573
+0	155 m^2	0.2939	rat	Inan	0.9779	0.1631 mph	0.1045	0.673	783	Computer Game Design	1391	200
+2	-24 m^2	0.939	reptile	Andrew	0.4146	0.0901 mph	0.5627	0.0706	354	Bioinformatics	1013	787
+0	98 m^2	0.555	rat	Vani, Inan	0.5544	0.2739 mph	-0.1884	0.4133	890	Computer Game Design	1394	588
+3	691 m^2	0.4168	pig	Reilly	0.1283	0.7473 mph	0.545	0.1703	-355	Games and Playable Media	185	-103
+3	942 m^2	0.8947	hamster	Reilly	0.3802	0.9073 mph	0.3095	0.1439	610	Games and Playable Media	573	124
+2	138 m^2	0.8959	dog	Andrew	0.6349	0.3365 mph	0.3953	-0.2072	809	BIOENGINEERING	350	603
+2	189 m^2	0.6479	dog	Andrew	0.5461	0.3434 mph	0.3165	0.0088	635	Bioinformatics	725	386
+0	299 m^2	0.3448	rat	Inan, Tony	1.0193	0.3016 mph	-0.0011	1.1386	408	Computer Game Design	1203	393
+1	573 m^2	0.3836	guinea pig	Chris, Fabrice, Sam	-0.0698	0.8161 mph	0.7163	0.785	469	Applied Mathematics	1	874
+2	281 m^2	0.6105	reptile	Andrew	1.0325	0.0017 mph	-0.0588	0.1929	1005	Bioinformatics	564	668
+2	464 m^2	0.973	bird	Andrew	0.541	0.4399 mph	0.6793	0.42	659	electrical engineering	576	498
+2	-65 m^2	1.2344	ferret	Andrew	0.8354	0.1851 mph	0.4506	0.3072	507	Natural Language Processing	632	817
+3	625 m^2	0.6204	pig	Eriq	0.2825	0.7297 mph	0.8569	0.5894	-51	Bioengineering	352	112
+0	356 m^2	0.5469	cat	Vani, Tony	0.8444	0.275 mph	-0.1171	0.4058	935	Computer Game Design	857	444
+3	782 m^2	0.7946	pig	Eriq	0.2588	0.673 mph	0.752	0.163	-107	Bioengineering	654	362
+2	190 m^2	0.8365	bird	Andrew	0.7138	-0.1081 mph	0.3436	0.0181	1126	Electrical Engineering	444	871
+0	242 m^2	0.4438	hamster	Inan	0.9652	0.3337 mph	-0.0131	1.0971	412	Computer Game Design	1155	960
+0	413 m^2	0.5967	rat	Vani	0.6615	0.5056 mph	0.0187	0.5239	380	Computer Game Design	718	631
+3	728 m^2	0.619	pig	Eriq	-0.1142	0.8015 mph	0.9737	0.0134	-50	games and playable media	36	449
+1	860 m^2	0.391	chicken	FABRICE, CHRIS, LISE, MICHAEL	-0.0227	0.8633 mph	1.0303	0.7391	714	Technology and Information Management	526	537
+3	893 m^2	0.4736	pig	Eriq	0.2885	0.8992 mph	0.8078	0.1681	-179	Human Computer Interaction	271	9
+2	255 m^2	0.637	dog	Andrew	0.6402	-0.1061 mph	0.5012	-0.0061	719	Electrical Engineering	676	1015
+0	430 m^2	0.3178	hamster	Inan, Tony	NULL	0.6412 mph	0.3037	0.5345	680	Computer Game Design	682	385
+3	1073 m^2	0.6512	pig	Eriq	0.3372	0.5285 mph	0.5122	0.2485	352	Computer Engineering	595	490
+1	727 m^2	0.1908	fish	Fabrice, Sam, Chris, Lise	0.1867	1.0707 mph	1.0689	0.568	574	Statistics	-42	838
+1	759 m^2	0.2638	chicken	Michael	0.3589	0.8839 mph	0.7855	0.5623	574	Applied Mathematics	-33	1013
+0	41 m^2	0.1528	None	Vani, Tony	1.2369	0.5397 mph	0.324	0.7862	832	Computer Game Design	957	547
+1	833 m^2	0.2907	chicken	Sam	-0.0835	0.8963 mph	0.8061	0.8112	416	Computational Media	-229	828
+2	-31 m^2	0.7421	bird	Andrew	0.4071	-0.0468 mph	0.215	-0.0717	852	NATURAL LANGUAGE PROCESSING	518	306
+3	918 m^2	0.2484	pig	Eriq	0.5559	0.7396 mph	0.745	0.063	152	COMPUTER ENGINEERING	457	456
+1	471 m^2	0.3081	chicken	Sam, Chris, Fabrice, Lise	-0.082	0.8698 mph	0.4774	0.9599	22	cOMPUTER gAME dESIGN	-94	911
+2	590 m^2	0.7082	reptile	Andrew	0.5157	0.266 mph	0.4955	0.0864	738	Natural Language Processing	579	363
+3	780 m^2	0.7872	pig	Eriq	0.4914	0.4742 mph	0.8054	0.4494	26	Computational Media	534	-19
+0	124 m^2	0.2808	hamster	Inan	0.9076	0.3241 mph	0.2591	0.6689	437	Computer Game Design	900	602
+0	818 m^2	0.433	fish	Vani, Tony	1.2744	0.6641 mph	-0.0545	1.065	N/A	Computer Game Design	1009	947
+1	1060 m^2	0.043	guinea pig	Sam	0.0788	1.0094 mph	0.71	0.9906	351	DATA SCIENCE	360	402
+2	209 m^2	1.0792	Reptile	Andrew	0.3745	0.0295 mph	0.1643	0.302	962	Bioinformatics	593	447
+1	964 m^2	-0.0534	fish	Sam, Fabrice, Chris, Michael	0.1006	1.0111 mph	0.7361	0.8856	229	Technology and Information Management	-28	1231
+2	213 m^2	0.8015	reptile	Andrew	1.0299	0.1912 mph	0.3315	0.3478	957	Natural Language Processing	579	744
+3	639 m^2	0.963	bird	rEILLY	0.1696	0.4378 mph	1.061	0.4151	656	Computer Engineering	59	72
+2	98 m^2	0.8934	bird	Andrew	0.8904	-0.0309 mph	n/a	-0.2455	1075	Electrical Engineering	982	1120
+3	1211 m^2	0.7938	pig	eRIQ	0.1516	0.6578 mph	0.8651	0.2412	105	Games and Playable Media	258	290
+1	492 m^2	-0.0232	fish	?	0.0839	0.9201 mph	0.995	0.2882	-20	Statistics	-193	1010
+0	332 m^2	0.3096	rabbit	INAN	0.874	0.32 mph	-0.2709	0.7781	157	Computer Game Design	1059	273
+3	807 m^2	0.3694	dog	Eriq	0.4228	0.356 mph	0.2773	0.691	14	Computer Engineering	261	61
+2	-75 m^2	0.876	ferret	Andrew	0.4769	0.0947 mph	0.3642	-0.0289	848	Electrical Engineering	640	913
+3	727 m^2	0.6507	pig	Reilly	0.1318		1.1889	0.3965	721	Bioengineering	556	109
+1	1039 m^2	0.0591	guinea pig	Sam, Chris, Michael	0.5867	0.7055 mph	0.4969	0.4892	163	Computer Science	-86	632
+2	52 m^2	0.5314	reptile	Andrew	0.7455	-0.0915 mph	0.2106	-0.191	1341	Biotechnology	520	472
+3	915 m^2	0.8948	pig	Tony, Vani	0.186	0.4635 mph	0.88	0.404	464	Robotics Engineering	44	265
+2	-145 m^2	0.9984	reptile	Andrew	0.3483	-0.0217 mph	0.3596	0.1715	281	Electrical Engineering	281	293
+2	8 m^2	1.1003	reptile	Andrew	0.845	-0.0797 mph	0.4968	0.3778	933	Electrical Engineering	574	304
+0	520 m^2	0.1614	cat	Inan	0.9887	0.1038 mph	0.1926	0.7898	508	Computer Game Design	999	610
+0	438 m^2	0.5187	rabbit	Tony, Inan	0.815	0.5843 mph	-0.039	0.8598	400	Computer Game Design	886	264
+2	-7 m^2	1.1337	reptile	n/a	0.7011	0.4433 mph	0.4411	0.0956	1119	Electrical Engineering	758	363
+3	886 m^2	0.6502	pig	Reilly	0.4693	0.6781 mph	0.741	0.1639	118	Human Computer Interaction	461	41
+1	895 m^2	0.3131	NULL	Chris, Sam, Michael, Lise	-0.0348	1.0999 mph	0.7581	0.6091	489	Computational Media	-97	937
+3	817 m^2	0.5833	pig	Reilly	0.0339	0.6429 mph	0.2999	0.2379	83	Robotics Engineering	406	-487
+1	639 m^2	-0.0233	guinea pig	Lise, Michael, Fabrice, Chris	0.1497	0.7053 mph	0.7031	0.9425	325	Technology and Information Management	86	783
+3	817 m^2	0.6115	pig	Eriq	0.4203	0.9585 mph	0.6519	0.2331	48	Robotics Engineering	179	-60
+0	186 m^2	0.3802	hamster	Vani, Inan	0.516	0.4981 mph	0.0566	0.7101	484	Computer Game Design	1162	610
+0	138 m^2	0.2955	hamster	Vani	0.9804	-0.0357 mph	-0.3133	0.6842	391	cOMPUTER gAME dESIGN	1181	763
+2	171 m^2	0.9764	reptile	Andrew	1.0185	-0.1049 mph	0.0414	-0.0277	303	bioinformatics	914	554
+0	305 m^2	0.538	rabbit	Inan	0.6147	0.2285 mph	-0.0118	0.5838	732	Robotics Engineering	670	653
+1	579 m^2	0.4233	chicken	Lise, Michael, Fabrice, Sam	0.2437	0.7191 mph	0.8031	0.6689	451	Computer Science	247	1313
+0	495 m^2	0.1258	hamster	Vani	0.8137	0.3842 mph	0.1573	0.79	580	Computer Game Design	950	83
+1	981 m^2	0.2244	fish	Fabrice, Chris, Michael, Lise	0.2928	1.1118 mph	n/a	0.7688	163	Computer Science	-143	1170
+1	791 m^2	-0.0205	guinea pig	Lise, Michael, Chris, Sam	-0.0016	0.714 mph	0.7046	0.9584	310	Data Science	n/a	1168
+3	721 m^2	0.5512	Pig	Reilly	0.1052	0.8024 mph	0.6128	0.618	199	Computer Game Design	530	36
+1	673 m^2	0.4497	GUINEA PIG	Lise	-0.29	1.0639 mph	0.8166	0.6173	638	Computational Media	-150	1147
+3	477 m^2	0.395	pig	Eriq	0.1854	0.6731 mph	0.7209	0.0403	250	Robotics Engineering	-13	192
+1	1148 m^2	-0.0324	guinea pig	Vani	0.0478	0.768 mph	0.6261	0.6312	884	Technology and Information Management	-12	1188
